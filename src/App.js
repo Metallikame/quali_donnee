@@ -3,7 +3,7 @@ import NantesMap from './component/NantesMap';
 
 function App() {
   return (
-      <div>
+      <div className='min-h-screen'>
         <h1>Carte centrée sur Nantes</h1>
         <NantesMap />
       </div>
