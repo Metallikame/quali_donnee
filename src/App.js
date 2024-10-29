@@ -3,14 +3,13 @@ import NantesMap from './component/NantesMap';
 
 function App() {
   return (
-      <div className='min-h-screen'>
+      <div className='flex flex-col min-h-screen'>
         <h1>Carte centrée sur Nantes</h1>
-        <NantesMap />
+        <div className='flex flex-grow'>
+          <NantesMap />
+        </div>
       </div>
   );
 }
 
 export default App;
-
-
-

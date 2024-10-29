@@ -57,7 +57,7 @@ const NantesMap = () => {
     if (loading) return <p>Chargement...</p>;
 
     return (
-        <MapContainer center={center} zoom={zoomLevel} style={{ height: "500px", width: "100%" }}>
+        <MapContainer center={center} zoom={zoomLevel} className='w-full h-auto'>
             <TileLayer
                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
