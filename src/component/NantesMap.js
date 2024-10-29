@@ -18,19 +18,41 @@ const NantesMap = () => {
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        const apiUrl = 'https://data.nantesmetropole.fr/api/explore/v2.1/catalog/datasets/244400404_tan-arrets/records'
-        axios.get(apiUrl)
-            .then(response => {
-                setData(response.data);
-                setLoading(false);
-            })
-            .catch(error => {
-                console.error('Une erreur s\'est produite', error);
-                setLoading(false);
-            });
-    }, []);
+        const fetchData = async () => {
+            let allData = [];
+            const limit = 100;
+            let offset = 0;
+            let hasMoreData = true;
+            let maxData = null;
 
-    const points = data ? data['results'] : null;
+            while (hasMoreData) {
+                try {
+                    const response = await axios.get(
+                        `https://data.nantesmetropole.fr/api/explore/v2.1/catalog/datasets/244400404_tan-arrets/records?limit=${limit}&offset=${offset}`
+                    );
+
+                    if (!maxData) {
+                        maxData = response.data['total_count'];
+                    }
+
+                    const newData = response.data['results'].map(record => record);
+                    allData = [...allData, ...newData];
+
+                    offset += limit;
+                    if (allData.length >= maxData) hasMoreData = false;
+
+                } catch (error) {
+                    console.error('Une erreur s\'est produite', error);
+                    hasMoreData = false;
+                }
+            }
+
+            setData(allData);
+            setLoading(false);
+        };
+
+        fetchData();
+    }, []);
 
     if (loading) return <p>Chargement...</p>;
 
@@ -41,7 +63,7 @@ const NantesMap = () => {
                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
             />
 
-            {points.map((point, index) => (
+            {data.map((point, index) => (
                 <Marker key={index} position={[point.stop_coordinates.lat, point.stop_coordinates.lon]} icon={icon}>
                     <Popup>{point.stop_name}</Popup>
                 </Marker>
