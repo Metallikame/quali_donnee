@@ -30,12 +30,7 @@ const NantesMap = () => {
             });
     }, []);
 
-    const points = [
-        {lat: 47.21393466, lng: -1.7230407, text: 'Audubon'},
-        {lat: 47.20917361, lng: -1.5500512, text: 'Aimé'},
-    ];
-
-
+    const points = data ? data['results'] : null;
 
     if (loading) return <p>Chargement...</p>;
 
@@ -47,8 +42,8 @@ const NantesMap = () => {
             />
 
             {points.map((point, index) => (
-                <Marker key={index} position={[point.lat, point.lng]} icon={icon}>
-                    <Popup>{point.text}</Popup>
+                <Marker key={index} position={[point.stop_coordinates.lat, point.stop_coordinates.lon]} icon={icon}>
+                    <Popup>{point.stop_name}</Popup>
                 </Marker>
             ))}
         </MapContainer>
