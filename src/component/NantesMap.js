@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet';
+import { MapContainer, Marker, Popup, TileLayer, Polyline } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
 
@@ -15,16 +15,13 @@ const NantesMap = () => {
     const zoomLevel = 13;
     const [stops, setStops] = useState([]);
     const [trips, setTrips] = useState([]);
+    const [shapes, setShapes] = useState([]);
+    const [routes, setRoutes] = useState([]);
 
     useEffect(() => {
         // Charger stops.json
         fetch('/stops.json')
-            .then((response) => {
-                if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
-                }
-                return response.json();
-            })
+            .then((response) => response.json())
             .then((data) => setStops(data))
             .catch((error) => console.error("Erreur de chargement des données : ", error));
 
@@ -32,7 +29,40 @@ const NantesMap = () => {
         fetch('/trips.json')
             .then((response) => response.json())
             .then((data) => setTrips(data));
+
+        fetch('/shapes.json')
+            .then((response) => response.json())
+            .then((data) => setShapes(data))
+            .catch((error) => console.error("Erreur de chargement des données de shape : ", error));
+
+        // Charger routes.json
+        fetch('/routes.json')
+            .then((response) => response.json())
+            .then((data) => setRoutes(data))
+            .catch((error) => console.error("Erreur de chargement des données de route : ", error));
     }, []);
+
+    // Associer chaque route_id à sa couleur depuis routes.json
+    const routeColors = routes.reduce((acc, route) => {
+        acc[route.route_id] = `#${route.route_color}`; // Ajouter '#' pour le format hexadécimal
+        return acc;
+    }, {});
+
+    // Associer chaque shape_id à une couleur via trips.json
+    const shapeColors = trips.reduce((acc, trip) => {
+        const color = routeColors[trip.route_id] || '#000000'; // Utilise la couleur associée ou noir par défaut
+        acc[trip.shape_id] = color;
+        return acc;
+    }, {});
+
+    // Groupement des shapes par shape_id
+    const groupedShapes = shapes.reduce((acc, shape) => {
+        const { shape_id, shape_pt_lat, shape_pt_lon } = shape;
+        if (!acc[shape_id]) acc[shape_id] = [];
+        acc[shape_id].push([shape_pt_lat, shape_pt_lon]);
+        return acc;
+    }, {});
+
 
     return (
         <MapContainer center={center} zoom={zoomLevel} className='w-full h-auto'>
@@ -41,11 +71,24 @@ const NantesMap = () => {
                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
             />
 
-            {stops.map((stops, index) => (
-                <Marker key={index} position={[stops.stop_lat, stops.stop_lon]} icon={icon}>
-                    <Popup>{stops.stop_name}</Popup>
+            {stops.map((stop, index) => (
+                <Marker key={index} position={[stop.stop_lat, stop.stop_lon]} icon={icon}>
+                    <Popup>{stop.stop_name}</Popup>
                 </Marker>
             ))}
+
+            {Object.entries(groupedShapes).map(([shapeId, coordinates]) => {
+                // Récupérer la couleur associée au shape_id via shapeColors
+                const color = shapeColors[shapeId] || '#000000'; // Couleur par défaut si aucune n'est trouvée
+
+                return (
+                    <Polyline
+                        key={shapeId}
+                        positions={coordinates}
+                        pathOptions={{ color }}
+                    />
+                );
+            })}
         </MapContainer>
     );
 };
