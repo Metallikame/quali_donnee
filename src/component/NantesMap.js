@@ -23,12 +23,13 @@ const NantesMap = () => {
         fetch('/stops.json')
             .then((response) => response.json())
             .then((data) => setStops(data))
-            .catch((error) => console.error("Erreur de chargement des données : ", error));
+            .catch((error) => console.error("Erreur de chargement des données des arrêts: ", error));
 
         // Charger trips.json
         fetch('/trips.json')
             .then((response) => response.json())
-            .then((data) => setTrips(data));
+            .then((data) => setTrips(data))
+            .catch((error) => console.error("Erreur de chargement des données des trajets: ", error));
 
         fetch('/shapes.json')
             .then((response) => response.json())
