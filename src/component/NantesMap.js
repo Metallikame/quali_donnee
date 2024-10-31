@@ -44,13 +44,13 @@ const NantesMap = () => {
 
     // Associer chaque route_id à sa couleur depuis routes.json
     const routeColors = routes.reduce((acc, route) => {
-        acc[route.route_id] = `#${route.route_color}`; // Ajouter '#' pour le format hexadécimal
+        acc[route.route_id] = `#${route.route_color}`;
         return acc;
     }, {});
 
     // Associer chaque shape_id à une couleur via trips.json
     const shapeColors = trips.reduce((acc, trip) => {
-        const color = routeColors[trip.route_id] || '#000000'; // Utilise la couleur associée ou noir par défaut
+        const color = routeColors[trip.route_id] || '#000000'; // couleur associée ou noir par défaut
         acc[trip.shape_id] = color;
         return acc;
     }, {});
@@ -79,7 +79,7 @@ const NantesMap = () => {
 
             {Object.entries(groupedShapes).map(([shapeId, coordinates]) => {
                 // Récupérer la couleur associée au shape_id via shapeColors
-                const color = shapeColors[shapeId] || '#000000'; // Couleur par défaut si aucune n'est trouvée
+                const color = shapeColors[shapeId] || '#000000';
 
                 return (
                     <Polyline
