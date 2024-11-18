@@ -17,7 +17,8 @@ const NantesMap = () => {
     const [trips, setTrips] = useState([]);
     const [shapes, setShapes] = useState([]);
     const [routes, setRoutes] = useState([]);
-    const [stopRoutes, setStopRoutes] = useState({}); // Associe stop_id à une liste de route_short_name
+    const [stopRoutes, setStopRoutes] = useState({});
+    const [filter, setFilter] = useState(''); // État pour le filtre
 
     useEffect(() => {
         // Charger les fichiers JSON
@@ -108,46 +109,69 @@ const NantesMap = () => {
         return acc;
     }, {});
 
+    // Fonction pour gérer les changements du filtre
+    const handleFilterChange = (e) => {
+        setFilter(e.target.value);
+    };
+
+    // Filtrer les arrêts en fonction du filtre (par nom)
+    const filteredStops = stops.filter((stop) =>
+        stop.stop_name.toLowerCase().includes(filter.toLowerCase())
+    );
+
     return (
-        <MapContainer center={center} zoom={zoomLevel} className="w-full h-auto">
-            <TileLayer
-                url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-                attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-            />
+        <>
+            {/* Champ de Recherche */}
+            <div className="filter-container">
+                <label htmlFor="filter">Filtrer par nom d'arrêt :</label>
+                <input
+                    id="filter"
+                    type="text"
+                    value={filter}
+                    onChange={handleFilterChange}
+                    placeholder="Rechercher un arrêt"
+                />
+            </div>
+            <MapContainer center={center} zoom={zoomLevel} className="w-full h-auto">
+                <TileLayer
+                    url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+                    attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                />
 
-            {stops.map((stop) => (
-                <Marker
-                    key={stop.stop_id}
-                    position={[stop.stop_lat, stop.stop_lon]}
-                    icon={icon}
-                >
-                    <Popup>
-                        <div>
-                            <h3>{stop.stop_name}</h3>
-                            <p>
-                                Lignes :{' '}
-                                {stopRoutes[stop.stop_id]
-                                    ? stopRoutes[stop.stop_id].join(', ')
-                                    : 'Aucune route'}
-                            </p>
-                        </div>
-                    </Popup>
-                </Marker>
-            ))}
+                {filteredStops.map((stop) => (
+                    <Marker
+                        key={stop.stop_id}
+                        position={[stop.stop_lat, stop.stop_lon]}
+                        icon={icon}
+                    >
+                        <Popup>
+                            <div>
+                                <h3>{stop.stop_name}</h3>
+                                <p>
+                                    Lignes :{' '}
+                                    {stopRoutes[stop.stop_id]
+                                        ? stopRoutes[stop.stop_id].join(', ')
+                                        : 'Aucune route'}
+                                </p>
+                            </div>
+                        </Popup>
+                    </Marker>
+                ))}
 
-            {Object.entries(groupedShapes).map(([shapeId, points]) => {
-                const color = shapeColors[shapeId] || '#000000'; // Couleur par défaut
-                const sortedPoints = points.sort((a, b) => a.sequence - b.sequence); // Trier par sequence
+                {Object.entries(groupedShapes).map(([shapeId, points]) => {
+                    const color = shapeColors[shapeId] || '#000000'; // Couleur par défaut
+                    const sortedPoints = points.sort((a, b) => a.sequence - b.sequence); // Trier par sequence
 
-                return (
-                    <Polyline
-                        key={shapeId}
-                        positions={sortedPoints.map((p) => [p.lat, p.lon])}
-                        pathOptions={{ color }}
-                    />
-                );
-            })}
-        </MapContainer>
+                    return (
+                        <Polyline
+                            key={shapeId}
+                            positions={sortedPoints.map((p) => [p.lat, p.lon])}
+                            pathOptions={{ color }}
+                        />
+                    );
+                })}
+            </MapContainer>
+        </>
     );
 };
 
