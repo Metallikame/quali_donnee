@@ -17,30 +17,62 @@ const NantesMap = () => {
     const [trips, setTrips] = useState([]);
     const [shapes, setShapes] = useState([]);
     const [routes, setRoutes] = useState([]);
+    const [stopRoutes, setStopRoutes] = useState({}); // Associe stop_id à une liste de route_short_name
 
     useEffect(() => {
-        // Charger stops.json
-        fetch('/stops.json')
-            .then((response) => response.json())
-            .then((data) => setStops(data))
-            .catch((error) => console.error("Erreur de chargement des données des arrêts: ", error));
+        // Charger les fichiers JSON
+        Promise.all([
+            fetch('/stops.json').then((res) => res.json()),
+            fetch('/trips.json').then((res) => res.json()),
+            fetch('/shapes.json').then((res) => res.json()),
+            fetch('/routes.json').then((res) => res.json()),
+        ])
+            .then(([stopsData, tripsData, shapesData, routesData]) => {
+                setStops(stopsData);
+                setTrips(tripsData);
+                setShapes(shapesData);
+                setRoutes(routesData);
 
-        // Charger trips.json
-        fetch('/trips.json')
-            .then((response) => response.json())
-            .then((data) => setTrips(data))
-            .catch((error) => console.error("Erreur de chargement des données des trajets: ", error));
+                // Construire la relation route_id → route_short_name
+                const routeIdToShortName = routesData.reduce((acc, route) => {
+                    acc[route.route_id] = route.route_short_name;
+                    return acc;
+                }, {});
 
-        fetch('/shapes.json')
-            .then((response) => response.json())
-            .then((data) => setShapes(data))
-            .catch((error) => console.error("Erreur de chargement des données de shape : ", error));
+                // Construire la relation stop_id → shape_id
+                const stopToShapes = shapesData.reduce((acc, shape) => {
+                    if (!acc[shape.stop_id]) {
+                        acc[shape.stop_id] = new Set();
+                    }
+                    acc[shape.stop_id].add(shape.shape_id);
+                    return acc;
+                }, {});
 
-        // Charger routes.json
-        fetch('/routes.json')
-            .then((response) => response.json())
-            .then((data) => setRoutes(data))
-            .catch((error) => console.error("Erreur de chargement des données de route : ", error));
+                // Construire la relation shape_id → route_id
+                const shapeToRoutes = tripsData.reduce((acc, trip) => {
+                    acc[trip.shape_id] = trip.route_id;
+                    return acc;
+                }, {});
+
+                // Construire la relation stop_id → route_short_name[]
+                const stopToRouteShortNames = Object.entries(stopToShapes).reduce((acc, [stop_id, shapeIds]) => {
+                    const routeShortNames = new Set();
+                    shapeIds.forEach((shape_id) => {
+                        const routeId = shapeToRoutes[shape_id];
+                        if (routeId) {
+                            const shortName = routeIdToShortName[routeId];
+                            if (shortName) {
+                                routeShortNames.add(shortName);
+                            }
+                        }
+                    });
+                    acc[stop_id] = Array.from(routeShortNames);
+                    return acc;
+                }, {});
+
+                setStopRoutes(stopToRouteShortNames);
+            })
+            .catch((error) => console.error('Erreur lors du chargement des fichiers JSON :', error));
     }, []);
 
     // Associer chaque route_id à sa couleur depuis routes.json
@@ -49,43 +81,68 @@ const NantesMap = () => {
         return acc;
     }, {});
 
-    // Associer chaque shape_id à une couleur via trips.json
+    // Associer chaque shape_id à sa couleur via trips.json
     const shapeColors = trips.reduce((acc, trip) => {
-        const color = routeColors[trip.route_id] || '#000000'; // couleur associée ou noir par défaut
+        const color = routeColors[trip.route_id] || '#000000'; // Noir par défaut
         acc[trip.shape_id] = color;
         return acc;
     }, {});
 
-    // Groupement des shapes par shape_id
+    // Groupement des shapes par shape_id avec coordonnées des stops
     const groupedShapes = shapes.reduce((acc, shape) => {
-        const { shape_id, shape_pt_lat, shape_pt_lon } = shape;
-        if (!acc[shape_id]) acc[shape_id] = [];
-        acc[shape_id].push([shape_pt_lat, shape_pt_lon]);
+        const { shape_id, shape_pt_sequence, stop_id } = shape;
+        if (!acc[shape_id]) {
+            acc[shape_id] = [];
+        }
+        // Associer les coordonnées de stop_id depuis stops.json
+        const stop = stops.find((s) => s.stop_id === stop_id);
+        if (stop) {
+            acc[shape_id].push({
+                lat: stop.stop_lat,
+                lon: stop.stop_lon,
+                sequence: shape_pt_sequence,
+                stop_name: stop.stop_name,
+                stop_id: stop_id,
+            });
+        }
         return acc;
     }, {});
 
-
     return (
-        <MapContainer center={center} zoom={zoomLevel} className='w-full h-auto'>
+        <MapContainer center={center} zoom={zoomLevel} className="w-full h-auto">
             <TileLayer
                 url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
             />
 
-            {stops.map((stop, index) => (
-                <Marker key={index} position={[stop.stop_lat, stop.stop_lon]} icon={icon}>
-                    <Popup>{stop.stop_name}</Popup>
+            {stops.map((stop) => (
+                <Marker
+                    key={stop.stop_id}
+                    position={[stop.stop_lat, stop.stop_lon]}
+                    icon={icon}
+                >
+                    <Popup>
+                        <div>
+                            <h3>{stop.stop_name}</h3>
+                            <p>
+                                Lignes :{' '}
+                                {stopRoutes[stop.stop_id]
+                                    ? stopRoutes[stop.stop_id].join(', ')
+                                    : 'Aucune route'}
+                            </p>
+                        </div>
+                    </Popup>
                 </Marker>
             ))}
 
-            {Object.entries(groupedShapes).map(([shapeId, coordinates]) => {
-                // Récupérer la couleur associée au shape_id via shapeColors
-                const color = shapeColors[shapeId] || '#000000';
+            {Object.entries(groupedShapes).map(([shapeId, points]) => {
+                const color = shapeColors[shapeId] || '#000000'; // Couleur par défaut
+                const sortedPoints = points.sort((a, b) => a.sequence - b.sequence); // Trier par sequence
 
                 return (
                     <Polyline
                         key={shapeId}
-                        positions={coordinates}
+                        positions={sortedPoints.map((p) => [p.lat, p.lon])}
                         pathOptions={{ color }}
                     />
                 );
