@@ -1,0 +1,6788 @@
+[
+    {
+        "stop_id": "ABCH",
+        "stop_name": "Abbé Chérel",
+        "stop_lat": 47.21004362,
+        "stop_lon": -1.65163899
+    },
+    {
+        "stop_id": "ABDU",
+        "stop_name": "Abel Durand",
+        "stop_lat": 47.22005849,
+        "stop_lon": -1.60325298
+    },
+    {
+        "stop_id": "ABOL",
+        "stop_name": "Adrienne Bolland",
+        "stop_lat": 47.26794667,
+        "stop_lon": -1.47660122
+    },
+    {
+        "stop_id": "ACHA",
+        "stop_name": "Angle Chaillou",
+        "stop_lat": 47.26971087,
+        "stop_lon": -1.57189622
+    },
+    {
+        "stop_id": "ADBO",
+        "stop_name": "Audubon",
+        "stop_lat": 47.21393466,
+        "stop_lon": -1.7230407
+    },
+    {
+        "stop_id": "ADEL",
+        "stop_name": "Aimé Delrue",
+        "stop_lat": 47.2089869,
+        "stop_lon": -1.55013941
+    },
+    {
+        "stop_id": "ADPI",
+        "stop_name": "Avenue des Pins",
+        "stop_lat": 47.2532589,
+        "stop_lon": -1.59659981
+    },
+    {
+        "stop_id": "AECL",
+        "stop_name": "Aéroclub",
+        "stop_lat": 47.15938736,
+        "stop_lon": -1.59803572
+    },
+    {
+        "stop_id": "AEPO",
+        "stop_name": "D2A - Aéroport",
+        "stop_lat": 47.15686225,
+        "stop_lon": -1.59741579
+    },
+    {
+        "stop_id": "AESP",
+        "stop_name": "Aérospatiale",
+        "stop_lat": 47.16134225,
+        "stop_lon": -1.58704692
+    },
+    {
+        "stop_id": "AFRA",
+        "stop_name": "Anatole France",
+        "stop_lat": 47.22367057,
+        "stop_lon": -1.57162985
+    },
+    {
+        "stop_id": "AGBE",
+        "stop_name": "L'Angebert",
+        "stop_lat": 47.14056117,
+        "stop_lon": -1.45575443
+    },
+    {
+        "stop_id": "AGDR",
+        "stop_name": "Angebardière",
+        "stop_lat": 47.16942145,
+        "stop_lon": -1.50521068
+    },
+    {
+        "stop_id": "AGVI",
+        "stop_name": "Angevinière",
+        "stop_lat": 47.24597226,
+        "stop_lon": -1.611047
+    },
+    {
+        "stop_id": "AIBU",
+        "stop_name": "Airbus",
+        "stop_lat": 47.15798334,
+        "stop_lon": -1.59127862
+    },
+    {
+        "stop_id": "AIGU",
+        "stop_name": "Aiguillon",
+        "stop_lat": 47.25448411,
+        "stop_lon": -1.49660446
+    },
+    {
+        "stop_id": "ALCH",
+        "stop_name": "Champ de l'Alouette",
+        "stop_lat": 47.28291888,
+        "stop_lon": -1.5801618
+    },
+    {
+        "stop_id": "ALDE",
+        "stop_name": "Allende",
+        "stop_lat": 47.17527311,
+        "stop_lon": -1.62312916
+    },
+    {
+        "stop_id": "ALNE",
+        "stop_name": "Aulne",
+        "stop_lat": 47.27628919,
+        "stop_lon": -1.63841208
+    },
+    {
+        "stop_id": "AMCA",
+        "stop_name": "Armoricaine",
+        "stop_lat": 47.25826258,
+        "stop_lon": -1.64752203
+    },
+    {
+        "stop_id": "AMER",
+        "stop_name": "Américains",
+        "stop_lat": 47.23607974,
+        "stop_lon": -1.56826271
+    },
+    {
+        "stop_id": "AMPE",
+        "stop_name": "Ampère",
+        "stop_lat": 47.26072504,
+        "stop_lon": -1.55319084
+    },
+    {
+        "stop_id": "ANGE",
+        "stop_name": "Les Anges",
+        "stop_lat": 47.27515795,
+        "stop_lon": -1.63710377
+    },
+    {
+        "stop_id": "ANTO",
+        "stop_name": "Antons",
+        "stop_lat": 47.25783878,
+        "stop_lon": -1.62331809
+    },
+    {
+        "stop_id": "APAV",
+        "stop_name": "Apave",
+        "stop_lat": 47.22537146,
+        "stop_lon": -1.64749042
+    },
+    {
+        "stop_id": "APER",
+        "stop_name": "Ampère",
+        "stop_lat": 47.30219818,
+        "stop_lon": -1.50783344
+    },
+    {
+        "stop_id": "APRE",
+        "stop_name": "Ambroise Paré",
+        "stop_lat": 47.22908815,
+        "stop_lon": -1.60856584
+    },
+    {
+        "stop_id": "AQUI",
+        "stop_name": "Aquitaine",
+        "stop_lat": 47.20988552,
+        "stop_lon": -1.6149736
+    },
+    {
+        "stop_id": "ARAG",
+        "stop_name": "Arago",
+        "stop_lat": 47.3035053,
+        "stop_lon": -1.50484787
+    },
+    {
+        "stop_id": "ARBO",
+        "stop_name": "Arbois",
+        "stop_lat": 47.25838461,
+        "stop_lon": -1.58210153
+    },
+    {
+        "stop_id": "ARCA",
+        "stop_name": "Arcades",
+        "stop_lat": 47.21182995,
+        "stop_lon": -1.65277809
+    },
+    {
+        "stop_id": "ARGO",
+        "stop_name": "Argonautes",
+        "stop_lat": 47.30241995,
+        "stop_lon": -1.48191405
+    },
+    {
+        "stop_id": "ARMO",
+        "stop_name": "Armorique",
+        "stop_lat": 47.27152266,
+        "stop_lon": -1.44536593
+    },
+    {
+        "stop_id": "AROR",
+        "stop_name": "Armor",
+        "stop_lat": 47.2310405,
+        "stop_lon": -1.63182524
+    },
+    {
+        "stop_id": "ATAR",
+        "stop_name": "Antarès",
+        "stop_lat": 47.28166503,
+        "stop_lon": -1.45965683
+    },
+    {
+        "stop_id": "AUCP",
+        "stop_name": "La Chapelle Aulnay",
+        "stop_lat": 47.30836323,
+        "stop_lon": -1.5433592
+    },
+    {
+        "stop_id": "AUFR",
+        "stop_name": "L'Aufrère",
+        "stop_lat": 47.16734102,
+        "stop_lon": -1.52513142
+    },
+    {
+        "stop_id": "AUGE",
+        "stop_name": "Augé",
+        "stop_lat": 47.19498076,
+        "stop_lon": -1.51740323
+    },
+    {
+        "stop_id": "AURR",
+        "stop_name": "Aurore",
+        "stop_lat": 47.26488128,
+        "stop_lon": -1.58093056
+    },
+    {
+        "stop_id": "AVEN",
+        "stop_name": "Aveneaux",
+        "stop_lat": 47.23391561,
+        "stop_lon": -1.62972968
+    },
+    {
+        "stop_id": "BAGA",
+        "stop_name": "Bagatelle",
+        "stop_lat": 47.24353474,
+        "stop_lon": -1.61993625
+    },
+    {
+        "stop_id": "BAIR",
+        "stop_name": "Bel Air",
+        "stop_lat": 47.22575662,
+        "stop_lon": -1.55968206
+    },
+    {
+        "stop_id": "BALI",
+        "stop_name": "Balinière",
+        "stop_lat": 47.1860509,
+        "stop_lon": -1.55402157
+    },
+    {
+        "stop_id": "BANS",
+        "stop_name": "Bois des Anses",
+        "stop_lat": 47.24664486,
+        "stop_lon": -1.49490373
+    },
+    {
+        "stop_id": "BARR",
+        "stop_name": "La Barre",
+        "stop_lat": 47.3087951,
+        "stop_lon": -1.38151453
+    },
+    {
+        "stop_id": "BAST",
+        "stop_name": "Bastille",
+        "stop_lat": 47.1790127,
+        "stop_lon": -1.59695756
+    },
+    {
+        "stop_id": "BATI",
+        "stop_name": "Batignolles",
+        "stop_lat": 47.25556045,
+        "stop_lon": -1.53003021
+    },
+    {
+        "stop_id": "BAUG",
+        "stop_name": "Baugerie",
+        "stop_lat": 47.20379388,
+        "stop_lon": -1.52027534
+    },
+    {
+        "stop_id": "BAVO",
+        "stop_name": "Basse Orévière",
+        "stop_lat": 47.22038027,
+        "stop_lon": -1.65886933
+    },
+    {
+        "stop_id": "BBNI",
+        "stop_name": "Babinière",
+        "stop_lat": 47.25929789,
+        "stop_lon": -1.54625658
+    },
+    {
+        "stop_id": "BBON",
+        "stop_name": "Boisbonne",
+        "stop_lat": 47.28686061,
+        "stop_lon": -1.50834861
+    },
+    {
+        "stop_id": "BBRE",
+        "stop_name": "Barbinière",
+        "stop_lat": 47.15984337,
+        "stop_lon": -1.48162038
+    },
+    {
+        "stop_id": "BCES",
+        "stop_name": "Bois Cesbron",
+        "stop_lat": 47.26096955,
+        "stop_lon": -1.62431608
+    },
+    {
+        "stop_id": "BCGA",
+        "stop_name": "Bd Charles Gautier",
+        "stop_lat": 47.22282517,
+        "stop_lon": -1.60702642
+    },
+    {
+        "stop_id": "BCHE",
+        "stop_name": "Basse Chênaie",
+        "stop_lat": 47.24117824,
+        "stop_lon": -1.50918217
+    },
+    {
+        "stop_id": "BCNY",
+        "stop_name": "Bas-Chantenay",
+        "stop_lat": 47.19827246,
+        "stop_lon": -1.58919017
+    },
+    {
+        "stop_id": "BCOI",
+        "stop_name": "Branchoire",
+        "stop_lat": 47.21806578,
+        "stop_lon": -1.60339574
+    },
+    {
+        "stop_id": "BCTT",
+        "stop_name": "Blanchet",
+        "stop_lat": 47.17133674,
+        "stop_lon": -1.54317866
+    },
+    {
+        "stop_id": "BDAN",
+        "stop_name": "Bd des Anglais",
+        "stop_lat": 47.22672232,
+        "stop_lon": -1.5829485
+    },
+    {
+        "stop_id": "BDEL",
+        "stop_name": "Baudelaire",
+        "stop_lat": 47.23393631,
+        "stop_lon": -1.59256577
+    },
+    {
+        "stop_id": "BDIN",
+        "stop_name": "Bodinières",
+        "stop_lat": 47.20990294,
+        "stop_lon": -1.64192506
+    },
+    {
+        "stop_id": "BDLA",
+        "stop_name": "Bout des Landes",
+        "stop_lat": 47.26742549,
+        "stop_lon": -1.58228805
+    },
+    {
+        "stop_id": "BDNN",
+        "stop_name": "Bourdonnais",
+        "stop_lat": 47.20641639,
+        "stop_lon": -1.57950634
+    },
+    {
+        "stop_id": "BDOU",
+        "stop_name": "Bd de Doulon",
+        "stop_lat": 47.22432181,
+        "stop_lon": -1.52018349
+    },
+    {
+        "stop_id": "BDPA",
+        "stop_name": "Bout des Pavés",
+        "stop_lat": 47.25281077,
+        "stop_lon": -1.57620064
+    },
+    {
+        "stop_id": "BDRI",
+        "stop_name": "Bourderies",
+        "stop_lat": 47.2066332,
+        "stop_lon": -1.59590977
+    },
+    {
+        "stop_id": "BDSP",
+        "stop_name": "Bd des Sports",
+        "stop_lat": 47.16564624,
+        "stop_lon": -1.46885999
+    },
+    {
+        "stop_id": "BEDR",
+        "stop_name": "Bel Endroit",
+        "stop_lat": 47.1547097,
+        "stop_lon": -1.63398011
+    },
+    {
+        "stop_id": "BEET",
+        "stop_name": "Bel Être",
+        "stop_lat": 47.1794579,
+        "stop_lon": -1.56759648
+    },
+    {
+        "stop_id": "BEGE",
+        "stop_name": "Beauger",
+        "stop_lat": 47.23426481,
+        "stop_lon": -1.55307927
+    },
+    {
+        "stop_id": "BEHI",
+        "stop_name": "Behinière",
+        "stop_lat": 47.19701789,
+        "stop_lon": -1.79093353
+    },
+    {
+        "stop_id": "BEIL",
+        "stop_name": "Beillevaire",
+        "stop_lat": 47.24938735,
+        "stop_lon": -1.60726607
+    },
+    {
+        "stop_id": "DPBL",
+        "stop_name": "Bêle",
+        "stop_lat": 47.26475076,
+        "stop_lon": -1.51049581
+    },
+    {
+        "stop_id": "BEMZ",
+        "stop_name": "Belges - Montbazon",
+        "stop_lat": 47.23439888,
+        "stop_lon": -1.54008782
+    },
+    {
+        "stop_id": "BENA",
+        "stop_name": "Beaulieu",
+        "stop_lat": 47.20393339,
+        "stop_lon": -1.53713804
+    },
+    {
+        "stop_id": "BEOC",
+        "stop_name": "Belloc",
+        "stop_lat": 47.2030526,
+        "stop_lon": -1.61471617
+    },
+    {
+        "stop_id": "BESS",
+        "stop_name": "Bessonneau",
+        "stop_lat": 47.21462131,
+        "stop_lon": -1.71345944
+    },
+    {
+        "stop_id": "BETO",
+        "stop_name": "Belle Etoile",
+        "stop_lat": 47.28068352,
+        "stop_lon": -1.45206222
+    },
+    {
+        "stop_id": "BEVA",
+        "stop_name": "Beauvaiserie",
+        "stop_lat": 47.13622454,
+        "stop_lon": -1.65440339
+    },
+    {
+        "stop_id": "BGAR",
+        "stop_name": "Bonne Garde",
+        "stop_lat": 47.19677941,
+        "stop_lon": -1.53126859
+    },
+    {
+        "stop_id": "BGCY",
+        "stop_name": "Beaugency",
+        "stop_lat": 47.20381536,
+        "stop_lon": -1.49018924
+    },
+    {
+        "stop_id": "BGLA",
+        "stop_name": "Basse-Goulaine",
+        "stop_lat": 47.21039161,
+        "stop_lon": -1.46603522
+    },
+    {
+        "stop_id": "BGNN",
+        "stop_name": "Bourgonnière",
+        "stop_lat": 47.20664821,
+        "stop_lon": -1.65545291
+    },
+    {
+        "stop_id": "BGOG",
+        "stop_name": "Bourgogne",
+        "stop_lat": 47.24663549,
+        "stop_lon": -1.58916721
+    },
+    {
+        "stop_id": "BGRI",
+        "stop_name": "Bougrière",
+        "stop_lat": 47.25508877,
+        "stop_lon": -1.47174619
+    },
+    {
+        "stop_id": "BGSH",
+        "stop_name": "Bergerie",
+        "stop_lat": 47.2379151,
+        "stop_lon": -1.62825286
+    },
+    {
+        "stop_id": "BGTT",
+        "stop_name": "Bergeronnettes",
+        "stop_lat": 47.23928085,
+        "stop_lon": -1.60035784
+    },
+    {
+        "stop_id": "BGUT",
+        "stop_name": "Louis Breguet",
+        "stop_lat": 47.27201167,
+        "stop_lon": -1.46599732
+    },
+    {
+        "stop_id": "BGVI",
+        "stop_name": "Bougainville",
+        "stop_lat": 47.198978,
+        "stop_lon": -1.58357404
+    },
+    {
+        "stop_id": "BHAR",
+        "stop_name": "Bois Hardy",
+        "stop_lat": 47.19828491,
+        "stop_lon": -1.60054396
+    },
+    {
+        "stop_id": "BHLR",
+        "stop_name": "Basse Hillière",
+        "stop_lat": 47.28667516,
+        "stop_lon": -1.42687789
+    },
+    {
+        "stop_id": "BIAN",
+        "stop_name": "Aristide Briand",
+        "stop_lat": 47.29642182,
+        "stop_lon": -1.4949896
+    },
+    {
+        "stop_id": "BIEE",
+        "stop_name": "Belle Île",
+        "stop_lat": 47.22289203,
+        "stop_lon": -1.73054707
+    },
+    {
+        "stop_id": "BIGN",
+        "stop_name": "Bignons",
+        "stop_lat": 47.19979898,
+        "stop_lon": -1.49350957
+    },
+    {
+        "stop_id": "BILE",
+        "stop_name": "Basse Île",
+        "stop_lat": 47.19568871,
+        "stop_lon": -1.56324647
+    },
+    {
+        "stop_id": "BIND",
+        "stop_name": "Basse-Indre",
+        "stop_lat": 47.19770693,
+        "stop_lon": -1.67305608
+    },
+    {
+        "stop_id": "BIOT",
+        "stop_name": "Bigeottière",
+        "stop_lat": 47.25587549,
+        "stop_lon": -1.61927002
+    },
+    {
+        "stop_id": "BISS",
+        "stop_name": "Bossis",
+        "stop_lat": 47.21248221,
+        "stop_lon": -1.71219766
+    },
+    {
+        "stop_id": "BJLI",
+        "stop_name": "Bois Jaulin",
+        "stop_lat": 47.1775634,
+        "stop_lon": -1.636786
+    },
+    {
+        "stop_id": "BJOI",
+        "stop_name": "Beaujoire",
+        "stop_lat": 47.25884933,
+        "stop_lon": -1.5249301
+    },
+    {
+        "stop_id": "BLCH",
+        "stop_name": "Blancho",
+        "stop_lat": 47.2131701,
+        "stop_lon": -1.7349835
+    },
+    {
+        "stop_id": "BLDR",
+        "stop_name": "Boulodrome",
+        "stop_lat": 47.25834064,
+        "stop_lon": -1.51423074
+    },
+    {
+        "stop_id": "BLEM",
+        "stop_name": "Belem",
+        "stop_lat": 47.26561338,
+        "stop_lon": -1.45301035
+    },
+    {
+        "stop_id": "BLGO",
+        "stop_name": "Berligout",
+        "stop_lat": 47.21577076,
+        "stop_lon": -1.67839838
+    },
+    {
+        "stop_id": "BLL9",
+        "stop_name": "Bellestre",
+        "stop_lat": 47.1484134,
+        "stop_lon": -1.69436142
+    },
+    {
+        "stop_id": "BLLE",
+        "stop_name": "Bellestre",
+        "stop_lat": 47.14789342,
+        "stop_lon": -1.69400805
+    },
+    {
+        "stop_id": "BLNO",
+        "stop_name": "Bois de La Noé",
+        "stop_lat": 47.14175942,
+        "stop_lon": -1.6714364
+    },
+    {
+        "stop_id": "BLOR",
+        "stop_name": "Blordière",
+        "stop_lat": 47.17994075,
+        "stop_lon": -1.53381289
+    },
+    {
+        "stop_id": "BLSL",
+        "stop_name": "Bellevue",
+        "stop_lat": 47.23532809,
+        "stop_lon": -1.47369243
+    },
+    {
+        "stop_id": "BLUA",
+        "stop_name": "Bélouga",
+        "stop_lat": 47.16581426,
+        "stop_lon": -1.58339671
+    },
+    {
+        "stop_id": "BLVU",
+        "stop_name": "Mendès France - Bellevue",
+        "stop_lat": 47.20889327,
+        "stop_lon": -1.61131174
+    },
+    {
+        "stop_id": "BLZZ",
+        "stop_name": "Berlioz",
+        "stop_lat": 47.23950397,
+        "stop_lon": -1.57158884
+    },
+    {
+        "stop_id": "BNCH",
+        "stop_name": "Blanchetière",
+        "stop_lat": 47.28986488,
+        "stop_lon": -1.55588163
+    },
+    {
+        "stop_id": "BNDA",
+        "stop_name": "Brindais",
+        "stop_lat": 47.13893567,
+        "stop_lon": -1.71820118
+    },
+    {
+        "stop_id": "BNET",
+        "stop_name": "Bignonnet",
+        "stop_lat": 47.17553878,
+        "stop_lon": -1.4652057
+    },
+    {
+        "stop_id": "BNGL",
+        "stop_name": "Bénoni Goullin",
+        "stop_lat": 47.20167803,
+        "stop_lon": -1.55376743
+    },
+    {
+        "stop_id": "BNIE",
+        "stop_name": "Bournière",
+        "stop_lat": 47.25435766,
+        "stop_lon": -1.4553686
+    },
+    {
+        "stop_id": "BNLU",
+        "stop_name": "Bénélux",
+        "stop_lat": 47.25408884,
+        "stop_lon": -1.49909338
+    },
+    {
+        "stop_id": "BNNO",
+        "stop_name": "Bernanos",
+        "stop_lat": 47.20616329,
+        "stop_lon": -1.61385944
+    },
+    {
+        "stop_id": "BNON",
+        "stop_name": "Bignon",
+        "stop_lat": 47.24908175,
+        "stop_lon": -1.59775547
+    },
+    {
+        "stop_id": "BNTA",
+        "stop_name": "BN",
+        "stop_lat": 47.18396011,
+        "stop_lon": -1.49668431
+    },
+    {
+        "stop_id": "BNVI",
+        "stop_name": "Bonneville",
+        "stop_lat": 47.24384339,
+        "stop_lon": -1.53640808
+    },
+    {
+        "stop_id": "BOCE",
+        "stop_name": "Centre de Bouguenais",
+        "stop_lat": 47.17935986,
+        "stop_lon": -1.62291358
+    },
+    {
+        "stop_id": "BODO",
+        "stop_name": "Bourdonnières",
+        "stop_lat": 47.18638625,
+        "stop_lon": -1.52199103
+    },
+    {
+        "stop_id": "BOFA",
+        "stop_name": "Bouffay",
+        "stop_lat": 47.21456726,
+        "stop_lon": -1.55260028
+    },
+    {
+        "stop_id": "BOGE",
+        "stop_name": "Bourgeonnière",
+        "stop_lat": 47.25294296,
+        "stop_lon": -1.5613128
+    },
+    {
+        "stop_id": "BOLL",
+        "stop_name": "Bois Tillac",
+        "stop_lat": 47.20017883,
+        "stop_lon": -1.77127662
+    },
+    {
+        "stop_id": "BOND",
+        "stop_name": "Bonde",
+        "stop_lat": 47.22261834,
+        "stop_lon": -1.55214517
+    },
+    {
+        "stop_id": "BORL",
+        "stop_name": "Bourrelière",
+        "stop_lat": 47.15833317,
+        "stop_lon": -1.498414
+    },
+    {
+        "stop_id": "BOSI",
+        "stop_name": "Boissière",
+        "stop_lat": 47.25521779,
+        "stop_lon": -1.56576739
+    },
+    {
+        "stop_id": "BOTI",
+        "stop_name": "Boutière",
+        "stop_lat": 47.15725341,
+        "stop_lon": -1.46809205
+    },
+    {
+        "stop_id": "BOUE",
+        "stop_name": "Bio Ouest Laënnec",
+        "stop_lat": 47.23275471,
+        "stop_lon": -1.6418808
+    },
+    {
+        "stop_id": "BOVR",
+        "stop_name": "Bouvre",
+        "stop_lat": 47.17826085,
+        "stop_lon": -1.61308193
+    },
+    {
+        "stop_id": "BPTY",
+        "stop_name": "Boulay Paty",
+        "stop_lat": 47.22886156,
+        "stop_lon": -1.5762905
+    },
+    {
+        "stop_id": "BRAG",
+        "stop_name": "Bois Raguenet",
+        "stop_lat": 47.26659652,
+        "stop_lon": -1.60044334
+    },
+    {
+        "stop_id": "BRBI",
+        "stop_name": "Bois Robillard",
+        "stop_lat": 47.2351422,
+        "stop_lon": -1.51977766
+    },
+    {
+        "stop_id": "BRCH",
+        "stop_name": "Bréchetière",
+        "stop_lat": 47.28468842,
+        "stop_lon": -1.50339577
+    },
+    {
+        "stop_id": "BRDI",
+        "stop_name": "Briandière",
+        "stop_lat": 47.18972751,
+        "stop_lon": -1.6920222
+    },
+    {
+        "stop_id": "BRET",
+        "stop_name": "Bretonnière",
+        "stop_lat": 47.16650278,
+        "stop_lon": -1.46285933
+    },
+    {
+        "stop_id": "BRGA",
+        "stop_name": "Beauregard",
+        "stop_lat": 47.21072345,
+        "stop_lon": -1.65656066
+    },
+    {
+        "stop_id": "BRIN",
+        "stop_name": "Brains",
+        "stop_lat": 47.17078527,
+        "stop_lon": -1.71899634
+    },
+    {
+        "stop_id": "BRLA",
+        "stop_name": "Brouillard",
+        "stop_lat": 47.27315386,
+        "stop_lon": -1.51494214
+    },
+    {
+        "stop_id": "BRLN",
+        "stop_name": "Berlin",
+        "stop_lat": 47.21653641,
+        "stop_lon": -1.53622373
+    },
+    {
+        "stop_id": "BRNI",
+        "stop_name": "Baronnière",
+        "stop_lat": 47.25953711,
+        "stop_lon": -1.60392152
+    },
+    {
+        "stop_id": "BROS",
+        "stop_name": "Brossais",
+        "stop_lat": 47.16245679,
+        "stop_lon": -1.58560857
+    },
+    {
+        "stop_id": "BRTA",
+        "stop_name": "Bretagne",
+        "stop_lat": 47.2170707,
+        "stop_lon": -1.55818626
+    },
+    {
+        "stop_id": "BRUN",
+        "stop_name": "Bruneau",
+        "stop_lat": 47.22824329,
+        "stop_lon": -1.56176187
+    },
+    {
+        "stop_id": "BRVI",
+        "stop_name": "Boris Vian",
+        "stop_lat": 47.15314483,
+        "stop_lon": -1.68357816
+    },
+    {
+        "stop_id": "BSAN",
+        "stop_name": "Bobby Sands",
+        "stop_lat": 47.22989006,
+        "stop_lon": -1.65301973
+    },
+    {
+        "stop_id": "BSEJ",
+        "stop_name": "Beauséjour",
+        "stop_lat": 47.23824329,
+        "stop_lon": -1.58701443
+    },
+    {
+        "stop_id": "BSNI",
+        "stop_name": "Bussonnière",
+        "stop_lat": 47.26972299,
+        "stop_lon": -1.44372625
+    },
+    {
+        "stop_id": "BSOL",
+        "stop_name": "Beau Soleil",
+        "stop_lat": 47.17752041,
+        "stop_lon": -1.64436806
+    },
+    {
+        "stop_id": "BSTI",
+        "stop_name": "Bastière",
+        "stop_lat": 47.14843303,
+        "stop_lon": -1.45940479
+    },
+    {
+        "stop_id": "BSYS",
+        "stop_name": "Bois St-Lys",
+        "stop_lat": 47.30028294,
+        "stop_lon": -1.48207373
+    },
+    {
+        "stop_id": "BTAI",
+        "stop_name": "Bretinais",
+        "stop_lat": 47.22170279,
+        "stop_lon": -1.66574133
+    },
+    {
+        "stop_id": "BTEC",
+        "stop_name": "Bretéché",
+        "stop_lat": 47.22529184,
+        "stop_lon": -1.54860985
+    },
+    {
+        "stop_id": "BTIE",
+        "stop_name": "Bottière",
+        "stop_lat": 47.24024468,
+        "stop_lon": -1.51815135
+    },
+    {
+        "stop_id": "BTLE",
+        "stop_name": "Bouteillerie",
+        "stop_lat": 47.22148019,
+        "stop_lon": -1.54350501
+    },
+    {
+        "stop_id": "BTRA",
+        "stop_name": "Bertrand",
+        "stop_lat": 47.25712536,
+        "stop_lon": -1.57563141
+    },
+    {
+        "stop_id": "BUGA",
+        "stop_name": "Bugallière",
+        "stop_lat": 47.25989992,
+        "stop_lon": -1.63789321
+    },
+    {
+        "stop_id": "BULA",
+        "stop_name": "Butte des Landes",
+        "stop_lat": 47.16077942,
+        "stop_lon": -1.49378527
+    },
+    {
+        "stop_id": "BUON",
+        "stop_name": "Bougon",
+        "stop_lat": 47.17418788,
+        "stop_lon": -1.61066406
+    },
+    {
+        "stop_id": "BUSS",
+        "stop_name": "Buisson",
+        "stop_lat": 47.26060509,
+        "stop_lon": -1.48742297
+    },
+    {
+        "stop_id": "BVDI",
+        "stop_name": "Bouvardière",
+        "stop_lat": 47.23835837,
+        "stop_lon": -1.59841068
+    },
+    {
+        "stop_id": "BVER",
+        "stop_name": "Bouvernière",
+        "stop_lat": 47.23762328,
+        "stop_lon": -1.61163942
+    },
+    {
+        "stop_id": "BVOI",
+        "stop_name": "Beauvoir",
+        "stop_lat": 47.17846824,
+        "stop_lon": -1.63068395
+    },
+    {
+        "stop_id": "BYCE",
+        "stop_name": "Centre de Bouaye",
+        "stop_lat": 47.14389569,
+        "stop_lon": -1.69169656
+    },
+    {
+        "stop_id": "BYGA",
+        "stop_name": "Gare de Bouaye",
+        "stop_lat": 47.13838428,
+        "stop_lon": -1.68083896
+    },
+    {
+        "stop_id": "BYTO",
+        "stop_name": "Bouaye Coteaux",
+        "stop_lat": 47.16477865,
+        "stop_lon": -1.67886486
+    },
+    {
+        "stop_id": "BZAR",
+        "stop_name": "Buzardières",
+        "stop_lat": 47.20725278,
+        "stop_lon": -1.65963116
+    },
+    {
+        "stop_id": "CABR",
+        "stop_name": "Cabrol",
+        "stop_lat": 47.2032582,
+        "stop_lon": -1.58859645
+    },
+    {
+        "stop_id": "CACE",
+        "stop_name": "Centre de Carquefou",
+        "stop_lat": 47.29714506,
+        "stop_lon": -1.4901287
+    },
+    {
+        "stop_id": "CADO",
+        "stop_name": "Cadoire",
+        "stop_lat": 47.25671175,
+        "stop_lon": -1.48804666
+    },
+    {
+        "stop_id": "CAGE",
+        "stop_name": "Chalonges",
+        "stop_lat": 47.27613635,
+        "stop_lon": -1.42939758
+    },
+    {
+        "stop_id": "CAHL",
+        "stop_name": "Charlière",
+        "stop_lat": 47.32101197,
+        "stop_lon": -1.55055505
+    },
+    {
+        "stop_id": "CAIO",
+        "stop_name": "Caillou Blanc",
+        "stop_lat": 47.29864722,
+        "stop_lon": -1.58556896
+    },
+    {
+        "stop_id": "CALI",
+        "stop_name": "Californie",
+        "stop_lat": 47.1908612,
+        "stop_lon": -1.58531429
+    },
+    {
+        "stop_id": "CANC",
+        "stop_name": "Canclaux",
+        "stop_lat": 47.21383536,
+        "stop_lon": -1.57489018
+    },
+    {
+        "stop_id": "CAPE",
+        "stop_name": "Capellia",
+        "stop_lat": 47.2796771,
+        "stop_lon": -1.55496349
+    },
+    {
+        "stop_id": "CARQ",
+        "stop_name": "Carquefou",
+        "stop_lat": 47.30370254,
+        "stop_lon": -1.48536605
+    },
+    {
+        "stop_id": "CAST",
+        "stop_name": "Castorama",
+        "stop_lat": 47.25896592,
+        "stop_lon": -1.50696007
+    },
+    {
+        "stop_id": "CATI",
+        "stop_name": "Cartier",
+        "stop_lat": 47.26820359,
+        "stop_lon": -1.45550147
+    },
+    {
+        "stop_id": "CAUX",
+        "stop_name": "Château D'Aux",
+        "stop_lat": 47.1853481,
+        "stop_lon": -1.67454951
+    },
+    {
+        "stop_id": "CBAC",
+        "stop_name": "Bac de Couëron",
+        "stop_lat": 47.20598337,
+        "stop_lon": -1.75170597
+    },
+    {
+        "stop_id": "CBEA",
+        "stop_name": "Charbonneau",
+        "stop_lat": 47.3006297,
+        "stop_lon": -1.490802
+    },
+    {
+        "stop_id": "CBGE",
+        "stop_name": "Chapeau Berger",
+        "stop_lat": 47.1710169,
+        "stop_lon": -1.46882696
+    },
+    {
+        "stop_id": "CBIN",
+        "stop_name": "Corbinerie",
+        "stop_lat": 47.16160499,
+        "stop_lon": -1.5421356
+    },
+    {
+        "stop_id": "CBLE",
+        "stop_name": "Chemin Bleu",
+        "stop_lat": 47.17822438,
+        "stop_lon": -1.52497724
+    },
+    {
+        "stop_id": "CBOU",
+        "stop_name": "Couëron Bougon",
+        "stop_lat": 47.22507921,
+        "stop_lon": -1.73401375
+    },
+    {
+        "stop_id": "CBRD",
+        "stop_name": "Claude Bernard",
+        "stop_lat": 47.22304901,
+        "stop_lon": -1.61174831
+    },
+    {
+        "stop_id": "CBSS",
+        "stop_name": "Cambronne",
+        "stop_lat": 47.20660534,
+        "stop_lon": -1.50645822
+    },
+    {
+        "stop_id": "CBTE",
+        "stop_name": "Choblèterie",
+        "stop_lat": 47.13620886,
+        "stop_lon": -1.46142133
+    },
+    {
+        "stop_id": "CCAN",
+        "stop_name": "Couchant",
+        "stop_lat": 47.26848778,
+        "stop_lon": -1.59960347
+    },
+    {
+        "stop_id": "CCDI",
+        "stop_name": "Cochardières",
+        "stop_lat": 47.22992076,
+        "stop_lon": -1.63319007
+    },
+    {
+        "stop_id": "CCHA",
+        "stop_name": "Couchant",
+        "stop_lat": 47.27009278,
+        "stop_lon": -1.51388529
+    },
+    {
+        "stop_id": "CCOU",
+        "stop_name": "Champ de Courses",
+        "stop_lat": 47.24451408,
+        "stop_lon": -1.56122079
+    },
+    {
+        "stop_id": "CCRE",
+        "stop_name": "Chêne Creux",
+        "stop_lat": 47.17045652,
+        "stop_lon": -1.54876905
+    },
+    {
+        "stop_id": "CDAN",
+        "stop_name": "Chêne des Anglais",
+        "stop_lat": 47.26153847,
+        "stop_lon": -1.57308607
+    },
+    {
+        "stop_id": "CDCO",
+        "stop_name": "Cité des Congrès",
+        "stop_lat": 47.21349749,
+        "stop_lon": -1.54495376
+    },
+    {
+        "stop_id": "CDMA",
+        "stop_name": "Champ de Manoeuvre",
+        "stop_lat": 47.27269353,
+        "stop_lon": -1.50072902
+    },
+    {
+        "stop_id": "CECE",
+        "stop_name": "Centre de La Chapelle",
+        "stop_lat": 47.29913684,
+        "stop_lon": -1.54842829
+    },
+    {
+        "stop_id": "CEDR",
+        "stop_name": "Cèdre",
+        "stop_lat": 47.29944073,
+        "stop_lon": -1.56025341
+    },
+    {
+        "stop_id": "CEER",
+        "stop_name": "Chapellerie",
+        "stop_lat": 47.28290704,
+        "stop_lon": -1.42315171
+    },
+    {
+        "stop_id": "CEGA",
+        "stop_name": "Gare de La Chapelle",
+        "stop_lat": 47.29586473,
+        "stop_lon": -1.5489661
+    },
+    {
+        "stop_id": "CELL",
+        "stop_name": "Le Cellier",
+        "stop_lat": 47.3267624,
+        "stop_lon": -1.34800097
+    },
+    {
+        "stop_id": "CFOI",
+        "stop_name": "Champ de Foire",
+        "stop_lat": 47.12460773,
+        "stop_lon": -1.61856478
+    },
+    {
+        "stop_id": "CGAU",
+        "stop_name": "Cimetière Gaudinière",
+        "stop_lat": 47.24311497,
+        "stop_lon": -1.58272698
+    },
+    {
+        "stop_id": "CGLA",
+        "stop_name": "Chêne Gala",
+        "stop_lat": 47.18316762,
+        "stop_lon": -1.5392023
+    },
+    {
+        "stop_id": "CHAB",
+        "stop_name": "Chabossière",
+        "stop_lat": 47.21532409,
+        "stop_lon": -1.68216819
+    },
+    {
+        "stop_id": "CHBE",
+        "stop_name": "Chambelles",
+        "stop_lat": 47.23162916,
+        "stop_lon": -1.53062861
+    },
+    {
+        "stop_id": "CHER",
+        "stop_name": "La Cochère",
+        "stop_lat": 47.20041546,
+        "stop_lon": -1.77830108
+    },
+    {
+        "stop_id": "CHFL",
+        "stop_name": "Champ Fleuri",
+        "stop_lat": 47.14409184,
+        "stop_lon": -1.52567728
+    },
+    {
+        "stop_id": "CHGN",
+        "stop_name": "Châtaigniers",
+        "stop_lat": 47.22171128,
+        "stop_lon": -1.60185565
+    },
+    {
+        "stop_id": "CHIN",
+        "stop_name": "La Chesnaie",
+        "stop_lat": 47.28167117,
+        "stop_lon": -1.53759214
+    },
+    {
+        "stop_id": "CHLI",
+        "stop_name": "Cholière",
+        "stop_lat": 47.25099949,
+        "stop_lon": -1.60671565
+    },
+    {
+        "stop_id": "CHME",
+        "stop_name": "Charmes",
+        "stop_lat": 47.19080176,
+        "stop_lon": -1.46099838
+    },
+    {
+        "stop_id": "CHNI",
+        "stop_name": "Charbonnière",
+        "stop_lat": 47.2636907,
+        "stop_lon": -1.64229005
+    },
+    {
+        "stop_id": "CHOC",
+        "stop_name": "Chocolaterie",
+        "stop_lat": 47.24276681,
+        "stop_lon": -1.52801535
+    },
+    {
+        "stop_id": "CHPO",
+        "stop_name": "Champonnière",
+        "stop_lat": 47.16352336,
+        "stop_lon": -1.50568819
+    },
+    {
+        "stop_id": "CHRE",
+        "stop_name": "Chalâtres",
+        "stop_lat": 47.231025,
+        "stop_lon": -1.53877622
+    },
+    {
+        "stop_id": "CHSS",
+        "stop_name": "Chaussée",
+        "stop_lat": 47.1766578,
+        "stop_lon": -1.52100989
+    },
+    {
+        "stop_id": "CHTE",
+        "stop_name": "Châtelets",
+        "stop_lat": 47.19716701,
+        "stop_lon": -1.54058346
+    },
+    {
+        "stop_id": "CHVE",
+        "stop_name": "Chauvais",
+        "stop_lat": 47.33740081,
+        "stop_lon": -1.57166574
+    },
+    {
+        "stop_id": "CHZY",
+        "stop_name": "Chanzy",
+        "stop_lat": 47.22360468,
+        "stop_lon": -1.54546241
+    },
+    {
+        "stop_id": "CIGL",
+        "stop_name": "Chai Gallais",
+        "stop_lat": 47.13700078,
+        "stop_lon": -1.72157408
+    },
+    {
+        "stop_id": "CIVL",
+        "stop_name": "Circuit du Vallon",
+        "stop_lat": 47.27364742,
+        "stop_lon": -1.44741776
+    },
+    {
+        "stop_id": "CJOS",
+        "stop_name": "Cimetière St-Joseph",
+        "stop_lat": 47.26818374,
+        "stop_lon": -1.52158608
+    },
+    {
+        "stop_id": "CLAM",
+        "stop_name": "Clos Ami",
+        "stop_lat": 47.2121538,
+        "stop_lon": -1.65549491
+    },
+    {
+        "stop_id": "CLBO",
+        "stop_name": "Clos Bonnet",
+        "stop_lat": 47.18943855,
+        "stop_lon": -1.56392208
+    },
+    {
+        "stop_id": "CLET",
+        "stop_name": "Clétras",
+        "stop_lat": 47.25544747,
+        "stop_lon": -1.51078671
+    },
+    {
+        "stop_id": "CLGE",
+        "stop_name": "Chalonges",
+        "stop_lat": 47.18915535,
+        "stop_lon": -1.47262002
+    },
+    {
+        "stop_id": "CLMO",
+        "stop_name": "Cimetière La Montagne",
+        "stop_lat": 47.18732581,
+        "stop_lon": -1.6864902
+    },
+    {
+        "stop_id": "CLNA",
+        "stop_name": "Colonac",
+        "stop_lat": 47.22507475,
+        "stop_lon": -1.60282256
+    },
+    {
+        "stop_id": "CLOT",
+        "stop_name": "Clotais",
+        "stop_lat": 47.1930111,
+        "stop_lon": -1.71822262
+    },
+    {
+        "stop_id": "CLPT",
+        "stop_name": "Clépettre",
+        "stop_lat": 47.29667711,
+        "stop_lon": -1.54706585
+    },
+    {
+        "stop_id": "CLRO",
+        "stop_name": "Clos Roux",
+        "stop_lat": 47.19812679,
+        "stop_lon": -1.74954625
+    },
+    {
+        "stop_id": "CLSE",
+        "stop_name": "Closeaux",
+        "stop_lat": 47.2393198,
+        "stop_lon": -1.62784519
+    },
+    {
+        "stop_id": "CLTT",
+        "stop_name": "Châlet",
+        "stop_lat": 47.22942048,
+        "stop_lon": -1.54451867
+    },
+    {
+        "stop_id": "CLUE",
+        "stop_name": "Clouet",
+        "stop_lat": 47.1674894,
+        "stop_lon": -1.51085257
+    },
+    {
+        "stop_id": "CLZE",
+        "stop_name": "Clouzeaux",
+        "stop_lat": 47.17931163,
+        "stop_lon": -1.492604
+    },
+    {
+        "stop_id": "CMAR",
+        "stop_name": "Cirque - Marais",
+        "stop_lat": 47.2180537,
+        "stop_lon": -1.55724257
+    },
+    {
+        "stop_id": "CMCI",
+        "stop_name": "Clémencière",
+        "stop_lat": 47.2694877,
+        "stop_lon": -1.43572725
+    },
+    {
+        "stop_id": "CMLL",
+        "stop_name": "Charmille",
+        "stop_lat": 47.25707866,
+        "stop_lon": -1.60617584
+    },
+    {
+        "stop_id": "CMNE",
+        "stop_name": "Commune 1871",
+        "stop_lat": 47.19932642,
+        "stop_lon": -1.49967325
+    },
+    {
+        "stop_id": "CMOU",
+        "stop_name": "Clos du Moulin",
+        "stop_lat": 47.14516318,
+        "stop_lon": -1.52131364
+    },
+    {
+        "stop_id": "CMRA",
+        "stop_name": "Cormerais",
+        "stop_lat": 47.19475932,
+        "stop_lon": -1.62707891
+    },
+    {
+        "stop_id": "CMSY",
+        "stop_name": "Carrière Misery",
+        "stop_lat": 47.19982789,
+        "stop_lon": -1.58022151
+    },
+    {
+        "stop_id": "CMUS",
+        "stop_name": "Camus",
+        "stop_lat": 47.21928251,
+        "stop_lon": -1.57285071
+    },
+    {
+        "stop_id": "CNAV",
+        "stop_name": "Chantiers Navals",
+        "stop_lat": 47.20884925,
+        "stop_lon": -1.5677981
+    },
+    {
+        "stop_id": "CNCE",
+        "stop_name": "Chenonceau",
+        "stop_lat": 47.2726347,
+        "stop_lon": -1.43447667
+    },
+    {
+        "stop_id": "CNGO",
+        "stop_name": "Congo",
+        "stop_lat": 47.24067949,
+        "stop_lon": -1.60913535
+    },
+    {
+        "stop_id": "CNLA",
+        "stop_name": "Canal",
+        "stop_lat": 47.21612339,
+        "stop_lon": -1.47178276
+    },
+    {
+        "stop_id": "CNNT",
+        "stop_name": "Chemin Nantais",
+        "stop_lat": 47.2886964,
+        "stop_lon": -1.43370965
+    },
+    {
+        "stop_id": "CNON",
+        "stop_name": "Chinon",
+        "stop_lat": 47.27413636,
+        "stop_lon": -1.42900524
+    },
+    {
+        "stop_id": "CNTR",
+        "stop_name": "Centaure",
+        "stop_lat": 47.17000334,
+        "stop_lon": -1.62715098
+    },
+    {
+        "stop_id": "CNVR",
+        "stop_name": "Chêne Vert",
+        "stop_lat": 47.28625856,
+        "stop_lon": -1.43946571
+    },
+    {
+        "stop_id": "COAY",
+        "stop_name": "Corlay",
+        "stop_lat": 47.20794484,
+        "stop_lon": -1.64414014
+    },
+    {
+        "stop_id": "COCH",
+        "stop_name": "Cochard",
+        "stop_lat": 47.22402387,
+        "stop_lon": -1.55052864
+    },
+    {
+        "stop_id": "COET",
+        "stop_name": "Les Couëts",
+        "stop_lat": 47.18069157,
+        "stop_lon": -1.58668691
+    },
+    {
+        "stop_id": "COHO",
+        "stop_name": "Chohonnière",
+        "stop_lat": 47.26314626,
+        "stop_lon": -1.48602114
+    },
+    {
+        "stop_id": "COLI",
+        "stop_name": "Colinière",
+        "stop_lat": 47.23587021,
+        "stop_lon": -1.50836278
+    },
+    {
+        "stop_id": "COMM",
+        "stop_name": "Commerce",
+        "stop_lat": 47.21354486,
+        "stop_lon": -1.55623236
+    },
+    {
+        "stop_id": "CONI",
+        "stop_name": "Corniche",
+        "stop_lat": 47.25262913,
+        "stop_lon": -1.59438669
+    },
+    {
+        "stop_id": "CORA",
+        "stop_name": "Conraie",
+        "stop_lat": 47.26089554,
+        "stop_lon": -1.58840988
+    },
+    {
+        "stop_id": "COST",
+        "stop_name": "Cousteau",
+        "stop_lat": 47.23986299,
+        "stop_lon": -1.51291605
+    },
+    {
+        "stop_id": "COTA",
+        "stop_name": "Coutancière",
+        "stop_lat": 47.30617449,
+        "stop_lon": -1.56007737
+    },
+    {
+        "stop_id": "COUD",
+        "stop_name": "Coudray",
+        "stop_lat": 47.23214764,
+        "stop_lon": -1.54248589
+    },
+    {
+        "stop_id": "CP3R",
+        "stop_name": "Chapelles",
+        "stop_lat": 47.16356526,
+        "stop_lon": -1.53851259
+    },
+    {
+        "stop_id": "CP4L",
+        "stop_name": "Chapelle Laënnec",
+        "stop_lat": 47.23535037,
+        "stop_lon": -1.63778655
+    },
+    {
+        "stop_id": "CPER",
+        "stop_name": "Copernic - Musées",
+        "stop_lat": 47.21487992,
+        "stop_lon": -1.56477358
+    },
+    {
+        "stop_id": "CPGT",
+        "stop_name": "Capitaine Grant",
+        "stop_lat": 47.26176872,
+        "stop_lon": -1.66947834
+    },
+    {
+        "stop_id": "CPRE",
+        "stop_name": "Chaupières",
+        "stop_lat": 47.24314729,
+        "stop_lon": -1.49505252
+    },
+    {
+        "stop_id": "CPTE",
+        "stop_name": "Chapelet",
+        "stop_lat": 47.13205641,
+        "stop_lon": -1.64156579
+    },
+    {
+        "stop_id": "CQGU",
+        "stop_name": "Chat qui Guette",
+        "stop_lat": 47.1919537,
+        "stop_lon": -1.69713186
+    },
+    {
+        "stop_id": "CQLU",
+        "stop_name": "Coqueluchon",
+        "stop_lat": 47.18380011,
+        "stop_lon": -1.47038954
+    },
+    {
+        "stop_id": "CRAI",
+        "stop_name": "Clairais",
+        "stop_lat": 47.27555119,
+        "stop_lon": -1.43856757
+    },
+    {
+        "stop_id": "CRBE",
+        "stop_name": "Corberie",
+        "stop_lat": 47.15245718,
+        "stop_lon": -1.52396069
+    },
+    {
+        "stop_id": "CRCE",
+        "stop_name": "Courocerie",
+        "stop_lat": 47.25177254,
+        "stop_lon": -1.49936106
+    },
+    {
+        "stop_id": "CREZ",
+        "stop_name": "Château de Rezé",
+        "stop_lat": 47.18481208,
+        "stop_lon": -1.55976164
+    },
+    {
+        "stop_id": "CRME",
+        "stop_name": "Crémetterie",
+        "stop_lat": 47.21827419,
+        "stop_lon": -1.60833549
+    },
+    {
+        "stop_id": "CRNO",
+        "stop_name": "Corbon",
+        "stop_lat": 47.21335549,
+        "stop_lon": -1.46090204
+    },
+    {
+        "stop_id": "CROU",
+        "stop_name": "Chemin Rouge",
+        "stop_lat": 47.25157842,
+        "stop_lon": -1.51760872
+    },
+    {
+        "stop_id": "CRPO",
+        "stop_name": "Criport",
+        "stop_lat": 47.15833439,
+        "stop_lon": -1.50356505
+    },
+    {
+        "stop_id": "CRQU",
+        "stop_name": "Place du Cirque",
+        "stop_lat": 47.2166694,
+        "stop_lon": -1.55684175
+    },
+    {
+        "stop_id": "CRRO",
+        "stop_name": "Claire Roman",
+        "stop_lat": 47.15470775,
+        "stop_lon": -1.59132362
+    },
+    {
+        "stop_id": "CRSA",
+        "stop_name": "Croissant",
+        "stop_lat": 47.24103597,
+        "stop_lon": -1.52997054
+    },
+    {
+        "stop_id": "CRTI",
+        "stop_name": "Crétinières",
+        "stop_lat": 47.27652377,
+        "stop_lon": -1.55320535
+    },
+    {
+        "stop_id": "CRVA",
+        "stop_name": "Cravate",
+        "stop_lat": 47.24324309,
+        "stop_lon": -1.58825421
+    },
+    {
+        "stop_id": "CSAY",
+        "stop_name": "Chassay",
+        "stop_lat": 47.2458384,
+        "stop_lon": -1.48481952
+    },
+    {
+        "stop_id": "CSCL",
+        "stop_name": "Cimetière St-Clair",
+        "stop_lat": 47.2168196,
+        "stop_lon": -1.593704
+    },
+    {
+        "stop_id": "CSGR",
+        "stop_name": "Cassegrain",
+        "stop_lat": 47.18762325,
+        "stop_lon": -1.48746483
+    },
+    {
+        "stop_id": "CSHB",
+        "stop_name": "Carrières",
+        "stop_lat": 47.20819025,
+        "stop_lon": -1.63823158
+    },
+    {
+        "stop_id": "CSIB",
+        "stop_name": "Clos Siban",
+        "stop_lat": 47.21016184,
+        "stop_lon": -1.64590316
+    },
+    {
+        "stop_id": "CSMP",
+        "stop_name": "Casimir Perier",
+        "stop_lat": 47.23197587,
+        "stop_lon": -1.5682487
+    },
+    {
+        "stop_id": "CSRI",
+        "stop_name": "Classerie",
+        "stop_lat": 47.16803208,
+        "stop_lon": -1.55875992
+    },
+    {
+        "stop_id": "CSTA",
+        "stop_name": "Collège Ste-Anne",
+        "stop_lat": 47.29496382,
+        "stop_lon": -1.49243602
+    },
+    {
+        "stop_id": "CSTE",
+        "stop_name": "Casterneau",
+        "stop_lat": 47.22715488,
+        "stop_lon": -1.53274448
+    },
+    {
+        "stop_id": "CSVA",
+        "stop_name": "Conservatoire",
+        "stop_lat": 47.20704483,
+        "stop_lon": -1.53302035
+    },
+    {
+        "stop_id": "CTAR",
+        "stop_name": "Cotalard",
+        "stop_lat": 47.28617298,
+        "stop_lon": -1.53779415
+    },
+    {
+        "stop_id": "CTBO",
+        "stop_name": "Coteaux",
+        "stop_lat": 47.18438813,
+        "stop_lon": -1.66923766
+    },
+    {
+        "stop_id": "CTEU",
+        "stop_name": "Caboteurs",
+        "stop_lat": 47.18646655,
+        "stop_lon": -1.58743518
+    },
+    {
+        "stop_id": "CTIE",
+        "stop_name": "Châtelier",
+        "stop_lat": 47.18484934,
+        "stop_lon": -1.59326049
+    },
+    {
+        "stop_id": "CTLI",
+        "stop_name": "Courteline",
+        "stop_lat": 47.23642701,
+        "stop_lon": -1.58692349
+    },
+    {
+        "stop_id": "CTNS",
+        "stop_name": "Carterons",
+        "stop_lat": 47.21824433,
+        "stop_lon": -1.73918265
+    },
+    {
+        "stop_id": "CTOR",
+        "stop_name": "Clos Toreau",
+        "stop_lat": 47.1941152,
+        "stop_lon": -1.52907028
+    },
+    {
+        "stop_id": "CTRE",
+        "stop_name": "Chantrerie - Grandes Écoles",
+        "stop_lat": 47.28163711,
+        "stop_lon": -1.51695782
+    },
+    {
+        "stop_id": "CTYY",
+        "stop_name": "Coty",
+        "stop_lat": 47.24901468,
+        "stop_lon": -1.48800397
+    },
+    {
+        "stop_id": "CUGA",
+        "stop_name": "Gare de Couëron",
+        "stop_lat": 47.22167517,
+        "stop_lon": -1.72390317
+    },
+    {
+        "stop_id": "CUIE",
+        "stop_name": "Chausserie",
+        "stop_lat": 47.14942648,
+        "stop_lon": -1.70423348
+    },
+    {
+        "stop_id": "CUPI",
+        "stop_name": "Coupries",
+        "stop_lat": 47.19158639,
+        "stop_lon": -1.46729809
+    },
+    {
+        "stop_id": "CURI",
+        "stop_name": "Curie",
+        "stop_lat": 47.19052929,
+        "stop_lon": -1.48742009
+    },
+    {
+        "stop_id": "CUVI",
+        "stop_name": "Cuvier",
+        "stop_lat": 47.21073923,
+        "stop_lon": -1.57408225
+    },
+    {
+        "stop_id": "CVBL",
+        "stop_name": "Cheveux Blancs",
+        "stop_lat": 47.26553292,
+        "stop_lon": -1.6350425
+    },
+    {
+        "stop_id": "CVDO",
+        "stop_name": "Cimetière Vieux Doulon",
+        "stop_lat": 47.23849235,
+        "stop_lon": -1.50040266
+    },
+    {
+        "stop_id": "CVER",
+        "stop_name": "Chapeau Verni",
+        "stop_lat": 47.18905054,
+        "stop_lon": -1.50927505
+    },
+    {
+        "stop_id": "CVLE",
+        "stop_name": "Chevalerie",
+        "stop_lat": 47.2522148,
+        "stop_lon": -1.54517072
+    },
+    {
+        "stop_id": "CVNI",
+        "stop_name": "Chauvinière",
+        "stop_lat": 47.25146581,
+        "stop_lon": -1.57206508
+    },
+    {
+        "stop_id": "CVRN",
+        "stop_name": "Cheverny",
+        "stop_lat": 47.24544637,
+        "stop_lon": -1.60546226
+    },
+    {
+        "stop_id": "CVTI",
+        "stop_name": "Convention",
+        "stop_lat": 47.2114127,
+        "stop_lon": -1.58659602
+    },
+    {
+        "stop_id": "CXFS",
+        "stop_name": "Croix des Fosses",
+        "stop_lat": 47.21333948,
+        "stop_lon": -1.4663584
+    },
+    {
+        "stop_id": "CZIN",
+        "stop_name": "Chézine",
+        "stop_lat": 47.23373473,
+        "stop_lon": -1.59932012
+    },
+    {
+        "stop_id": "DAKK",
+        "stop_name": "Danemark",
+        "stop_lat": 47.26096703,
+        "stop_lon": -1.49857486
+    },
+    {
+        "stop_id": "DALB",
+        "stop_name": "Dalby",
+        "stop_lat": 47.22513188,
+        "stop_lon": -1.52982307
+    },
+    {
+        "stop_id": "DANU",
+        "stop_name": "Danube",
+        "stop_lat": 47.30449077,
+        "stop_lon": -1.50178212
+    },
+    {
+        "stop_id": "DAVU",
+        "stop_name": "Davum",
+        "stop_lat": 47.26498319,
+        "stop_lon": -1.495992
+    },
+    {
+        "stop_id": "DAYA",
+        "stop_name": "Dayat",
+        "stop_lat": 47.20080952,
+        "stop_lon": -1.67423351
+    },
+    {
+        "stop_id": "DCAN",
+        "stop_name": "Duchesse Anne - Château",
+        "stop_lat": 47.21620349,
+        "stop_lon": -1.54756121
+    },
+    {
+        "stop_id": "DCFF",
+        "stop_name": "Du Chaffault",
+        "stop_lat": 47.20764712,
+        "stop_lon": -1.58198473
+    },
+    {
+        "stop_id": "DEMO",
+        "stop_name": "Desmoulins",
+        "stop_lat": 47.23227708,
+        "stop_lon": -1.52225923
+    },
+    {
+        "stop_id": "DERV",
+        "stop_name": "Dervallières",
+        "stop_lat": 47.22883772,
+        "stop_lon": -1.59805271
+    },
+    {
+        "stop_id": "DGLE",
+        "stop_name": "De Gaulle",
+        "stop_lat": 47.30101333,
+        "stop_lon": -1.55304118
+    },
+    {
+        "stop_id": "DIAN",
+        "stop_name": "Diane",
+        "stop_lat": 47.2396401,
+        "stop_lon": -1.57811601
+    },
+    {
+        "stop_id": "DIDE",
+        "stop_name": "Espace Diderot",
+        "stop_lat": 47.18448466,
+        "stop_lon": -1.56299568
+    },
+    {
+        "stop_id": "DLCR",
+        "stop_name": "Delacroix",
+        "stop_lat": 47.22364517,
+        "stop_lon": -1.58941815
+    },
+    {
+        "stop_id": "DLLE",
+        "stop_name": "Drillet",
+        "stop_lat": 47.23485312,
+        "stop_lon": -1.66629438
+    },
+    {
+        "stop_id": "DLME",
+        "stop_name": "Delorme",
+        "stop_lat": 47.2156867,
+        "stop_lon": -1.56467378
+    },
+    {
+        "stop_id": "DMAI",
+        "stop_name": "Domaine",
+        "stop_lat": 47.17834379,
+        "stop_lon": -1.46944547
+    },
+    {
+        "stop_id": "DMUR",
+        "stop_name": "Dumont d'Urville",
+        "stop_lat": 47.2258662,
+        "stop_lon": -1.63639298
+    },
+    {
+        "stop_id": "DNAI",
+        "stop_name": "Danais",
+        "stop_lat": 47.21370744,
+        "stop_lon": -1.58977548
+    },
+    {
+        "stop_id": "DOCE",
+        "stop_name": "Doucet",
+        "stop_lat": 47.27792657,
+        "stop_lon": -1.63265892
+    },
+    {
+        "stop_id": "DOLT",
+        "stop_name": "Dolto",
+        "stop_lat": 47.21645137,
+        "stop_lon": -1.63617499
+    },
+    {
+        "stop_id": "DOME",
+        "stop_name": "Doumer",
+        "stop_lat": 47.22183774,
+        "stop_lon": -1.57826351
+    },
+    {
+        "stop_id": "DOTT",
+        "stop_name": "Douettée",
+        "stop_lat": 47.20773953,
+        "stop_lon": -1.49828602
+    },
+    {
+        "stop_id": "DPTE",
+        "stop_name": "Déportés",
+        "stop_lat": 47.19716038,
+        "stop_lon": -1.49228215
+    },
+    {
+        "stop_id": "DRAD",
+        "stop_name": "Désirade",
+        "stop_lat": 47.27782222,
+        "stop_lon": -1.48413044
+    },
+    {
+        "stop_id": "DRID",
+        "stop_name": "Druides",
+        "stop_lat": 47.23863028,
+        "stop_lon": -1.50740147
+    },
+    {
+        "stop_id": "DRLA",
+        "stop_name": "Drouillard",
+        "stop_lat": 47.17926542,
+        "stop_lon": -1.67783111
+    },
+    {
+        "stop_id": "DROI",
+        "stop_name": "Droitière",
+        "stop_lat": 47.30793625,
+        "stop_lon": -1.3733319
+    },
+    {
+        "stop_id": "DSAI",
+        "stop_name": "Desaix",
+        "stop_lat": 47.22628695,
+        "stop_lon": -1.54334599
+    },
+    {
+        "stop_id": "DSNE",
+        "stop_name": "Desnerie",
+        "stop_lat": 47.27793731,
+        "stop_lon": -1.54064319
+    },
+    {
+        "stop_id": "DUKA",
+        "stop_name": "Dukas",
+        "stop_lat": 47.23486639,
+        "stop_lon": -1.60213018
+    },
+    {
+        "stop_id": "DUNA",
+        "stop_name": "Dunant",
+        "stop_lat": 47.2438649,
+        "stop_lon": -1.5210971
+    },
+    {
+        "stop_id": "DUTR",
+        "stop_name": "Duguay Trouin",
+        "stop_lat": 47.22423991,
+        "stop_lon": -1.61644652
+    },
+    {
+        "stop_id": "EBCA",
+        "stop_name": "Embarcadère",
+        "stop_lat": 47.19408468,
+        "stop_lon": -1.64653306
+    },
+    {
+        "stop_id": "ECBU",
+        "stop_name": "Écobuts",
+        "stop_lat": 47.19393189,
+        "stop_lon": -1.50779579
+    },
+    {
+        "stop_id": "ECHO",
+        "stop_name": "Échoppes",
+        "stop_lat": 47.1439172,
+        "stop_lon": -1.68539014
+    },
+    {
+        "stop_id": "ECOS",
+        "stop_name": "Écosse",
+        "stop_lat": 47.2151606,
+        "stop_lon": -1.52636361
+    },
+    {
+        "stop_id": "ECSU",
+        "stop_name": "École Centrale - Audencia",
+        "stop_lat": 47.24811586,
+        "stop_lon": -1.55153546
+    },
+    {
+        "stop_id": "ECTE",
+        "stop_name": "Enchanterie",
+        "stop_lat": 47.23007808,
+        "stop_lon": -1.52407729
+    },
+    {
+        "stop_id": "EDIP",
+        "stop_name": "Edith Piaf",
+        "stop_lat": 47.22833255,
+        "stop_lon": -1.6240597
+    },
+    {
+        "stop_id": "EDNA",
+        "stop_name": "Édit de Nantes",
+        "stop_lat": 47.21449073,
+        "stop_lon": -1.56847285
+    },
+    {
+        "stop_id": "EDRE",
+        "stop_name": "Erdreau",
+        "stop_lat": 47.29109897,
+        "stop_lon": -1.50125811
+    },
+    {
+        "stop_id": "EGAN",
+        "stop_name": "Eglantine",
+        "stop_lat": 47.23518001,
+        "stop_lon": -1.5881015
+    },
+    {
+        "stop_id": "EGLI",
+        "stop_name": "Égalité",
+        "stop_lat": 47.20947084,
+        "stop_lon": -1.58881693
+    },
+    {
+        "stop_id": "EINS",
+        "stop_name": "Einstein",
+        "stop_lat": 47.26410317,
+        "stop_lon": -1.57105087
+    },
+    {
+        "stop_id": "ELIS",
+        "stop_name": "Eglise",
+        "stop_lat": 47.1685262,
+        "stop_lon": -1.72022138
+    },
+    {
+        "stop_id": "EMBE",
+        "stop_name": "Embellie",
+        "stop_lat": 47.26552105,
+        "stop_lon": -1.51855455
+    },
+    {
+        "stop_id": "ENCO",
+        "stop_name": "Ennerie Corbon",
+        "stop_lat": 47.1418962,
+        "stop_lon": -1.70497247
+    },
+    {
+        "stop_id": "EPEL",
+        "stop_name": "Écoles",
+        "stop_lat": 47.19751025,
+        "stop_lon": -1.75917066
+    },
+    {
+        "stop_id": "EPIN",
+        "stop_name": "Épinais",
+        "stop_lat": 47.13619858,
+        "stop_lon": -1.61050266
+    },
+    {
+        "stop_id": "EPYY",
+        "stop_name": "Epinay",
+        "stop_lat": 47.29234172,
+        "stop_lon": -1.48690687
+    },
+    {
+        "stop_id": "EQPE",
+        "stop_name": "Équipement",
+        "stop_lat": 47.22386574,
+        "stop_lon": -1.57577963
+    },
+    {
+        "stop_id": "ERAC",
+        "stop_name": "Erdre Active",
+        "stop_lat": 47.283154,
+        "stop_lon": -1.54406719
+    },
+    {
+        "stop_id": "ERDI",
+        "stop_name": "Éraudière",
+        "stop_lat": 47.24267744,
+        "stop_lon": -1.53524312
+    },
+    {
+        "stop_id": "ESAV",
+        "stop_name": "ESAT Vertonne",
+        "stop_lat": 47.18416052,
+        "stop_lon": -1.48200199
+    },
+    {
+        "stop_id": "ESCA",
+        "stop_name": "Escall",
+        "stop_lat": 47.19945444,
+        "stop_lon": -1.50331902
+    },
+    {
+        "stop_id": "ESOR",
+        "stop_name": "Écoles",
+        "stop_lat": 47.14665531,
+        "stop_lon": -1.52899878
+    },
+    {
+        "stop_id": "ESUE",
+        "stop_name": "Eugène Sue",
+        "stop_lat": 47.23321199,
+        "stop_lon": -1.59595197
+    },
+    {
+        "stop_id": "EUCA",
+        "stop_name": "Europe",
+        "stop_lat": 47.26112678,
+        "stop_lon": -1.50278804
+    },
+    {
+        "stop_id": "EUVE",
+        "stop_name": "Europe",
+        "stop_lat": 47.17302989,
+        "stop_lon": -1.4762844
+    },
+    {
+        "stop_id": "EVET",
+        "stop_name": "École Vétérinaire",
+        "stop_lat": 47.29088669,
+        "stop_lon": -1.523448
+    },
+    {
+        "stop_id": "EVRD",
+        "stop_name": "Evardière",
+        "stop_lat": 47.29883604,
+        "stop_lon": -1.56615513
+    },
+    {
+        "stop_id": "FACU",
+        "stop_name": "Facultés",
+        "stop_lat": 47.24684423,
+        "stop_lon": -1.55529719
+    },
+    {
+        "stop_id": "FADI",
+        "stop_name": "Fardière",
+        "stop_lat": 47.19794198,
+        "stop_lon": -1.60667288
+    },
+    {
+        "stop_id": "FALI",
+        "stop_name": "Fallières",
+        "stop_lat": 47.22494819,
+        "stop_lon": -1.57947086
+    },
+    {
+        "stop_id": "FANE",
+        "stop_name": "Faneurs",
+        "stop_lat": 47.21374022,
+        "stop_lon": -1.7019657
+    },
+    {
+        "stop_id": "FATA",
+        "stop_name": "Fantaisie",
+        "stop_lat": 47.25262588,
+        "stop_lon": -1.56815635
+    },
+    {
+        "stop_id": "FAUV",
+        "stop_name": "Fauvelière",
+        "stop_lat": 47.28300983,
+        "stop_lon": -1.50531201
+    },
+    {
+        "stop_id": "FBAU",
+        "stop_name": "François Baudry",
+        "stop_lat": 47.26221783,
+        "stop_lon": -1.67192539
+    },
+    {
+        "stop_id": "FBLA",
+        "stop_name": "Fresche Blanc",
+        "stop_lat": 47.25282588,
+        "stop_lon": -1.5568332
+    },
+    {
+        "stop_id": "FDDR",
+        "stop_name": "Fac de Droit",
+        "stop_lat": 47.24375317,
+        "stop_lon": -1.5519602
+    },
+    {
+        "stop_id": "FDLE",
+        "stop_name": "Fac de Lettres",
+        "stop_lat": 47.24534499,
+        "stop_lon": -1.55189608
+    },
+    {
+        "stop_id": "FERI",
+        "stop_name": "Ferrière",
+        "stop_lat": 47.24434218,
+        "stop_lon": -1.59102376
+    },
+    {
+        "stop_id": "FFAU",
+        "stop_name": "Félix Faure",
+        "stop_lat": 47.22700593,
+        "stop_lon": -1.5694196
+    },
+    {
+        "stop_id": "FGRI",
+        "stop_name": "Fief Guérin",
+        "stop_lat": 47.14381973,
+        "stop_lon": -1.66047312
+    },
+    {
+        "stop_id": "FLAN",
+        "stop_name": "Flandres",
+        "stop_lat": 47.28562681,
+        "stop_lon": -1.54787876
+    },
+    {
+        "stop_id": "FLEU",
+        "stop_name": "Fleuriaye",
+        "stop_lat": 47.29923921,
+        "stop_lon": -1.50013248
+    },
+    {
+        "stop_id": "FLRI",
+        "stop_name": "Floride",
+        "stop_lat": 47.2135258,
+        "stop_lon": -1.60362056
+    },
+    {
+        "stop_id": "FLTR",
+        "stop_name": "Flora Tristan",
+        "stop_lat": 47.17581933,
+        "stop_lon": -1.54371483
+    },
+    {
+        "stop_id": "FLUR",
+        "stop_name": "Fleurs",
+        "stop_lat": 47.21586059,
+        "stop_lon": -1.7179979
+    },
+    {
+        "stop_id": "FMIT",
+        "stop_name": "François Mitterrand",
+        "stop_lat": 47.22210178,
+        "stop_lon": -1.63857119
+    },
+    {
+        "stop_id": "FNLL",
+        "stop_name": "Fresnel",
+        "stop_lat": 47.24301901,
+        "stop_lon": -1.52339017
+    },
+    {
+        "stop_id": "FNSO",
+        "stop_name": "Fenaison",
+        "stop_lat": 47.26966612,
+        "stop_lon": -1.59248914
+    },
+    {
+        "stop_id": "FOCH",
+        "stop_name": "Foch - Cathédrale",
+        "stop_lat": 47.21925363,
+        "stop_lon": -1.55045832
+    },
+    {
+        "stop_id": "FOND",
+        "stop_name": "Fonderies",
+        "stop_lat": 47.20641547,
+        "stop_lon": -1.54391403
+    },
+    {
+        "stop_id": "FORU",
+        "stop_name": "Forum d'Orvault",
+        "stop_lat": 47.25401746,
+        "stop_lon": -1.61508982
+    },
+    {
+        "stop_id": "FOTA",
+        "stop_name": "Fontaine",
+        "stop_lat": 47.20554318,
+        "stop_lon": -1.48911942
+    },
+    {
+        "stop_id": "FOUL",
+        "stop_name": "Foulquier",
+        "stop_lat": 47.30982065,
+        "stop_lon": -1.5463002
+    },
+    {
+        "stop_id": "FRAC",
+        "stop_name": "Frachon",
+        "stop_lat": 47.21916013,
+        "stop_lon": -1.62074582
+    },
+    {
+        "stop_id": "FRBA",
+        "stop_name": "Frébaudière",
+        "stop_lat": 47.27243308,
+        "stop_lon": -1.62766022
+    },
+    {
+        "stop_id": "FRCH",
+        "stop_name": "Fraîches",
+        "stop_lat": 47.17450971,
+        "stop_lon": -1.48942481
+    },
+    {
+        "stop_id": "FRET",
+        "stop_name": "Forêt",
+        "stop_lat": 47.24432176,
+        "stop_lon": -1.57538371
+    },
+    {
+        "stop_id": "FRGA",
+        "stop_name": "Frégate",
+        "stop_lat": 47.23522526,
+        "stop_lon": -1.47604011
+    },
+    {
+        "stop_id": "FRII",
+        "stop_name": "François II",
+        "stop_lat": 47.21842841,
+        "stop_lon": -1.68319067
+    },
+    {
+        "stop_id": "FRKL",
+        "stop_name": "Franklin",
+        "stop_lat": 47.2259513,
+        "stop_lon": -1.61972641
+    },
+    {
+        "stop_id": "FRMO",
+        "stop_name": "Frémoire",
+        "stop_lat": 47.15332516,
+        "stop_lon": -1.47633012
+    },
+    {
+        "stop_id": "FRNE",
+        "stop_name": "Frênes",
+        "stop_lat": 47.25323809,
+        "stop_lon": -1.48766589
+    },
+    {
+        "stop_id": "FRON",
+        "stop_name": "Frêne Rond",
+        "stop_lat": 47.19021772,
+        "stop_lon": -1.49641502
+    },
+    {
+        "stop_id": "FRRR",
+        "stop_name": "Frères Rousseau",
+        "stop_lat": 47.12611534,
+        "stop_lon": -1.62848825
+    },
+    {
+        "stop_id": "FTAB",
+        "stop_name": "Félix Tableau",
+        "stop_lat": 47.18797818,
+        "stop_lon": -1.54738129
+    },
+    {
+        "stop_id": "FTDO",
+        "stop_name": "Fructidor",
+        "stop_lat": 47.24009067,
+        "stop_lon": -1.55952298
+    },
+    {
+        "stop_id": "GADO",
+        "stop_name": "Gandonnière",
+        "stop_lat": 47.30703832,
+        "stop_lon": -1.54057364
+    },
+    {
+        "stop_id": "GAGN",
+        "stop_name": "Gagnerie",
+        "stop_lat": 47.23223866,
+        "stop_lon": -1.50712589
+    },
+    {
+        "stop_id": "GAIL",
+        "stop_name": "Garillère",
+        "stop_lat": 47.19249604,
+        "stop_lon": -1.52068079
+    },
+    {
+        "stop_id": "GALH",
+        "stop_name": "Galheur",
+        "stop_lat": 47.16676315,
+        "stop_lon": -1.57991614
+    },
+    {
+        "stop_id": "GAMB",
+        "stop_name": "Gambetta",
+        "stop_lat": 47.22358023,
+        "stop_lon": -1.53856078
+    },
+    {
+        "stop_id": "GATI",
+        "stop_name": "Gâtine",
+        "stop_lat": 47.21340454,
+        "stop_lon": -1.66059828
+    },
+    {
+        "stop_id": "GAUT",
+        "stop_name": "Gautellerie",
+        "stop_lat": 47.17739585,
+        "stop_lon": -1.60201963
+    },
+    {
+        "stop_id": "GBLO",
+        "stop_name": "Grand Blottereau",
+        "stop_lat": 47.22974326,
+        "stop_lon": -1.51105989
+    },
+    {
+        "stop_id": "GBNI",
+        "stop_name": "Guiblinière",
+        "stop_lat": 47.29242582,
+        "stop_lon": -1.52037824
+    },
+    {
+        "stop_id": "GBTA",
+        "stop_name": "Grande-Bretagne",
+        "stop_lat": 47.26229573,
+        "stop_lon": -1.50214038
+    },
+    {
+        "stop_id": "GCAR",
+        "stop_name": "Grand Carcouët",
+        "stop_lat": 47.23129641,
+        "stop_lon": -1.59211662
+    },
+    {
+        "stop_id": "GCEN",
+        "stop_name": "Grande Censive",
+        "stop_lat": 47.25211163,
+        "stop_lon": -1.54991861
+    },
+    {
+        "stop_id": "GCHE",
+        "stop_name": "Gachet",
+        "stop_lat": 47.29259995,
+        "stop_lon": -1.52403246
+    },
+    {
+        "stop_id": "GCSO",
+        "stop_name": "Glacisol",
+        "stop_lat": 47.25158666,
+        "stop_lon": -1.50440449
+    },
+    {
+        "stop_id": "GDCH",
+        "stop_name": "Gare de Chantenay",
+        "stop_lat": 47.19791548,
+        "stop_lon": -1.59361074
+    },
+    {
+        "stop_id": "GDEN",
+        "stop_name": "Goldens",
+        "stop_lat": 47.16203033,
+        "stop_lon": -1.49963083
+    },
+    {
+        "stop_id": "GDFI",
+        "stop_name": "Grand Fief",
+        "stop_lat": 47.12559806,
+        "stop_lon": -1.62554131
+    },
+    {
+        "stop_id": "GDNN",
+        "stop_name": "Gendronnerie",
+        "stop_lat": 47.12729774,
+        "stop_lon": -1.63914445
+    },
+    {
+        "stop_id": "GDOU",
+        "stop_name": "Grande Ouche",
+        "stop_lat": 47.18133696,
+        "stop_lon": -1.57968637
+    },
+    {
+        "stop_id": "GDPI",
+        "stop_name": "Grande Pièce",
+        "stop_lat": 47.1990716,
+        "stop_lon": -1.51039424
+    },
+    {
+        "stop_id": "GDRE",
+        "stop_name": "Guindré",
+        "stop_lat": 47.23920277,
+        "stop_lon": -1.53803053
+    },
+    {
+        "stop_id": "GELL",
+        "stop_name": "Grande Noëlle",
+        "stop_lat": 47.16234559,
+        "stop_lon": -1.50219674
+    },
+    {
+        "stop_id": "GERA",
+        "stop_name": "Géraudière",
+        "stop_lat": 47.26175705,
+        "stop_lon": -1.56711137
+    },
+    {
+        "stop_id": "GESV",
+        "stop_name": "Gesvrine",
+        "stop_lat": 47.2698022,
+        "stop_lon": -1.55219083
+    },
+    {
+        "stop_id": "GEVR",
+        "stop_name": "Gesvres",
+        "stop_lat": 47.26365391,
+        "stop_lon": -1.54872959
+    },
+    {
+        "stop_id": "GGAU",
+        "stop_name": "Gergaudière",
+        "stop_lat": 47.28959688,
+        "stop_lon": -1.58587483
+    },
+    {
+        "stop_id": "GGNO",
+        "stop_name": "Grignon",
+        "stop_lat": 47.2164631,
+        "stop_lon": -1.46654077
+    },
+    {
+        "stop_id": "GGUI",
+        "stop_name": "Gauguin",
+        "stop_lat": 47.16666708,
+        "stop_lon": -1.55469861
+    },
+    {
+        "stop_id": "GIAR",
+        "stop_name": "Gilarderie",
+        "stop_lat": 47.1858884,
+        "stop_lon": -1.68248578
+    },
+    {
+        "stop_id": "GIBR",
+        "stop_name": "Gibraye",
+        "stop_lat": 47.20497394,
+        "stop_lon": -1.5175507
+    },
+    {
+        "stop_id": "GIND",
+        "stop_name": "Gare d'Indre",
+        "stop_lat": 47.2049257,
+        "stop_lon": -1.6625528
+    },
+    {
+        "stop_id": "GIQU",
+        "stop_name": "Gicquelière",
+        "stop_lat": 47.25810214,
+        "stop_lon": -1.45838705
+    },
+    {
+        "stop_id": "GLAU",
+        "stop_name": "Grillaud",
+        "stop_lat": 47.22028479,
+        "stop_lon": -1.58158182
+    },
+    {
+        "stop_id": "GLDE",
+        "stop_name": "Grande Lande",
+        "stop_lat": 47.19222248,
+        "stop_lon": -1.49755349
+    },
+    {
+        "stop_id": "GLEI",
+        "stop_name": "Grolerie",
+        "stop_lat": 47.17269593,
+        "stop_lon": -1.47236043
+    },
+    {
+        "stop_id": "GLIE",
+        "stop_name": "Gilière",
+        "stop_lat": 47.2997578,
+        "stop_lon": -1.55277499
+    },
+    {
+        "stop_id": "GLNE",
+        "stop_name": "Galarne",
+        "stop_lat": 47.20819359,
+        "stop_lon": -1.53000277
+    },
+    {
+        "stop_id": "GLOU",
+        "stop_name": "Grange au Loup",
+        "stop_lat": 47.26378596,
+        "stop_lon": -1.51546845
+    },
+    {
+        "stop_id": "GMAR",
+        "stop_name": "Gare Maritime",
+        "stop_lat": 47.20706572,
+        "stop_lon": -1.57338159
+    },
+    {
+        "stop_id": "GMDR",
+        "stop_name": "Grimaudière",
+        "stop_lat": 47.29204395,
+        "stop_lon": -1.53587026
+    },
+    {
+        "stop_id": "GMOL",
+        "stop_name": "Guy Mollet",
+        "stop_lat": 47.24944492,
+        "stop_lon": -1.55517566
+    },
+    {
+        "stop_id": "GMTL",
+        "stop_name": "Germaine Tillon",
+        "stop_lat": 47.26627216,
+        "stop_lon": -1.51378206
+    },
+    {
+        "stop_id": "GNRA",
+        "stop_name": "Greneraie",
+        "stop_lat": 47.19945857,
+        "stop_lon": -1.53296736
+    },
+    {
+        "stop_id": "GOBI",
+        "stop_name": "Gobinière",
+        "stop_lat": 47.24935632,
+        "stop_lon": -1.58713288
+    },
+    {
+        "stop_id": "GOLF",
+        "stop_name": "Golf",
+        "stop_lat": 47.23619473,
+        "stop_lon": -1.60434919
+    },
+    {
+        "stop_id": "GONI",
+        "stop_name": "Gournière",
+        "stop_lat": 47.26826457,
+        "stop_lon": -1.54944451
+    },
+    {
+        "stop_id": "GPOR",
+        "stop_name": "Grand Portail",
+        "stop_lat": 47.20142758,
+        "stop_lon": -1.52361868
+    },
+    {
+        "stop_id": "GPRO",
+        "stop_name": "Gare de Pont Rousseau",
+        "stop_lat": 47.19295925,
+        "stop_lon": -1.54886586
+    },
+    {
+        "stop_id": "GRAM",
+        "stop_name": "Grammoire",
+        "stop_lat": 47.1835049,
+        "stop_lon": -1.47264466
+    },
+    {
+        "stop_id": "GRCH",
+        "stop_name": "Grand Chemin",
+        "stop_lat": 47.19725449,
+        "stop_lon": -1.7837965
+    },
+    {
+        "stop_id": "GRET",
+        "stop_name": "Gare de l'État",
+        "stop_lat": 47.2046935,
+        "stop_lon": -1.56005682
+    },
+    {
+        "stop_id": "GRIM",
+        "stop_name": "Grimm",
+        "stop_lat": 47.21611145,
+        "stop_lon": -1.64552776
+    },
+    {
+        "stop_id": "GRMA",
+        "stop_name": "Grimau",
+        "stop_lat": 47.22832018,
+        "stop_lon": -1.65486489
+    },
+    {
+        "stop_id": "GROR",
+        "stop_name": "Garenne",
+        "stop_lat": 47.26519412,
+        "stop_lon": -1.62747924
+    },
+    {
+        "stop_id": "GRPO",
+        "stop_name": "Gripots",
+        "stop_lat": 47.19246983,
+        "stop_lon": -1.49176824
+    },
+    {
+        "stop_id": "GRTE",
+        "stop_name": "Garotterie",
+        "stop_lat": 47.22423142,
+        "stop_lon": -1.60693971
+    },
+    {
+        "stop_id": "GRVI",
+        "stop_name": "Guerivières",
+        "stop_lat": 47.2051795,
+        "stop_lon": -1.46732471
+    },
+    {
+        "stop_id": "GRZI",
+        "stop_name": "Grezillières",
+        "stop_lat": 47.21439055,
+        "stop_lon": -1.47829212
+    },
+    {
+        "stop_id": "GSAN",
+        "stop_name": "George Sand",
+        "stop_lat": 47.16578544,
+        "stop_lon": -1.54492912
+    },
+    {
+        "stop_id": "GSEN",
+        "stop_name": "Grasse Noue",
+        "stop_lat": 47.28025429,
+        "stop_lon": -1.5818988
+    },
+    {
+        "stop_id": "GSIN",
+        "stop_name": "Grassinière",
+        "stop_lat": 47.16579206,
+        "stop_lon": -1.50790187
+    },
+    {
+        "stop_id": "GSNO",
+        "stop_name": "Gare Nord - Jardin des Plantes",
+        "stop_lat": 47.21786296,
+        "stop_lon": -1.54278792
+    },
+    {
+        "stop_id": "GSSU",
+        "stop_name": "Gare Sud",
+        "stop_lat": 47.21531024,
+        "stop_lon": -1.54183218
+    },
+    {
+        "stop_id": "GTAE",
+        "stop_name": "Grootaers",
+        "stop_lat": 47.23966759,
+        "stop_lon": -1.58464851
+    },
+    {
+        "stop_id": "GTLA",
+        "stop_name": "Garettes - Landreau",
+        "stop_lat": 47.27308793,
+        "stop_lon": -1.63056725
+    },
+    {
+        "stop_id": "GTVE",
+        "stop_name": "Gaston Veil",
+        "stop_lat": 47.21014781,
+        "stop_lon": -1.55561116
+    },
+    {
+        "stop_id": "GULO",
+        "stop_name": "Guilloterie",
+        "stop_lat": 47.16986818,
+        "stop_lon": -1.5604216
+    },
+    {
+        "stop_id": "GURO",
+        "stop_name": "Gustave Roch",
+        "stop_lat": 47.2040924,
+        "stop_lon": -1.55198964
+    },
+    {
+        "stop_id": "GVNO",
+        "stop_name": "Gare de Vertou Nord",
+        "stop_lat": 47.1870999,
+        "stop_lon": -1.47850463
+    },
+    {
+        "stop_id": "GVSU",
+        "stop_name": "Gare de Vertou Sud",
+        "stop_lat": 47.1856238,
+        "stop_lon": -1.47665429
+    },
+    {
+        "stop_id": "HALU",
+        "stop_name": "Haluchère - Batignolles",
+        "stop_lat": 47.24871997,
+        "stop_lon": -1.5222357
+    },
+    {
+        "stop_id": "HARO",
+        "stop_name": "Harouys",
+        "stop_lat": 47.21690025,
+        "stop_lon": -1.56700426
+    },
+    {
+        "stop_id": "HAUB",
+        "stop_name": "Haubans",
+        "stop_lat": 47.21464189,
+        "stop_lon": -1.53001407
+    },
+    {
+        "stop_id": "HAVE",
+        "stop_name": "Halvêque",
+        "stop_lat": 47.25744228,
+        "stop_lon": -1.52030817
+    },
+    {
+        "stop_id": "HBAN",
+        "stop_name": "Hangar à Bananes",
+        "stop_lat": 47.20049084,
+        "stop_lon": -1.57284835
+    },
+    {
+        "stop_id": "HBDE",
+        "stop_name": "Halbarderie",
+        "stop_lat": 47.26831753,
+        "stop_lon": -1.43799446
+    },
+    {
+        "stop_id": "HBLI",
+        "stop_name": "Hôpital Bellier",
+        "stop_lat": 47.22112579,
+        "stop_lon": -1.52474528
+    },
+    {
+        "stop_id": "HBRA",
+        "stop_name": "Herbray",
+        "stop_lat": 47.15046703,
+        "stop_lon": -1.47100957
+    },
+    {
+        "stop_id": "HCOU",
+        "stop_name": "Hauts de Couëron",
+        "stop_lat": 47.24055434,
+        "stop_lon": -1.66962425
+    },
+    {
+        "stop_id": "HDIE",
+        "stop_name": "Haudrière",
+        "stop_lat": 47.15448516,
+        "stop_lon": -1.4676472
+    },
+    {
+        "stop_id": "HERM",
+        "stop_name": "Hermeland",
+        "stop_lat": 47.22998839,
+        "stop_lon": -1.61680792
+    },
+    {
+        "stop_id": "HFLE",
+        "stop_name": "Hameau Fleuri",
+        "stop_lat": 47.25106852,
+        "stop_lon": -1.58996363
+    },
+    {
+        "stop_id": "HFVE",
+        "stop_name": "Haute Forêt",
+        "stop_lat": 47.16828801,
+        "stop_lon": -1.46555463
+    },
+    {
+        "stop_id": "HGNR",
+        "stop_name": "Haute Gournière",
+        "stop_lat": 47.26788984,
+        "stop_lon": -1.54586193
+    },
+    {
+        "stop_id": "HILE",
+        "stop_name": "Haute Île",
+        "stop_lat": 47.19476901,
+        "stop_lon": -1.55637969
+    },
+    {
+        "stop_id": "HIND",
+        "stop_name": "Haute-Indre",
+        "stop_lat": 47.19540943,
+        "stop_lon": -1.64982033
+    },
+    {
+        "stop_id": "HIPP",
+        "stop_name": "Hippodrome",
+        "stop_lat": 47.24703628,
+        "stop_lon": -1.5673606
+    },
+    {
+        "stop_id": "HLAN",
+        "stop_name": "Haute Lande",
+        "stop_lat": 47.15391657,
+        "stop_lon": -1.52368298
+    },
+    {
+        "stop_id": "HLLR",
+        "stop_name": "Hilière",
+        "stop_lat": 47.28774888,
+        "stop_lon": -1.43001755
+    },
+    {
+        "stop_id": "HMLL",
+        "stop_name": "Houmaille",
+        "stop_lat": 47.18907145,
+        "stop_lon": -1.58700912
+    },
+    {
+        "stop_id": "HODI",
+        "stop_name": "Hôtel Dieu",
+        "stop_lat": 47.21236337,
+        "stop_lon": -1.55443996
+    },
+    {
+        "stop_id": "HOGR",
+        "stop_name": "Hongrie",
+        "stop_lat": 47.21594292,
+        "stop_lon": -1.52411609
+    },
+    {
+        "stop_id": "HOSE",
+        "stop_name": "Housseau",
+        "stop_lat": 47.28104613,
+        "stop_lon": -1.49836431
+    },
+    {
+        "stop_id": "HPLA",
+        "stop_name": "Hôpital Laënnec",
+        "stop_lat": 47.23687497,
+        "stop_lon": -1.6409032
+    },
+    {
+        "stop_id": "HREG",
+        "stop_name": "Hôtel de Région",
+        "stop_lat": 47.21032136,
+        "stop_lon": -1.52625744
+    },
+    {
+        "stop_id": "HRLL",
+        "stop_name": "Hérelle",
+        "stop_lat": 47.20159025,
+        "stop_lon": -1.58674154
+    },
+    {
+        "stop_id": "HVCQ",
+        "stop_name": "Mairie de Carquefou",
+        "stop_lat": 47.29891286,
+        "stop_lon": -1.49032153
+    },
+    {
+        "stop_id": "HVNA",
+        "stop_name": "Hôtel de Ville",
+        "stop_lat": 47.2178267,
+        "stop_lon": -1.55444338
+    },
+    {
+        "stop_id": "ICAM",
+        "stop_name": "ICAM",
+        "stop_lat": 47.2736037,
+        "stop_lon": -1.5018768
+    },
+    {
+        "stop_id": "ICOU",
+        "stop_name": "ICO",
+        "stop_lat": 47.23852646,
+        "stop_lon": -1.6382514
+    },
+    {
+        "stop_id": "IDFR",
+        "stop_name": "Île de France",
+        "stop_lat": 47.1693945,
+        "stop_lon": -1.46782946
+    },
+    {
+        "stop_id": "IDLO",
+        "stop_name": "Îles de Loire",
+        "stop_lat": 47.21077207,
+        "stop_lon": -1.49031802
+    },
+    {
+        "stop_id": "IDNA",
+        "stop_name": "Île de Nantes",
+        "stop_lat": 47.2059563,
+        "stop_lon": -1.53879775
+    },
+    {
+        "stop_id": "IMPR",
+        "stop_name": "Imprimeurs",
+        "stop_lat": 47.2386529,
+        "stop_lon": -1.67006504
+    },
+    {
+        "stop_id": "INLA",
+        "stop_name": "Internat Laënnec",
+        "stop_lat": 47.23499666,
+        "stop_lon": -1.64059952
+    },
+    {
+        "stop_id": "INRE",
+        "stop_name": "Indre",
+        "stop_lat": 47.20112077,
+        "stop_lon": -1.66665753
+    },
+    {
+        "stop_id": "IROI",
+        "stop_name": "Iroise",
+        "stop_lat": 47.24821551,
+        "stop_lon": -1.53650389
+    },
+    {
+        "stop_id": "ISLE",
+        "stop_name": "Islettes",
+        "stop_lat": 47.26333052,
+        "stop_lon": -1.47615418
+    },
+    {
+        "stop_id": "IUTH",
+        "stop_name": "IUT",
+        "stop_lat": 47.29791024,
+        "stop_lon": -1.50461762
+    },
+    {
+        "stop_id": "JALI",
+        "stop_name": "Jalière",
+        "stop_lat": 47.2636894,
+        "stop_lon": -1.59626387
+    },
+    {
+        "stop_id": "JAME",
+        "stop_name": "Jamet",
+        "stop_lat": 47.21010985,
+        "stop_lon": -1.60316148
+    },
+    {
+        "stop_id": "JANA",
+        "stop_name": "Jaunais",
+        "stop_lat": 47.17603889,
+        "stop_lon": -1.53376463
+    },
+    {
+        "stop_id": "JAPY",
+        "stop_name": "Japy",
+        "stop_lat": 47.25991509,
+        "stop_lon": -1.51039387
+    },
+    {
+        "stop_id": "JARI",
+        "stop_name": "Jarriais",
+        "stop_lat": 47.21290859,
+        "stop_lon": -1.71902739
+    },
+    {
+        "stop_id": "JAUR",
+        "stop_name": "Jacqueline Auriol",
+        "stop_lat": 47.27117105,
+        "stop_lon": -1.47179655
+    },
+    {
+        "stop_id": "JBAR",
+        "stop_name": "Jean Bart",
+        "stop_lat": 47.19923686,
+        "stop_lon": -1.67542268
+    },
+    {
+        "stop_id": "JBNA",
+        "stop_name": "Jeanne Bernard",
+        "stop_lat": 47.23590325,
+        "stop_lon": -1.59066715
+    },
+    {
+        "stop_id": "JCAR",
+        "stop_name": "Jacques Cartier",
+        "stop_lat": 47.22389662,
+        "stop_lon": -1.63622818
+    },
+    {
+        "stop_id": "JCOU",
+        "stop_name": "Joncours",
+        "stop_lat": 47.21995305,
+        "stop_lon": -1.58677946
+    },
+    {
+        "stop_id": "JDGA",
+        "stop_name": "Jardins de Gaïa",
+        "stop_lat": 47.15756688,
+        "stop_lon": -1.67822907
+    },
+    {
+        "stop_id": "JFER",
+        "stop_name": "Jules Ferry",
+        "stop_lat": 47.25072688,
+        "stop_lon": -1.4875114
+    },
+    {
+        "stop_id": "JFRA",
+        "stop_name": "Jean Fraix",
+        "stop_lat": 47.18604445,
+        "stop_lon": -1.5419551
+    },
+    {
+        "stop_id": "JGUE",
+        "stop_name": "Jaguère",
+        "stop_lat": 47.17550945,
+        "stop_lon": -1.56764539
+    },
+    {
+        "stop_id": "JHDI",
+        "stop_name": "Jahardières",
+        "stop_lat": 47.12538906,
+        "stop_lon": -1.64281818
+    },
+    {
+        "stop_id": "JJCE",
+        "stop_name": "Jean Jaurès",
+        "stop_lat": 47.30127559,
+        "stop_lon": -1.5498006
+    },
+    {
+        "stop_id": "JJNA",
+        "stop_name": "Jean Jaurès",
+        "stop_lat": 47.21836198,
+        "stop_lon": -1.56005961
+    },
+    {
+        "stop_id": "JLIE",
+        "stop_name": "Joliverie",
+        "stop_lat": 47.18986654,
+        "stop_lon": -1.51945811
+    },
+    {
+        "stop_id": "JLVE",
+        "stop_name": "Joliverie",
+        "stop_lat": 47.18955371,
+        "stop_lon": -1.51750265
+    },
+    {
+        "stop_id": "JMAC",
+        "stop_name": "Jean Macé",
+        "stop_lat": 47.20054535,
+        "stop_lon": -1.5892829
+    },
+    {
+        "stop_id": "JMLI",
+        "stop_name": "Jean Moulin",
+        "stop_lat": 47.20679569,
+        "stop_lon": -1.60054105
+    },
+    {
+        "stop_id": "JMON",
+        "stop_name": "Jean Monnet",
+        "stop_lat": 47.16620421,
+        "stop_lon": -1.46516502
+    },
+    {
+        "stop_id": "JNAI",
+        "stop_name": "Jaunaie",
+        "stop_lat": 47.21888373,
+        "stop_lon": -1.72783741
+    },
+    {
+        "stop_id": "JNEA",
+        "stop_name": "Jauneau",
+        "stop_lat": 47.27376314,
+        "stop_lon": -1.45014915
+    },
+    {
+        "stop_id": "JNIG",
+        "stop_name": "Jean Ingres",
+        "stop_lat": 47.22237373,
+        "stop_lon": -1.59680515
+    },
+    {
+        "stop_id": "JNLI",
+        "stop_name": "Jonelière",
+        "stop_lat": 47.25173237,
+        "stop_lon": -1.54077058
+    },
+    {
+        "stop_id": "JOTE",
+        "stop_name": "Jouetterie",
+        "stop_lat": 47.13146095,
+        "stop_lon": -1.66248403
+    },
+    {
+        "stop_id": "JPER",
+        "stop_name": "Jean Perrin",
+        "stop_lat": 47.18126214,
+        "stop_lon": -1.5607041
+    },
+    {
+        "stop_id": "JPTR",
+        "stop_name": "Jupiter",
+        "stop_lat": 47.28437682,
+        "stop_lon": -1.45579165
+    },
+    {
+        "stop_id": "JROS",
+        "stop_name": "Jean Rostand",
+        "stop_lat": 47.24590592,
+        "stop_lon": -1.59379453
+    },
+    {
+        "stop_id": "JTIC",
+        "stop_name": "Justice",
+        "stop_lat": 47.20948976,
+        "stop_lon": -1.63099877
+    },
+    {
+        "stop_id": "JUIV",
+        "stop_name": "Juiverie",
+        "stop_lat": 47.21072325,
+        "stop_lon": -1.62472964
+    },
+    {
+        "stop_id": "JUME",
+        "stop_name": "Jumelière",
+        "stop_lat": 47.29430784,
+        "stop_lon": -1.48763799
+    },
+    {
+        "stop_id": "JVAL",
+        "stop_name": "Jules Vallès",
+        "stop_lat": 47.17342955,
+        "stop_lon": -1.57081171
+    },
+    {
+        "stop_id": "JVNA",
+        "stop_name": "Jules Verne",
+        "stop_lat": 47.24880342,
+        "stop_lon": -1.51728965
+    },
+    {
+        "stop_id": "JVRA",
+        "stop_name": "Janvraie",
+        "stop_lat": 47.20000078,
+        "stop_lon": -1.61230633
+    },
+    {
+        "stop_id": "KERE",
+        "stop_name": "Keren",
+        "stop_lat": 47.2444297,
+        "stop_lon": -1.53372604
+    },
+    {
+        "stop_id": "KOEN",
+        "stop_name": "Koenig",
+        "stop_lat": 47.19803845,
+        "stop_lon": -1.6156331
+    },
+    {
+        "stop_id": "KOUF",
+        "stop_name": "Koufra",
+        "stop_lat": 47.25034953,
+        "stop_lon": -1.53112554
+    },
+    {
+        "stop_id": "LABE",
+        "stop_name": "Lac de Beaulieu",
+        "stop_lat": 47.21935437,
+        "stop_lon": -1.69242493
+    },
+    {
+        "stop_id": "LACH",
+        "stop_name": "L'Arche",
+        "stop_lat": 47.21284433,
+        "stop_lon": -1.70837557
+    },
+    {
+        "stop_id": "LADO",
+        "stop_name": "Ladoumègue",
+        "stop_lat": 47.29611088,
+        "stop_lon": -1.48652268
+    },
+    {
+        "stop_id": "LAGE",
+        "stop_name": "Largeau",
+        "stop_lat": 47.19558785,
+        "stop_lon": -1.51009892
+    },
+    {
+        "stop_id": "LAHA",
+        "stop_name": "La Haie",
+        "stop_lat": 47.26092483,
+        "stop_lon": -1.47509623
+    },
+    {
+        "stop_id": "LAIL",
+        "stop_name": "Les Ailes",
+        "stop_lat": 47.17121297,
+        "stop_lon": -1.57412762
+    },
+    {
+        "stop_id": "LALL",
+        "stop_name": "Lallié",
+        "stop_lat": 47.22673376,
+        "stop_lon": -1.54641933
+    },
+    {
+        "stop_id": "LAMA",
+        "stop_name": "Lamartine",
+        "stop_lat": 47.21649329,
+        "stop_lon": -1.57886784
+    },
+    {
+        "stop_id": "LANA",
+        "stop_name": "Launay",
+        "stop_lat": 47.26551981,
+        "stop_lon": -1.63233563
+    },
+    {
+        "stop_id": "LAUR",
+        "stop_name": "Lauriers",
+        "stop_lat": 47.20492373,
+        "stop_lon": -1.60521282
+    },
+    {
+        "stop_id": "LAXX",
+        "stop_name": "La Croix",
+        "stop_lat": 47.16527449,
+        "stop_lon": -1.48674188
+    },
+    {
+        "stop_id": "LBAU",
+        "stop_name": "Les Bauches",
+        "stop_lat": 47.26329571,
+        "stop_lon": -1.67724329
+    },
+    {
+        "stop_id": "LBER",
+        "stop_name": "Lindbergh",
+        "stop_lat": 47.15506869,
+        "stop_lon": -1.59837208
+    },
+    {
+        "stop_id": "LBOS",
+        "stop_name": "La Brosse",
+        "stop_lat": 47.33298,
+        "stop_lon": -1.56960262
+    },
+    {
+        "stop_id": "LBPI",
+        "stop_name": "L'Ébaupin",
+        "stop_lat": 47.17158139,
+        "stop_lon": -1.50998036
+    },
+    {
+        "stop_id": "LBUS",
+        "stop_name": "Les Buissons",
+        "stop_lat": 47.27824175,
+        "stop_lon": -1.44364074
+    },
+    {
+        "stop_id": "LCAR",
+        "stop_name": "Le Cardo",
+        "stop_lat": 47.26181538,
+        "stop_lon": -1.58443023
+    },
+    {
+        "stop_id": "LCBU",
+        "stop_name": "Le Corbusier",
+        "stop_lat": 47.19021498,
+        "stop_lon": -1.56857268
+    },
+    {
+        "stop_id": "LCEE",
+        "stop_name": "La Carrée",
+        "stop_lat": 47.16853282,
+        "stop_lon": -1.54390397
+    },
+    {
+        "stop_id": "LCLE",
+        "stop_name": "La Coulée",
+        "stop_lat": 47.26014155,
+        "stop_lon": -1.57475936
+    },
+    {
+        "stop_id": "LCNE",
+        "stop_name": "Le Chêne",
+        "stop_lat": 47.16522543,
+        "stop_lon": -1.48439435
+    },
+    {
+        "stop_id": "LCOG",
+        "stop_name": "La Cogne",
+        "stop_lat": 47.28761252,
+        "stop_lon": -1.55675793
+    },
+    {
+        "stop_id": "LCSE",
+        "stop_name": "La Close",
+        "stop_lat": 47.2408716,
+        "stop_lon": -1.57271903
+    },
+    {
+        "stop_id": "LCTE",
+        "stop_name": "La Côte",
+        "stop_lat": 47.28207546,
+        "stop_lon": -1.5604627
+    },
+    {
+        "stop_id": "LDAS",
+        "stop_name": "Landas",
+        "stop_lat": 47.16932388,
+        "stop_lon": -1.51074929
+    },
+    {
+        "stop_id": "LDRE",
+        "stop_name": "Landreau",
+        "stop_lat": 47.23217333,
+        "stop_lon": -1.51623283
+    },
+    {
+        "stop_id": "LEBP",
+        "stop_name": "L'Ebaupin",
+        "stop_lat": 47.2842875,
+        "stop_lon": -1.44388449
+    },
+    {
+        "stop_id": "LECH",
+        "stop_name": "Lechat",
+        "stop_lat": 47.20411047,
+        "stop_lon": -1.58094203
+    },
+    {
+        "stop_id": "LEGU",
+        "stop_name": "Leygues",
+        "stop_lat": 47.20318133,
+        "stop_lon": -1.54209099
+    },
+    {
+        "stop_id": "LEVO",
+        "stop_name": "Levoyer",
+        "stop_lat": 47.19442286,
+        "stop_lon": -1.58099009
+    },
+    {
+        "stop_id": "LFAU",
+        "stop_name": "Les Faulx",
+        "stop_lat": 47.15720883,
+        "stop_lon": -1.52275962
+    },
+    {
+        "stop_id": "LFER",
+        "stop_name": "La Ferme",
+        "stop_lat": 47.26421915,
+        "stop_lon": -1.68026466
+    },
+    {
+        "stop_id": "LFLE",
+        "stop_name": "Laurier Fleuri",
+        "stop_lat": 47.18839405,
+        "stop_lon": -1.48369649
+    },
+    {
+        "stop_id": "LFOR",
+        "stop_name": "La Forêt",
+        "stop_lat": 47.14947537,
+        "stop_lon": -1.63938699
+    },
+    {
+        "stop_id": "LFVR",
+        "stop_name": "Lefeuvre",
+        "stop_lat": 47.26668521,
+        "stop_lon": -1.49504763
+    },
+    {
+        "stop_id": "LGAR",
+        "stop_name": "La Garde",
+        "stop_lat": 47.25574916,
+        "stop_lon": -1.50908609
+    },
+    {
+        "stop_id": "LGOF",
+        "stop_name": "Le Goffic",
+        "stop_lat": 47.22997873,
+        "stop_lon": -1.56317754
+    },
+    {
+        "stop_id": "LGRI",
+        "stop_name": "La Grille",
+        "stop_lat": 47.25096813,
+        "stop_lon": -1.48120883
+    },
+    {
+        "stop_id": "LGTH",
+        "stop_name": "Lagathu",
+        "stop_lat": 47.18036592,
+        "stop_lon": -1.53654374
+    },
+    {
+        "stop_id": "LHAC",
+        "stop_name": "La Hache",
+        "stop_lat": 47.26214345,
+        "stop_lon": -1.49900192
+    },
+    {
+        "stop_id": "LHER",
+        "stop_name": "La Herdrie",
+        "stop_lat": 47.19780011,
+        "stop_lon": -1.4541178
+    },
+    {
+        "stop_id": "LHIE",
+        "stop_name": "La Haie",
+        "stop_lat": 47.29015052,
+        "stop_lon": -1.54255674
+    },
+    {
+        "stop_id": "LHLE",
+        "stop_name": "Le Halleray",
+        "stop_lat": 47.26982394,
+        "stop_lon": -1.45659159
+    },
+    {
+        "stop_id": "LHOU",
+        "stop_name": "La Houssais",
+        "stop_lat": 47.1742361,
+        "stop_lon": -1.55369405
+    },
+    {
+        "stop_id": "LHPI",
+        "stop_name": "L'Hôpitau",
+        "stop_lat": 47.27222023,
+        "stop_lon": -1.5516628
+    },
+    {
+        "stop_id": "LIBE",
+        "stop_name": "Libération",
+        "stop_lat": 47.17729548,
+        "stop_lon": -1.67904538
+    },
+    {
+        "stop_id": "LILA",
+        "stop_name": "Lilas",
+        "stop_lat": 47.13774367,
+        "stop_lon": -1.46888716
+    },
+    {
+        "stop_id": "LION",
+        "stop_name": "Lionnière",
+        "stop_lat": 47.21866064,
+        "stop_lon": -1.69598326
+    },
+    {
+        "stop_id": "LIPP",
+        "stop_name": "Lippmann",
+        "stop_lat": 47.23896584,
+        "stop_lon": -1.52035755
+    },
+    {
+        "stop_id": "LITT",
+        "stop_name": "Littré",
+        "stop_lat": 47.21780088,
+        "stop_lon": -1.58231866
+    },
+    {
+        "stop_id": "LJOS",
+        "stop_name": "Léon Jost",
+        "stop_lat": 47.23633886,
+        "stop_lon": -1.56326841
+    },
+    {
+        "stop_id": "LLGR",
+        "stop_name": "Léo Lagrange",
+        "stop_lat": 47.2969125,
+        "stop_lon": -1.5559861
+    },
+    {
+        "stop_id": "LLIO",
+        "stop_name": "Les Lions",
+        "stop_lat": 47.24984587,
+        "stop_lon": -1.61549843
+    },
+    {
+        "stop_id": "LLMO",
+        "stop_name": "Le Clémois",
+        "stop_lat": 47.13741437,
+        "stop_lon": -1.72256644
+    },
+    {
+        "stop_id": "LLOR",
+        "stop_name": "La Lorie",
+        "stop_lat": 47.23527989,
+        "stop_lon": -1.6570017
+    },
+    {
+        "stop_id": "LMAR",
+        "stop_name": "La Marche",
+        "stop_lat": 47.18061451,
+        "stop_lon": -1.65906019
+    },
+    {
+        "stop_id": "LMBR",
+        "stop_name": "Lambert",
+        "stop_lat": 47.17092448,
+        "stop_lon": -1.5397214
+    },
+    {
+        "stop_id": "LMEE",
+        "stop_name": "La martinière",
+        "stop_lat": 47.20633168,
+        "stop_lon": -1.78491058
+    },
+    {
+        "stop_id": "LMIC",
+        "stop_name": "Louise Michel",
+        "stop_lat": 47.21948695,
+        "stop_lon": -1.61318817
+    },
+    {
+        "stop_id": "LMNE",
+        "stop_name": "Lemoine",
+        "stop_lat": 47.23556457,
+        "stop_lon": -1.54749291
+    },
+    {
+        "stop_id": "LMRI",
+        "stop_name": "Lamoricière",
+        "stop_lat": 47.21454338,
+        "stop_lon": -1.57257844
+    },
+    {
+        "stop_id": "LMTA",
+        "stop_name": "La Montagne",
+        "stop_lat": 47.18846838,
+        "stop_lon": -1.68921079
+    },
+    {
+        "stop_id": "LNAI",
+        "stop_name": "Le Nain",
+        "stop_lat": 47.2265872,
+        "stop_lon": -1.60097182
+    },
+    {
+        "stop_id": "LNNI",
+        "stop_name": "Lonnières",
+        "stop_lat": 47.32358894,
+        "stop_lon": -1.34763497
+    },
+    {
+        "stop_id": "LNOU",
+        "stop_name": "La Noue",
+        "stop_lat": 47.14070793,
+        "stop_lon": -1.60744492
+    },
+    {
+        "stop_id": "LNTT",
+        "stop_name": "Linot",
+        "stop_lat": 47.26539284,
+        "stop_lon": -1.52612921
+    },
+    {
+        "stop_id": "LOIR",
+        "stop_name": "Loire",
+        "stop_lat": 47.24846389,
+        "stop_lon": -1.48652555
+    },
+    {
+        "stop_id": "LOMB",
+        "stop_name": "Lombarderie",
+        "stop_lat": 47.23363952,
+        "stop_lon": -1.55551448
+    },
+    {
+        "stop_id": "LONG",
+        "stop_name": "Longchamp",
+        "stop_lat": 47.23491246,
+        "stop_lon": -1.58217215
+    },
+    {
+        "stop_id": "LPBA",
+        "stop_name": "Bac du Pellerin",
+        "stop_lat": 47.20293814,
+        "stop_lon": -1.75489396
+    },
+    {
+        "stop_id": "LPEL",
+        "stop_name": "Le Pellerin",
+        "stop_lat": 47.20067171,
+        "stop_lon": -1.75953423
+    },
+    {
+        "stop_id": "LPLE",
+        "stop_name": "La Plée",
+        "stop_lat": 47.19317355,
+        "stop_lon": -1.46273233
+    },
+    {
+        "stop_id": "LPME",
+        "stop_name": "La Plume",
+        "stop_lat": 47.19491281,
+        "stop_lon": -1.50547068
+    },
+    {
+        "stop_id": "LRAY",
+        "stop_name": "Le Gray 1",
+        "stop_lat": 47.28419403,
+        "stop_lon": -1.58684812
+    },
+    {
+        "stop_id": "LRCH",
+        "stop_name": "La Roche",
+        "stop_lat": 47.21648637,
+        "stop_lon": -1.51926306
+    },
+    {
+        "stop_id": "LRHE",
+        "stop_name": "Les Roches",
+        "stop_lat": 47.2631191,
+        "stop_lon": -1.5803079
+    },
+    {
+        "stop_id": "LRNE",
+        "stop_name": "Lourneau",
+        "stop_lat": 47.20026797,
+        "stop_lon": -1.48825735
+    },
+    {
+        "stop_id": "LRYA",
+        "stop_name": "Le Gray 2",
+        "stop_lat": 47.28335549,
+        "stop_lon": -1.58401365
+    },
+    {
+        "stop_id": "LSAL",
+        "stop_name": "La Salle",
+        "stop_lat": 47.21447818,
+        "stop_lon": -1.68836546
+    },
+    {
+        "stop_id": "LSLL",
+        "stop_name": "Les Salles",
+        "stop_lat": 47.2503831,
+        "stop_lon": -1.53608288
+    },
+    {
+        "stop_id": "LSOU",
+        "stop_name": "La Source",
+        "stop_lat": 47.3055403,
+        "stop_lon": -1.55172103
+    },
+    {
+        "stop_id": "LSYY",
+        "stop_name": "Léon Say",
+        "stop_lat": 47.22965417,
+        "stop_lon": -1.56922558
+    },
+    {
+        "stop_id": "LTOU",
+        "stop_name": "Le Tour",
+        "stop_lat": 47.1516233,
+        "stop_lon": -1.68948372
+    },
+    {
+        "stop_id": "LUNI",
+        "stop_name": "Lieu Unique",
+        "stop_lat": 47.21584309,
+        "stop_lon": -1.54529314
+    },
+    {
+        "stop_id": "LYBR",
+        "stop_name": "Lycée Brottier",
+        "stop_lat": 47.16062337,
+        "stop_lon": -1.67778337
+    },
+    {
+        "stop_id": "LYCQ",
+        "stop_name": "Lycée Estienne d'Orves",
+        "stop_lat": 47.2794041,
+        "stop_lon": -1.49199735
+    },
+    {
+        "stop_id": "LYOR",
+        "stop_name": "Lycée d'Orbigny",
+        "stop_lat": 47.15430431,
+        "stop_lon": -1.68042474
+    },
+    {
+        "stop_id": "LYPE",
+        "stop_name": "Lycée Appert",
+        "stop_lat": 47.25108331,
+        "stop_lon": -1.61076828
+    },
+    {
+        "stop_id": "LYRI",
+        "stop_name": "Lycée Rieffel",
+        "stop_lat": 47.25545605,
+        "stop_lon": -1.64243254
+    },
+    {
+        "stop_id": "LZCA",
+        "stop_name": "Lusançay",
+        "stop_lat": 47.20271247,
+        "stop_lon": -1.58261457
+    },
+    {
+        "stop_id": "MAAR",
+        "stop_name": "Maillardière",
+        "stop_lat": 47.27390876,
+        "stop_lon": -1.63411928
+    },
+    {
+        "stop_id": "MADO",
+        "stop_name": "Mandon",
+        "stop_lat": 47.16044373,
+        "stop_lon": -1.47075359
+    },
+    {
+        "stop_id": "MAGA",
+        "stop_name": "Gare de Mauves",
+        "stop_lat": 47.29319126,
+        "stop_lon": -1.38983847
+    },
+    {
+        "stop_id": "MAI8",
+        "stop_name": "8 Mai",
+        "stop_lat": 47.18927594,
+        "stop_lon": -1.55168223
+    },
+    {
+        "stop_id": "MALL",
+        "stop_name": "Mail",
+        "stop_lat": 47.26905318,
+        "stop_lon": -1.61162839
+    },
+    {
+        "stop_id": "MARR",
+        "stop_name": "Maison d'Arrêt",
+        "stop_lat": 47.26644048,
+        "stop_lon": -1.5033285
+    },
+    {
+        "stop_id": "MASS",
+        "stop_name": "Massigné",
+        "stop_lat": 47.29892681,
+        "stop_lon": -1.57950986
+    },
+    {
+        "stop_id": "MATI",
+        "stop_name": "Matière",
+        "stop_lat": 47.27636669,
+        "stop_lon": -1.4488886
+    },
+    {
+        "stop_id": "MAUC",
+        "stop_name": "Centre De Mauves",
+        "stop_lat": 47.2967272,
+        "stop_lon": -1.39289412
+    },
+    {
+        "stop_id": "MAZE",
+        "stop_name": "Mazères",
+        "stop_lat": 47.31365297,
+        "stop_lon": -1.35064121
+    },
+    {
+        "stop_id": "MBLA",
+        "stop_name": "Mont Blanc",
+        "stop_lat": 47.1767804,
+        "stop_lon": -1.55588276
+    },
+    {
+        "stop_id": "MBOU",
+        "stop_name": "Mairie de Bouguenais",
+        "stop_lat": 47.17898229,
+        "stop_lon": -1.61877725
+    },
+    {
+        "stop_id": "MBRU",
+        "stop_name": "Moulin Brûlé",
+        "stop_lat": 47.25941448,
+        "stop_lon": -1.65455915
+    },
+    {
+        "stop_id": "MBSE",
+        "stop_name": "Moulin Boisseau",
+        "stop_lat": 47.28841846,
+        "stop_lon": -1.48416682
+    },
+    {
+        "stop_id": "MCAS",
+        "stop_name": "Moulin Cassé",
+        "stop_lat": 47.25627066,
+        "stop_lon": -1.46917285
+    },
+    {
+        "stop_id": "MCCO",
+        "stop_name": "Marché Commun",
+        "stop_lat": 47.25965126,
+        "stop_lon": -1.49998198
+    },
+    {
+        "stop_id": "MCHA",
+        "stop_name": "Mairie de Chantenay",
+        "stop_lat": 47.20632251,
+        "stop_lon": -1.58785112
+    },
+    {
+        "stop_id": "MCOU",
+        "stop_name": "Mairie de Couëron",
+        "stop_lat": 47.21210935,
+        "stop_lon": -1.7270121
+    },
+    {
+        "stop_id": "MCUR",
+        "stop_name": "Madame Curie",
+        "stop_lat": 47.18913046,
+        "stop_lon": -1.55431015
+    },
+    {
+        "stop_id": "MDAR",
+        "stop_name": "Maison des Arts",
+        "stop_lat": 47.211911,
+        "stop_lon": -1.61749986
+    },
+    {
+        "stop_id": "MDEL",
+        "stop_name": "Mandel",
+        "stop_lat": 47.20259358,
+        "stop_lon": -1.53712696
+    },
+    {
+        "stop_id": "MDLA",
+        "stop_name": "Moulin des Landes",
+        "stop_lat": 47.26201252,
+        "stop_lon": -1.48144859
+    },
+    {
+        "stop_id": "MDNE",
+        "stop_name": "Madeleine",
+        "stop_lat": 47.2757847,
+        "stop_lon": -1.483515
+    },
+    {
+        "stop_id": "MDOU",
+        "stop_name": "Mairie de Doulon",
+        "stop_lat": 47.22664991,
+        "stop_lon": -1.5188124
+    },
+    {
+        "stop_id": "MDPO",
+        "stop_name": "Moulin de Porterie",
+        "stop_lat": 47.27577049,
+        "stop_lon": -1.51215323
+    },
+    {
+        "stop_id": "MDRE",
+        "stop_name": "Madoire",
+        "stop_lat": 47.26505485,
+        "stop_lon": -1.63890636
+    },
+    {
+        "stop_id": "MDSI",
+        "stop_name": "Mondésir",
+        "stop_lat": 47.21781799,
+        "stop_lon": -1.56881354
+    },
+    {
+        "stop_id": "MDTH",
+        "stop_name": "Médiathèque",
+        "stop_lat": 47.21109669,
+        "stop_lon": -1.56108622
+    },
+    {
+        "stop_id": "MEDI",
+        "stop_name": "Méditerranée",
+        "stop_lat": 47.27115318,
+        "stop_lon": -1.48508273
+    },
+    {
+        "stop_id": "MELI",
+        "stop_name": "Méliès",
+        "stop_lat": 47.18158427,
+        "stop_lon": -1.55615938
+    },
+    {
+        "stop_id": "META",
+        "stop_name": "Métairie",
+        "stop_lat": 47.21380508,
+        "stop_lon": -1.69841717
+    },
+    {
+        "stop_id": "MGAL",
+        "stop_name": "Marie Galante",
+        "stop_lat": 47.26419564,
+        "stop_lon": -1.45095974
+    },
+    {
+        "stop_id": "MGCH",
+        "stop_name": "Monge - Chauvinière",
+        "stop_lat": 47.25360934,
+        "stop_lon": -1.57437802
+    },
+    {
+        "stop_id": "MGDR",
+        "stop_name": "Mongendrière",
+        "stop_lat": 47.29265614,
+        "stop_lon": -1.5542476
+    },
+    {
+        "stop_id": "MGEL",
+        "stop_name": "Margelle",
+        "stop_lat": 47.27275502,
+        "stop_lon": -1.59419306
+    },
+    {
+        "stop_id": "MGIN",
+        "stop_name": "Mangin",
+        "stop_lat": 47.20157572,
+        "stop_lon": -1.5450247
+    },
+    {
+        "stop_id": "MGLI",
+        "stop_name": "Magnoliers",
+        "stop_lat": 47.2266885,
+        "stop_lon": -1.60514947
+    },
+    {
+        "stop_id": "MGNO",
+        "stop_name": "Mignonnerie",
+        "stop_lat": 47.24320342,
+        "stop_lon": -1.48231155
+    },
+    {
+        "stop_id": "MGUA",
+        "stop_name": "Mainguais",
+        "stop_lat": 47.2826893,
+        "stop_lon": -1.4854843
+    },
+    {
+        "stop_id": "MHDI",
+        "stop_name": "Mahaudières",
+        "stop_lat": 47.18892013,
+        "stop_lon": -1.56042533
+    },
+    {
+        "stop_id": "MHUI",
+        "stop_name": "Moulin à l'Huile",
+        "stop_lat": 47.17697847,
+        "stop_lon": -1.56259427
+    },
+    {
+        "stop_id": "MIAI",
+        "stop_name": "Minais",
+        "stop_lat": 47.25704904,
+        "stop_lon": -1.46613416
+    },
+    {
+        "stop_id": "MICH",
+        "stop_name": "Michelet",
+        "stop_lat": 47.23451194,
+        "stop_lon": -1.5573909
+    },
+    {
+        "stop_id": "MIEA",
+        "stop_name": "Millenia",
+        "stop_lat": 47.12392302,
+        "stop_lon": -1.63047185
+    },
+    {
+        "stop_id": "MIMO",
+        "stop_name": "Mimosas",
+        "stop_lat": 47.24131235,
+        "stop_lon": -1.58760993
+    },
+    {
+        "stop_id": "MIND",
+        "stop_name": "Mairie d'Indre",
+        "stop_lat": 47.20072201,
+        "stop_lon": -1.66828235
+    },
+    {
+        "stop_id": "MITR",
+        "stop_name": "Mitrie",
+        "stop_lat": 47.2278126,
+        "stop_lon": -1.52532451
+    },
+    {
+        "stop_id": "MKSU",
+        "stop_name": "Malakoff",
+        "stop_lat": 47.2164381,
+        "stop_lon": -1.52132434
+    },
+    {
+        "stop_id": "MLAN",
+        "stop_name": "Magellan",
+        "stop_lat": 47.18820355,
+        "stop_lon": -1.46440884
+    },
+    {
+        "stop_id": "MLCH",
+        "stop_name": "Morlachère",
+        "stop_lat": 47.16200253,
+        "stop_lon": -1.48364677
+    },
+    {
+        "stop_id": "MLCS",
+        "stop_name": "Moulin Cassé",
+        "stop_lat": 47.15575719,
+        "stop_lon": -1.70982025
+    },
+    {
+        "stop_id": "MLDR",
+        "stop_name": "Maladrie",
+        "stop_lat": 47.18808116,
+        "stop_lon": -1.49420236
+    },
+    {
+        "stop_id": "MLHE",
+        "stop_name": "Moulin Hérel",
+        "stop_lat": 47.2194317,
+        "stop_lon": -1.63753725
+    },
+    {
+        "stop_id": "MLIN",
+        "stop_name": "Moulin",
+        "stop_lat": 47.18869787,
+        "stop_lon": -1.50367568
+    },
+    {
+        "stop_id": "MLLI",
+        "stop_name": "Mellinet",
+        "stop_lat": 47.21120208,
+        "stop_lon": -1.57567711
+    },
+    {
+        "stop_id": "MLNE",
+        "stop_name": "Moulinets",
+        "stop_lat": 47.20991436,
+        "stop_lon": -1.62897353
+    },
+    {
+        "stop_id": "MLON",
+        "stop_name": "Mulonnière",
+        "stop_lat": 47.26553025,
+        "stop_lon": -1.54995093
+    },
+    {
+        "stop_id": "MLRA",
+        "stop_name": "Malraux",
+        "stop_lat": 47.25439837,
+        "stop_lon": -1.51747206
+    },
+    {
+        "stop_id": "MMSS",
+        "stop_name": "Mermoz",
+        "stop_lat": 47.19876891,
+        "stop_lon": -1.51554456
+    },
+    {
+        "stop_id": "MNEF",
+        "stop_name": "Moulin Neuf",
+        "stop_lat": 47.22979973,
+        "stop_lon": -1.5164876
+    },
+    {
+        "stop_id": "MNFA",
+        "stop_name": "Manufacture",
+        "stop_lat": 47.2186977,
+        "stop_lon": -1.53773253
+    },
+    {
+        "stop_id": "MNIE",
+        "stop_name": "Moulinier",
+        "stop_lat": 47.13542018,
+        "stop_lon": -1.6657614
+    },
+    {
+        "stop_id": "MNOT",
+        "stop_name": "Minoterie",
+        "stop_lat": 47.21682889,
+        "stop_lon": -1.72160645
+    },
+    {
+        "stop_id": "MNSS",
+        "stop_name": "Malnoue",
+        "stop_lat": 47.20329728,
+        "stop_lon": -1.50510792
+    },
+    {
+        "stop_id": "MNTR",
+        "stop_name": "Ménétrier",
+        "stop_lat": 47.24126615,
+        "stop_lon": -1.52382702
+    },
+    {
+        "stop_id": "MNVE",
+        "stop_name": "Maison Neuve",
+        "stop_lat": 47.27473998,
+        "stop_lon": -1.46732416
+    },
+    {
+        "stop_id": "MOCT",
+        "stop_name": "Moulin Collet",
+        "stop_lat": 47.20030957,
+        "stop_lon": -1.76609112
+    },
+    {
+        "stop_id": "MOET",
+        "stop_name": "Mouettes",
+        "stop_lat": 47.21050196,
+        "stop_lon": -1.74226907
+    },
+    {
+        "stop_id": "MOIN",
+        "stop_name": "Moinard",
+        "stop_lat": 47.2133467,
+        "stop_lon": -1.72942086
+    },
+    {
+        "stop_id": "MONE",
+        "stop_name": "Moinet",
+        "stop_lat": 47.26579094,
+        "stop_lon": -1.49252394
+    },
+    {
+        "stop_id": "MORH",
+        "stop_name": "Morrhonnière - Petit Port",
+        "stop_lat": 47.24153989,
+        "stop_lon": -1.55626804
+    },
+    {
+        "stop_id": "MOTE",
+        "stop_name": "Motte Rouge",
+        "stop_lat": 47.22891234,
+        "stop_lon": -1.55355476
+    },
+    {
+        "stop_id": "MOUT",
+        "stop_name": "Moutonnerie",
+        "stop_lat": 47.21955608,
+        "stop_lon": -1.53341505
+    },
+    {
+        "stop_id": "MOVA",
+        "stop_name": "Mairie d'Orvault",
+        "stop_lat": 47.27115286,
+        "stop_lon": -1.62371045
+    },
+    {
+        "stop_id": "MOZI",
+        "stop_name": "Monzie",
+        "stop_lat": 47.20344488,
+        "stop_lon": -1.53993347
+    },
+    {
+        "stop_id": "MPAU",
+        "stop_name": "Marcel Paul",
+        "stop_lat": 47.2458014,
+        "stop_lon": -1.6157193
+    },
+    {
+        "stop_id": "MPER",
+        "stop_name": "Millepertuis",
+        "stop_lat": 47.22198733,
+        "stop_lon": -1.67944144
+    },
+    {
+        "stop_id": "MPMN",
+        "stop_name": "Melpomène",
+        "stop_lat": 47.27757603,
+        "stop_lon": -1.50004475
+    },
+    {
+        "stop_id": "MPTA",
+        "stop_name": "Maison Poitard",
+        "stop_lat": 47.14698519,
+        "stop_lon": -1.64825784
+    },
+    {
+        "stop_id": "MQDI",
+        "stop_name": "Marquis de Dion",
+        "stop_lat": 47.29713845,
+        "stop_lon": -1.48785519
+    },
+    {
+        "stop_id": "MQLI",
+        "stop_name": "Mocquelière",
+        "stop_lat": 47.23327546,
+        "stop_lon": -1.61860733
+    },
+    {
+        "stop_id": "MRAI",
+        "stop_name": "Maraîchers",
+        "stop_lat": 47.18464736,
+        "stop_lon": -1.51054005
+    },
+    {
+        "stop_id": "MRDI",
+        "stop_name": "Maison Radieuse",
+        "stop_lat": 47.18787779,
+        "stop_lon": -1.5663913
+    },
+    {
+        "stop_id": "MREZ",
+        "stop_name": "Mairie de Rezé",
+        "stop_lat": 47.19128907,
+        "stop_lon": -1.56986003
+    },
+    {
+        "stop_id": "MRGE",
+        "stop_name": "Morges",
+        "stop_lat": 47.16497092,
+        "stop_lon": -1.47198795
+    },
+    {
+        "stop_id": "MRIE",
+        "stop_name": "Maurienne",
+        "stop_lat": 47.27533872,
+        "stop_lon": -1.44307679
+    },
+    {
+        "stop_id": "MROT",
+        "stop_name": "Moulin Rothard",
+        "stop_lat": 47.19588722,
+        "stop_lon": -1.74111289
+    },
+    {
+        "stop_id": "MRRI",
+        "stop_name": "Marrière",
+        "stop_lat": 47.23756781,
+        "stop_lon": -1.52539554
+    },
+    {
+        "stop_id": "MRTE",
+        "stop_name": "Marterie",
+        "stop_lat": 47.17844575,
+        "stop_lon": -1.5314777
+    },
+    {
+        "stop_id": "MRZE",
+        "stop_name": "Marzilles",
+        "stop_lat": 47.18272461,
+        "stop_lon": -1.47575822
+    },
+    {
+        "stop_id": "MSHE",
+        "stop_name": "Mairie de St-Herblain",
+        "stop_lat": 47.21088261,
+        "stop_lon": -1.64876308
+    },
+    {
+        "stop_id": "MSLL",
+        "stop_name": "Marseillaise",
+        "stop_lat": 47.20746446,
+        "stop_lon": -1.59192511
+    },
+    {
+        "stop_id": "MSOR",
+        "stop_name": "Mairie des Sorinières",
+        "stop_lat": 47.1488318,
+        "stop_lon": -1.5317461
+    },
+    {
+        "stop_id": "MSSI",
+        "stop_name": "Mississipi",
+        "stop_lat": 47.23705873,
+        "stop_lon": -1.6092927
+    },
+    {
+        "stop_id": "MTEI",
+        "stop_name": "Monteil",
+        "stop_lat": 47.21413456,
+        "stop_lon": -1.54895359
+    },
+    {
+        "stop_id": "MTLI",
+        "stop_name": "Martellière",
+        "stop_lat": 47.19916262,
+        "stop_lon": -1.5264616
+    },
+    {
+        "stop_id": "MTRA",
+        "stop_name": "Mortrais",
+        "stop_lat": 47.12834561,
+        "stop_lon": -1.61636739
+    },
+    {
+        "stop_id": "MTYY",
+        "stop_name": "Monty",
+        "stop_lat": 47.2742349,
+        "stop_lon": -1.43318564
+    },
+    {
+        "stop_id": "MULI",
+        "stop_name": "Mouline",
+        "stop_lat": 47.32354309,
+        "stop_lon": -1.55300563
+    },
+    {
+        "stop_id": "MVAN",
+        "stop_name": "Mortier Vannerie",
+        "stop_lat": 47.18016409,
+        "stop_lon": -1.49943751
+    },
+    {
+        "stop_id": "MVRD",
+        "stop_name": "Monteverdi",
+        "stop_lat": 47.26655885,
+        "stop_lon": -1.4463748
+    },
+    {
+        "stop_id": "MVSI",
+        "stop_name": "Mauvoisins",
+        "stop_lat": 47.19003425,
+        "stop_lon": -1.52552799
+    },
+    {
+        "stop_id": "MZUR",
+        "stop_name": "Mazure",
+        "stop_lat": 47.25798087,
+        "stop_lon": -1.4807294
+    },
+    {
+        "stop_id": "NATL",
+        "stop_name": "Aéroport",
+        "stop_lat": 47.15794554,
+        "stop_lon": -1.60132215
+    },
+    {
+        "stop_id": "NBEL",
+        "stop_name": "Nouveau Bêle",
+        "stop_lat": 47.26871804,
+        "stop_lon": -1.50189773
+    },
+    {
+        "stop_id": "NBLA",
+        "stop_name": "Noé Blanche",
+        "stop_lat": 47.25656666,
+        "stop_lon": -1.50720295
+    },
+    {
+        "stop_id": "NCTE",
+        "stop_name": "Noé Cottée",
+        "stop_lat": 47.19408208,
+        "stop_lon": -1.47862574
+    },
+    {
+        "stop_id": "NDRE",
+        "stop_name": "Naudières",
+        "stop_lat": 47.17312567,
+        "stop_lon": -1.53675174
+    },
+    {
+        "stop_id": "NETR",
+        "stop_name": "Neustrie",
+        "stop_lat": 47.17591416,
+        "stop_lon": -1.59339984
+    },
+    {
+        "stop_id": "NIAG",
+        "stop_name": "Niagara",
+        "stop_lat": 47.30597506,
+        "stop_lon": -1.49337372
+    },
+    {
+        "stop_id": "NILL",
+        "stop_name": "Nil",
+        "stop_lat": 47.24164709,
+        "stop_lon": -1.60752179
+    },
+    {
+        "stop_id": "NIZA",
+        "stop_name": "Nizan",
+        "stop_lat": 47.20579506,
+        "stop_lon": -1.55029613
+    },
+    {
+        "stop_id": "NLBR",
+        "stop_name": "Noë Lambert",
+        "stop_lat": 47.23010017,
+        "stop_lon": -1.52849772
+    },
+    {
+        "stop_id": "NLLA",
+        "stop_name": "Noë Allais",
+        "stop_lat": 47.22034908,
+        "stop_lon": -1.68862739
+    },
+    {
+        "stop_id": "NOAH",
+        "stop_name": "Noë St Jean",
+        "stop_lat": 47.21917869,
+        "stop_lon": -1.73502173
+    },
+    {
+        "stop_id": "NOHH",
+        "stop_name": "North House",
+        "stop_lat": 47.19570054,
+        "stop_lon": -1.57371149
+    },
+    {
+        "stop_id": "NONO",
+        "stop_name": "Noë Nozou",
+        "stop_lat": 47.13023685,
+        "stop_lon": -1.63718873
+    },
+    {
+        "stop_id": "NOSH",
+        "stop_name": "Noëlles",
+        "stop_lat": 47.2403012,
+        "stop_lon": -1.60434235
+    },
+    {
+        "stop_id": "NRCA",
+        "stop_name": "Noë Rocard",
+        "stop_lat": 47.16336555,
+        "stop_lon": -1.4906055
+    },
+    {
+        "stop_id": "NRDA",
+        "stop_name": "Neruda",
+        "stop_lat": 47.21770268,
+        "stop_lon": -1.61387077
+    },
+    {
+        "stop_id": "NVER",
+        "stop_name": "Noue Verrière",
+        "stop_lat": 47.27598037,
+        "stop_lon": -1.57117828
+    },
+    {
+        "stop_id": "OCAN",
+        "stop_name": "Océane",
+        "stop_lat": 47.22754726,
+        "stop_lon": -1.63596515
+    },
+    {
+        "stop_id": "OCEA",
+        "stop_name": "Couëron Océan",
+        "stop_lat": 47.21341719,
+        "stop_lon": -1.73917976
+    },
+    {
+        "stop_id": "OCOR",
+        "stop_name": "Ouche Cormier",
+        "stop_lat": 47.26463543,
+        "stop_lon": -1.62347497
+    },
+    {
+        "stop_id": "ODLA",
+        "stop_name": "Ouche des landes",
+        "stop_lat": 47.19501958,
+        "stop_lon": -1.48284016
+    },
+    {
+        "stop_id": "ODNE",
+        "stop_name": "Ordronneau",
+        "stop_lat": 47.19383903,
+        "stop_lon": -1.57492591
+    },
+    {
+        "stop_id": "OGVA",
+        "stop_name": "Orvault Grand Val",
+        "stop_lat": 47.26296316,
+        "stop_lon": -1.59450234
+    },
+    {
+        "stop_id": "OLIV",
+        "stop_name": "Olivier",
+        "stop_lat": 47.21746962,
+        "stop_lon": -1.72482009
+    },
+    {
+        "stop_id": "OLVE",
+        "stop_name": "Oliveraie",
+        "stop_lat": 47.18796569,
+        "stop_lon": -1.53045998
+    },
+    {
+        "stop_id": "OLYM",
+        "stop_name": "Olympe de Gouges",
+        "stop_lat": 47.30898935,
+        "stop_lon": -1.54466663
+    },
+    {
+        "stop_id": "OMRL",
+        "stop_name": "Orvault Morlière",
+        "stop_lat": 47.24705784,
+        "stop_lon": -1.6034555
+    },
+    {
+        "stop_id": "ONCH",
+        "stop_name": "Onchères",
+        "stop_lat": 47.20270804,
+        "stop_lon": -1.4669746
+    },
+    {
+        "stop_id": "OQNE",
+        "stop_name": "Ouche Quinet",
+        "stop_lat": 47.19600218,
+        "stop_lon": -1.50413238
+    },
+    {
+        "stop_id": "ORNG",
+        "stop_name": "La Chapelle Aulnay",
+        "stop_lat": 47.30851025,
+        "stop_lon": -1.54018924
+    },
+    {
+        "stop_id": "ORVA",
+        "stop_name": "Orvault",
+        "stop_lat": 47.27871075,
+        "stop_lon": -1.6402016
+    },
+    {
+        "stop_id": "OSAN",
+        "stop_name": "Ouessant",
+        "stop_lat": 47.27004095,
+        "stop_lon": -1.44671917
+    },
+    {
+        "stop_id": "OTAG",
+        "stop_name": "50 Otages",
+        "stop_lat": 47.219768,
+        "stop_lon": -1.55563291
+    },
+    {
+        "stop_id": "PABO",
+        "stop_name": "Paix",
+        "stop_lat": 47.18242459,
+        "stop_lon": -1.59241798
+    },
+    {
+        "stop_id": "PACQ",
+        "stop_name": "Parc",
+        "stop_lat": 47.27264258,
+        "stop_lon": -1.48389247
+    },
+    {
+        "stop_id": "PAEB",
+        "stop_name": "Pablée",
+        "stop_lat": 47.21576383,
+        "stop_lon": -1.74014384
+    },
+    {
+        "stop_id": "PAJO",
+        "stop_name": "Petit Anjou",
+        "stop_lat": 47.20582906,
+        "stop_lon": -1.50456545
+    },
+    {
+        "stop_id": "PALL",
+        "stop_name": "Pont Allard",
+        "stop_lat": 47.19678084,
+        "stop_lon": -1.66642936
+    },
+    {
+        "stop_id": "PAMI",
+        "stop_name": "Palmiers",
+        "stop_lat": 47.19002854,
+        "stop_lon": -1.53299779
+    },
+    {
+        "stop_id": "PAON",
+        "stop_name": "Papillons",
+        "stop_lat": 47.14602381,
+        "stop_lon": -1.51906803
+    },
+    {
+        "stop_id": "PAPO",
+        "stop_name": "Parc Potager",
+        "stop_lat": 47.23591597,
+        "stop_lon": -1.5224927
+    },
+    {
+        "stop_id": "PATR",
+        "stop_name": "Patis Rondin",
+        "stop_lat": 47.24774407,
+        "stop_lon": -1.51691834
+    },
+    {
+        "stop_id": "PB1B",
+        "stop_name": "Parc de la Bouvre",
+        "stop_lat": 47.17607798,
+        "stop_lon": -1.614119
+    },
+    {
+        "stop_id": "PBAI",
+        "stop_name": "Parc Bel Air",
+        "stop_lat": 47.17851216,
+        "stop_lon": -1.47464856
+    },
+    {
+        "stop_id": "PBFF",
+        "stop_name": "Paimboeuf",
+        "stop_lat": 47.17660364,
+        "stop_lon": -1.61914048
+    },
+    {
+        "stop_id": "PBLE",
+        "stop_name": "Patis Brûlé",
+        "stop_lat": 47.19926593,
+        "stop_lon": -1.50729755
+    },
+    {
+        "stop_id": "PBOT",
+        "stop_name": "Poulbot",
+        "stop_lat": 47.21405521,
+        "stop_lon": -1.64802648
+    },
+    {
+        "stop_id": "PBRE",
+        "stop_name": "Petit Breton",
+        "stop_lat": 47.21330177,
+        "stop_lon": -1.59937014
+    },
+    {
+        "stop_id": "PBUY",
+        "stop_name": "Pé de Buzay",
+        "stop_lat": 47.20251169,
+        "stop_lon": -1.81645639
+    },
+    {
+        "stop_id": "PBYE",
+        "stop_name": "Port Boyer",
+        "stop_lat": 47.24117365,
+        "stop_lon": -1.53871952
+    },
+    {
+        "stop_id": "PBNV",
+        "stop_name": "Port Boyer",
+        "stop_lat": 47.24200692,
+        "stop_lon": -1.54602336
+    },
+    {
+        "stop_id": "PCBI",
+        "stop_name": "Picabia",
+        "stop_lat": 47.25465387,
+        "stop_lon": -1.57674827
+    },
+    {
+        "stop_id": "PCDI",
+        "stop_name": "Picaudière",
+        "stop_lat": 47.27967119,
+        "stop_lon": -1.48513609
+    },
+    {
+        "stop_id": "PCLO",
+        "stop_name": "Petit Clos",
+        "stop_lat": 47.20528749,
+        "stop_lon": -1.51000057
+    },
+    {
+        "stop_id": "PCNN",
+        "stop_name": "Planchonnais",
+        "stop_lat": 47.25349581,
+        "stop_lon": -1.47473853
+    },
+    {
+        "stop_id": "PCPE",
+        "stop_name": "Porte de La Chapelle",
+        "stop_lat": 47.25932877,
+        "stop_lon": -1.55720231
+    },
+    {
+        "stop_id": "PCRE",
+        "stop_name": "Poincaré",
+        "stop_lat": 47.22278079,
+        "stop_lon": -1.58517693
+    },
+    {
+        "stop_id": "PCSI",
+        "stop_name": "Petite Censive",
+        "stop_lat": 47.26046858,
+        "stop_lon": -1.56105454
+    },
+    {
+        "stop_id": "PCTI",
+        "stop_name": "Petit Chantilly",
+        "stop_lat": 47.2544423,
+        "stop_lon": -1.60066741
+    },
+    {
+        "stop_id": "PCVO",
+        "stop_name": "Pontecorvo",
+        "stop_lat": 47.2461344,
+        "stop_lon": -1.53265908
+    },
+    {
+        "stop_id": "PCZI",
+        "stop_name": "Pont de Chézine",
+        "stop_lat": 47.23806128,
+        "stop_lon": -1.61441856
+    },
+    {
+        "stop_id": "PDAN",
+        "stop_name": "Pas d'Ane",
+        "stop_lat": 47.1813013,
+        "stop_lon": -1.47043113
+    },
+    {
+        "stop_id": "PDCE",
+        "stop_name": "Pont du Cens",
+        "stop_lat": 47.24893386,
+        "stop_lon": -1.57703594
+    },
+    {
+        "stop_id": "PDEA",
+        "stop_name": "Porteurs d'Eau",
+        "stop_lat": 47.27148994,
+        "stop_lon": -1.59767026
+    },
+    {
+        "stop_id": "PDOU",
+        "stop_name": "Porte Douillard",
+        "stop_lat": 47.28949725,
+        "stop_lon": -1.51845663
+    },
+    {
+        "stop_id": "PDPI",
+        "stop_name": "Pomme de Pin",
+        "stop_lat": 47.26711133,
+        "stop_lon": -1.59533142
+    },
+    {
+        "stop_id": "PDUC",
+        "stop_name": "Prairie au Duc",
+        "stop_lat": 47.20424565,
+        "stop_lon": -1.5643485
+    },
+    {
+        "stop_id": "PEDR",
+        "stop_name": "Perdriaux",
+        "stop_lat": 47.16130365,
+        "stop_lon": -1.48570837
+    },
+    {
+        "stop_id": "PEGE",
+        "stop_name": "Pégers",
+        "stop_lat": 47.13756574,
+        "stop_lon": -1.47154333
+    },
+    {
+        "stop_id": "PELO",
+        "stop_name": "Pelousière",
+        "stop_lat": 47.20770127,
+        "stop_lon": -1.64699156
+    },
+    {
+        "stop_id": "PEON",
+        "stop_name": "Perron",
+        "stop_lat": 47.2244231,
+        "stop_lon": -1.6008059
+    },
+    {
+        "stop_id": "PERR",
+        "stop_name": "Perray",
+        "stop_lat": 47.24753547,
+        "stop_lon": -1.51413107
+    },
+    {
+        "stop_id": "PETR",
+        "stop_name": "Pétrels",
+        "stop_lat": 47.25434124,
+        "stop_lon": -1.50706676
+    },
+    {
+        "stop_id": "PFNA",
+        "stop_name": "Purfina",
+        "stop_lat": 47.19458586,
+        "stop_lon": -1.63496554
+    },
+    {
+        "stop_id": "PGRI",
+        "stop_name": "Pagerie",
+        "stop_lat": 47.17867722,
+        "stop_lon": -1.65315714
+    },
+    {
+        "stop_id": "PGTI",
+        "stop_name": "Plinguetière",
+        "stop_lat": 47.13362595,
+        "stop_lon": -1.61313247
+    },
+    {
+        "stop_id": "PHTR",
+        "stop_name": "Parc Chantrerie",
+        "stop_lat": 47.28615181,
+        "stop_lon": -1.52092464
+    },
+    {
+        "stop_id": "PHVE",
+        "stop_name": "Pré Hervé",
+        "stop_lat": 47.24364203,
+        "stop_lon": -1.51760802
+    },
+    {
+        "stop_id": "PIAO",
+        "stop_name": "Piano'cktail",
+        "stop_lat": 47.17481481,
+        "stop_lon": -1.60637767
+    },
+    {
+        "stop_id": "PIBL",
+        "stop_name": "Pierre Blanche",
+        "stop_lat": 47.17203543,
+        "stop_lon": -1.62725386
+    },
+    {
+        "stop_id": "PIPA",
+        "stop_name": "Pipay",
+        "stop_lat": 47.22579664,
+        "stop_lon": -1.53695632
+    },
+    {
+        "stop_id": "PIRM",
+        "stop_name": "Pirmil",
+        "stop_lat": 47.19609738,
+        "stop_lon": -1.54268626
+    },
+    {
+        "stop_id": "PISE",
+        "stop_name": "Pin Sec",
+        "stop_lat": 47.24339597,
+        "stop_lon": -1.51807169
+    },
+    {
+        "stop_id": "PJOU",
+        "stop_name": "Point du Jour",
+        "stop_lat": 47.26489469,
+        "stop_lon": -1.44356868
+    },
+    {
+        "stop_id": "PLAC",
+        "stop_name": "Placis",
+        "stop_lat": 47.19966003,
+        "stop_lon": -1.51986775
+    },
+    {
+        "stop_id": "PLAE",
+        "stop_name": "Planche Etienne",
+        "stop_lat": 47.16588421,
+        "stop_lon": -1.62529688
+    },
+    {
+        "stop_id": "PLBL",
+        "stop_name": "Port la Blanche",
+        "stop_lat": 47.27190215,
+        "stop_lon": -1.51644776
+    },
+    {
+        "stop_id": "PLCL",
+        "stop_name": "Polyclinique",
+        "stop_lat": 47.22798443,
+        "stop_lon": -1.6117596
+    },
+    {
+        "stop_id": "PLES",
+        "stop_name": "Plessis",
+        "stop_lat": 47.30097239,
+        "stop_lon": -1.55241195
+    },
+    {
+        "stop_id": "PLGU",
+        "stop_name": "Pouliguen",
+        "stop_lat": 47.23943362,
+        "stop_lon": -1.54311094
+    },
+    {
+        "stop_id": "PLNA",
+        "stop_name": "Port launay",
+        "stop_lat": 47.20966706,
+        "stop_lon": -1.74623323
+    },
+    {
+        "stop_id": "PLOR",
+        "stop_name": "Ploreau",
+        "stop_lat": 47.30303836,
+        "stop_lon": -1.55190698
+    },
+    {
+        "stop_id": "PLPC",
+        "stop_name": "Place des Pêcheurs",
+        "stop_lat": 47.13636635,
+        "stop_lon": -1.66784775
+    },
+    {
+        "stop_id": "PLSS",
+        "stop_name": "Plessis",
+        "stop_lat": 47.26034286,
+        "stop_lon": -1.66000278
+    },
+    {
+        "stop_id": "PLTI",
+        "stop_name": "Platière",
+        "stop_lat": 47.19454583,
+        "stop_lon": -1.56108865
+    },
+    {
+        "stop_id": "PMAR",
+        "stop_name": "Pont Marchand",
+        "stop_lat": 47.260635,
+        "stop_lon": -1.63127171
+    },
+    {
+        "stop_id": "PMEU",
+        "stop_name": "Port aux Meules",
+        "stop_lat": 47.16542361,
+        "stop_lon": -1.49301343
+    },
+    {
+        "stop_id": "PMTR",
+        "stop_name": "Pont de la Métairie",
+        "stop_lat": 47.26243556,
+        "stop_lon": -1.44597452
+    },
+    {
+        "stop_id": "PMVE",
+        "stop_name": "Prairie de Mauves",
+        "stop_lat": 47.22002746,
+        "stop_lon": -1.51668533
+    },
+    {
+        "stop_id": "PNLU",
+        "stop_name": "Pinier",
+        "stop_lat": 47.2527266,
+        "stop_lon": -1.48165714
+    },
+    {
+        "stop_id": "PNPI",
+        "stop_name": "Pont Pilet",
+        "stop_lat": 47.33946774,
+        "stop_lon": -1.5723325
+    },
+    {
+        "stop_id": "PNRZ",
+        "stop_name": "Pinier",
+        "stop_lat": 47.18269794,
+        "stop_lon": -1.54555296
+    },
+    {
+        "stop_id": "PNTI",
+        "stop_name": "Plantiveau",
+        "stop_lat": 47.24652809,
+        "stop_lon": -1.51147414
+    },
+    {
+        "stop_id": "POEC",
+        "stop_name": "Portechaise",
+        "stop_lat": 47.20060966,
+        "stop_lon": -1.52606786
+    },
+    {
+        "stop_id": "POIT",
+        "stop_name": "Poitou",
+        "stop_lat": 47.22408956,
+        "stop_lon": -1.56521787
+    },
+    {
+        "stop_id": "POLE",
+        "stop_name": "Poulenc",
+        "stop_lat": 47.25537983,
+        "stop_lon": -1.58109813
+    },
+    {
+        "stop_id": "POMM",
+        "stop_name": "Pommeraie",
+        "stop_lat": 47.14569143,
+        "stop_lon": -1.69505174
+    },
+    {
+        "stop_id": "PONT",
+        "stop_name": "Pontereau",
+        "stop_lat": 47.30646398,
+        "stop_lon": -1.37895717
+    },
+    {
+        "stop_id": "POON",
+        "stop_name": "Potiron",
+        "stop_lat": 47.27045471,
+        "stop_lon": -1.51885088
+    },
+    {
+        "stop_id": "POST",
+        "stop_name": "Poste",
+        "stop_lat": 47.29525238,
+        "stop_lon": -1.55409647
+    },
+    {
+        "stop_id": "POTT",
+        "stop_name": "Pottier",
+        "stop_lat": 47.17761741,
+        "stop_lon": -1.62727348
+    },
+    {
+        "stop_id": "POYA",
+        "stop_name": "Poyaux",
+        "stop_lat": 47.16662633,
+        "stop_lon": -1.53110204
+    },
+    {
+        "stop_id": "PPDO",
+        "stop_name": "Pompidou",
+        "stop_lat": 47.2092174,
+        "stop_lon": -1.5282647
+    },
+    {
+        "stop_id": "PPFA",
+        "stop_name": "Petit Port",
+        "stop_lat": 47.24360737,
+        "stop_lon": -1.55737478
+    },
+    {
+        "stop_id": "PPLI",
+        "stop_name": "Peupliers",
+        "stop_lat": 47.1996101,
+        "stop_lon": -1.49566849
+    },
+    {
+        "stop_id": "PPOU",
+        "stop_name": "Pré Poulain",
+        "stop_lat": 47.27201878,
+        "stop_lon": -1.44454493
+    },
+    {
+        "stop_id": "PPSI",
+        "stop_name": "Petit Plessis",
+        "stop_lat": 47.30151645,
+        "stop_lon": -1.38647413
+    },
+    {
+        "stop_id": "PPTR",
+        "stop_name": "Papotière",
+        "stop_lat": 47.24012385,
+        "stop_lon": -1.49684202
+    },
+    {
+        "stop_id": "PPUN",
+        "stop_name": "Petit Port - Facultés",
+        "stop_lat": 47.24307143,
+        "stop_lon": -1.54736236
+    },
+    {
+        "stop_id": "PRCE",
+        "stop_name": "Procé",
+        "stop_lat": 47.22261099,
+        "stop_lon": -1.5817218
+    },
+    {
+        "stop_id": "PRDI",
+        "stop_name": "Praudière",
+        "stop_lat": 47.2573476,
+        "stop_lon": -1.58375459
+    },
+    {
+        "stop_id": "PREU",
+        "stop_name": "Preux",
+        "stop_lat": 47.22150556,
+        "stop_lon": -1.612737
+    },
+    {
+        "stop_id": "PRFO",
+        "stop_name": "Profondine",
+        "stop_lat": 47.19607639,
+        "stop_lon": -1.48844802
+    },
+    {
+        "stop_id": "PRGE",
+        "stop_name": "Portail Rouge",
+        "stop_lat": 47.24438574,
+        "stop_lon": -1.50436203
+    },
+    {
+        "stop_id": "PRHE",
+        "stop_name": "Petit Rocher",
+        "stop_lat": 47.24056485,
+        "stop_lon": -1.47901276
+    },
+    {
+        "stop_id": "PRIM",
+        "stop_name": "Primevères",
+        "stop_lat": 47.22485151,
+        "stop_lon": -1.67292644
+    },
+    {
+        "stop_id": "PRMI",
+        "stop_name": "Pyramide",
+        "stop_lat": 47.20802408,
+        "stop_lon": -1.49262732
+    },
+    {
+        "stop_id": "PRNE",
+        "stop_name": "Perrines",
+        "stop_lat": 47.22762841,
+        "stop_lon": -1.5154599
+    },
+    {
+        "stop_id": "PROU",
+        "stop_name": "Pont Rousseau - Martyrs",
+        "stop_lat": 47.19178095,
+        "stop_lon": -1.54865876
+    },
+    {
+        "stop_id": "PRRI",
+        "stop_name": "Perrières",
+        "stop_lat": 47.30941803,
+        "stop_lon": -1.55213445
+    },
+    {
+        "stop_id": "PRSS",
+        "stop_name": "Pressoir",
+        "stop_lat": 47.12363426,
+        "stop_lon": -1.63901916
+    },
+    {
+        "stop_id": "PRTE",
+        "stop_name": "Portereau",
+        "stop_lat": 47.16825014,
+        "stop_lon": -1.50160574
+    },
+    {
+        "stop_id": "PRUT",
+        "stop_name": "Proutière",
+        "stop_lat": 47.19778933,
+        "stop_lon": -1.78062875
+    },
+    {
+        "stop_id": "PRZE",
+        "stop_name": "Porte de Rezé",
+        "stop_lat": 47.15727632,
+        "stop_lon": -1.54095989
+    },
+    {
+        "stop_id": "PSAU",
+        "stop_name": "Porte de Sautron",
+        "stop_lat": 47.25075097,
+        "stop_lon": -1.61875857
+    },
+    {
+        "stop_id": "PSCE",
+        "stop_name": "Plaisance",
+        "stop_lat": 47.24007584,
+        "stop_lon": -1.59112436
+    },
+    {
+        "stop_id": "PSEV",
+        "stop_name": "Parc de la Sèvre",
+        "stop_lat": 47.16437291,
+        "stop_lon": -1.47922297
+    },
+    {
+        "stop_id": "PSIN",
+        "stop_name": "Pasteur",
+        "stop_lat": 47.20100501,
+        "stop_lon": -1.6786029
+    },
+    {
+        "stop_id": "PSME",
+        "stop_name": "Place St-Méen",
+        "stop_lat": 47.31905411,
+        "stop_lon": -1.34723337
+    },
+    {
+        "stop_id": "PSOR",
+        "stop_name": "Prières",
+        "stop_lat": 47.15039474,
+        "stop_lon": -1.52640105
+    },
+    {
+        "stop_id": "PSPO",
+        "stop_name": "Parc des Sports",
+        "stop_lat": 47.26048815,
+        "stop_lon": -1.44903152
+    },
+    {
+        "stop_id": "PSUD",
+        "stop_name": "Pôle Sud",
+        "stop_lat": 47.18885603,
+        "stop_lon": -1.46985073
+    },
+    {
+        "stop_id": "PTBO",
+        "stop_name": "Petit Bois",
+        "stop_lat": 47.18543623,
+        "stop_lon": -1.6784313
+    },
+    {
+        "stop_id": "PTCH",
+        "stop_name": "Patache",
+        "stop_lat": 47.27094514,
+        "stop_lon": -1.61918524
+    },
+    {
+        "stop_id": "PTEC",
+        "stop_name": "Polytech",
+        "stop_lat": 47.28072041,
+        "stop_lon": -1.51387821
+    },
+    {
+        "stop_id": "PTGO",
+        "stop_name": "Poitou",
+        "stop_lat": 47.2097897,
+        "stop_lon": -1.46918162
+    },
+    {
+        "stop_id": "PTIS",
+        "stop_name": "Plessis Tison",
+        "stop_lat": 47.23657285,
+        "stop_lon": -1.5336335
+    },
+    {
+        "stop_id": "PTLA",
+        "stop_name": "CES Petite Lande",
+        "stop_lat": 47.17778377,
+        "stop_lon": -1.55012242
+    },
+    {
+        "stop_id": "PTNE",
+        "stop_name": "Platanes",
+        "stop_lat": 47.24528935,
+        "stop_lon": -1.52514381
+    },
+    {
+        "stop_id": "PTON",
+        "stop_name": "Portillon",
+        "stop_lat": 47.14929216,
+        "stop_lon": -1.46906198
+    },
+    {
+        "stop_id": "PTPS",
+        "stop_name": "Printemps",
+        "stop_lat": 47.18848044,
+        "stop_lon": -1.50028186
+    },
+    {
+        "stop_id": "PTQQ",
+        "stop_name": "Portricq",
+        "stop_lat": 47.26511636,
+        "stop_lon": -1.52125751
+    },
+    {
+        "stop_id": "PTRE",
+        "stop_name": "Portereau",
+        "stop_lat": 47.19209512,
+        "stop_lon": -1.47585618
+    },
+    {
+        "stop_id": "PTRI",
+        "stop_name": "Patouillerie",
+        "stop_lat": 47.24544743,
+        "stop_lon": -1.58074734
+    },
+    {
+        "stop_id": "PTSC",
+        "stop_name": "Petits Champs Blancs",
+        "stop_lat": 47.28107227,
+        "stop_lon": -1.42011911
+    },
+    {
+        "stop_id": "PTUR",
+        "stop_name": "Pâtures",
+        "stop_lat": 47.30394147,
+        "stop_lon": -1.55656325
+    },
+    {
+        "stop_id": "PTVI",
+        "stop_name": "Patis Viaud",
+        "stop_lat": 47.13860338,
+        "stop_lon": -1.45757987
+    },
+    {
+        "stop_id": "PTYY",
+        "stop_name": "Planty",
+        "stop_lat": 47.17527972,
+        "stop_lon": -1.49489788
+    },
+    {
+        "stop_id": "PUCH",
+        "stop_name": "Pluchets",
+        "stop_lat": 47.21860733,
+        "stop_lon": -1.65448524
+    },
+    {
+        "stop_id": "PVIL",
+        "stop_name": "Petit Village",
+        "stop_lat": 47.21701936,
+        "stop_lon": -1.6504259
+    },
+    {
+        "stop_id": "PVLO",
+        "stop_name": "Pavillon",
+        "stop_lat": 47.14360573,
+        "stop_lon": -1.67929774
+    },
+    {
+        "stop_id": "PVTO",
+        "stop_name": "Porte de Vertou",
+        "stop_lat": 47.18113532,
+        "stop_lon": -1.50569592
+    },
+    {
+        "stop_id": "PXCE",
+        "stop_name": "Port aux Cerises",
+        "stop_lat": 47.3118084,
+        "stop_lon": -1.54131459
+    },
+    {
+        "stop_id": "QANT",
+        "stop_name": "Quai des Antilles",
+        "stop_lat": 47.20370768,
+        "stop_lon": -1.56948729
+    },
+    {
+        "stop_id": "QBNA",
+        "stop_name": "Quai Brunais",
+        "stop_lat": 47.19614364,
+        "stop_lon": -1.66872074
+    },
+    {
+        "stop_id": "QSCO",
+        "stop_name": "Quai Surcouf",
+        "stop_lat": 47.19485573,
+        "stop_lon": -1.57787423
+    },
+    {
+        "stop_id": "QTNE",
+        "stop_name": "Quintaine",
+        "stop_lat": 47.21669592,
+        "stop_lon": -1.46245832
+    },
+    {
+        "stop_id": "RABI",
+        "stop_name": "Rabine",
+        "stop_lat": 47.26111004,
+        "stop_lon": -1.64378223
+    },
+    {
+        "stop_id": "RAGO",
+        "stop_name": "Ragon",
+        "stop_lat": 47.16515219,
+        "stop_lon": -1.54260646
+    },
+    {
+        "stop_id": "RAVA",
+        "stop_name": "Ravardière",
+        "stop_lat": 47.18381131,
+        "stop_lon": -1.66533531
+    },
+    {
+        "stop_id": "RAZA",
+        "stop_name": "Ranzay",
+        "stop_lat": 47.25266127,
+        "stop_lon": -1.52892899
+    },
+    {
+        "stop_id": "RBAL",
+        "stop_name": "Roche Ballue",
+        "stop_lat": 47.1794563,
+        "stop_lon": -1.65573184
+    },
+    {
+        "stop_id": "RBHI",
+        "stop_name": "René Bouhier",
+        "stop_lat": 47.20992202,
+        "stop_lon": -1.57135655
+    },
+    {
+        "stop_id": "RBNI",
+        "stop_name": "Robinière",
+        "stop_lat": 47.16364446,
+        "stop_lon": -1.53554305
+    },
+    {
+        "stop_id": "RBRN",
+        "stop_name": "René Bernier",
+        "stop_lat": 47.19383095,
+        "stop_lon": -1.4992873
+    },
+    {
+        "stop_id": "RCAS",
+        "stop_name": "René Cassin",
+        "stop_lat": 47.2648455,
+        "stop_lon": -1.57378312
+    },
+    {
+        "stop_id": "RCER",
+        "stop_name": "Rocher",
+        "stop_lat": 47.21318792,
+        "stop_lon": -1.63949648
+    },
+    {
+        "stop_id": "RCPE",
+        "stop_name": "Route de la Chapelle",
+        "stop_lat": 47.2548833,
+        "stop_lon": -1.57611818
+    },
+    {
+        "stop_id": "RCUU",
+        "stop_name": "Rochu",
+        "stop_lat": 47.21518272,
+        "stop_lon": -1.6664843
+    },
+    {
+        "stop_id": "RDFY",
+        "stop_name": "Raoul Dufy",
+        "stop_lat": 47.2226691,
+        "stop_lon": -1.5996297
+    },
+    {
+        "stop_id": "RDGO",
+        "stop_name": "Radigois",
+        "stop_lat": 47.19299621,
+        "stop_lon": -1.51795401
+    },
+    {
+        "stop_id": "RDIE",
+        "stop_name": "Rouaudière",
+        "stop_lat": 47.29430185,
+        "stop_lon": -1.58441987
+    },
+    {
+        "stop_id": "RDMV",
+        "stop_name": "Rue de Mauves",
+        "stop_lat": 47.27147626,
+        "stop_lon": -1.43280449
+    },
+    {
+        "stop_id": "RDNT",
+        "stop_name": "Rue de Nantes",
+        "stop_lat": 47.15132045,
+        "stop_lon": -1.53426139
+    },
+    {
+        "stop_id": "REDR",
+        "stop_name": "Rédras",
+        "stop_lat": 47.16476032,
+        "stop_lon": -1.50249132
+    },
+    {
+        "stop_id": "REFR",
+        "stop_name": "Réfractaires",
+        "stop_lat": 47.30302925,
+        "stop_lon": -1.54688027
+    },
+    {
+        "stop_id": "RETA",
+        "stop_name": "Retas",
+        "stop_lat": 47.15488605,
+        "stop_lon": -1.53691685
+    },
+    {
+        "stop_id": "REYN",
+        "stop_name": "Reynière",
+        "stop_lat": 47.25575496,
+        "stop_lon": -1.57928151
+    },
+    {
+        "stop_id": "RGNI",
+        "stop_name": "Reigniers",
+        "stop_lat": 47.13723399,
+        "stop_lon": -1.46618745
+    },
+    {
+        "stop_id": "RIND",
+        "stop_name": "Rue d'Indre",
+        "stop_lat": 47.204217,
+        "stop_lon": -1.66410436
+    },
+    {
+        "stop_id": "RLEA",
+        "stop_name": "Rouleaux",
+        "stop_lat": 47.20010418,
+        "stop_lon": -1.46605219
+    },
+    {
+        "stop_id": "RLON",
+        "stop_name": "Rennes - Longchamp",
+        "stop_lat": 47.23863912,
+        "stop_lon": -1.57066471
+    },
+    {
+        "stop_id": "RMAU",
+        "stop_name": "Roche Maurice",
+        "stop_lat": 47.1963408,
+        "stop_lon": -1.6182524
+    },
+    {
+        "stop_id": "RMNE",
+        "stop_name": "Romanet",
+        "stop_lat": 47.21187936,
+        "stop_lon": -1.608858
+    },
+    {
+        "stop_id": "RNAN",
+        "stop_name": "Renan",
+        "stop_lat": 47.216309,
+        "stop_lon": -1.61353784
+    },
+    {
+        "stop_id": "RNDR",
+        "stop_name": "Renardières",
+        "stop_lat": 47.14910684,
+        "stop_lon": -1.60179726
+    },
+    {
+        "stop_id": "RNIE",
+        "stop_name": "Rinière",
+        "stop_lat": 47.12902057,
+        "stop_lon": -1.63597141
+    },
+    {
+        "stop_id": "RNLT",
+        "stop_name": "Renault",
+        "stop_lat": 47.26330519,
+        "stop_lon": -1.49542716
+    },
+    {
+        "stop_id": "RNRE",
+        "stop_name": "Renaudières",
+        "stop_lat": 47.2994802,
+        "stop_lon": -1.50796616
+    },
+    {
+        "stop_id": "RNTI",
+        "stop_name": "Reinetière",
+        "stop_lat": 47.25685535,
+        "stop_lon": -1.49150955
+    },
+    {
+        "stop_id": "ROCA",
+        "stop_name": "Rocade",
+        "stop_lat": 47.16332955,
+        "stop_lon": -1.47436833
+    },
+    {
+        "stop_id": "ROET",
+        "stop_name": "Rouet",
+        "stop_lat": 47.1486198,
+        "stop_lon": -1.52228473
+    },
+    {
+        "stop_id": "ROTY",
+        "stop_name": "Le Roty",
+        "stop_lat": 47.30473353,
+        "stop_lon": -1.54550666
+    },
+    {
+        "stop_id": "ROUS",
+        "stop_name": "Roussière",
+        "stop_lat": 47.29449718,
+        "stop_lon": -1.55296122
+    },
+    {
+        "stop_id": "RPAR",
+        "stop_name": "Rond-Point de Paris",
+        "stop_lat": 47.23402862,
+        "stop_lon": -1.53649997
+    },
+    {
+        "stop_id": "RPBL",
+        "stop_name": "République",
+        "stop_lat": 47.20512291,
+        "stop_lon": -1.55577299
+    },
+    {
+        "stop_id": "RPCH",
+        "stop_name": "Repos de Chasse",
+        "stop_lat": 47.21669619,
+        "stop_lon": -1.59958947
+    },
+    {
+        "stop_id": "RPSI",
+        "stop_name": "Ripossière",
+        "stop_lat": 47.19151299,
+        "stop_lon": -1.53457436
+    },
+    {
+        "stop_id": "RQIO",
+        "stop_name": "Trentemoult Roquios",
+        "stop_lat": 47.19554245,
+        "stop_lon": -1.58220713
+    },
+    {
+        "stop_id": "RREN",
+        "stop_name": "Rond-Point de Rennes",
+        "stop_lat": 47.23314315,
+        "stop_lon": -1.5663068
+    },
+    {
+        "stop_id": "RROL",
+        "stop_name": "Romain Rolland",
+        "stop_lat": 47.20679342,
+        "stop_lon": -1.60987475
+    },
+    {
+        "stop_id": "RSCO",
+        "stop_name": "Robert Scott",
+        "stop_lat": 47.18692832,
+        "stop_lon": -1.45899957
+    },
+    {
+        "stop_id": "RSLI",
+        "stop_name": "Rousselière",
+        "stop_lat": 47.17564052,
+        "stop_lon": -1.51833318
+    },
+    {
+        "stop_id": "RSNB",
+        "stop_name": "Rosenberg",
+        "stop_lat": 47.23568862,
+        "stop_lon": -1.65981468
+    },
+    {
+        "stop_id": "RSRA",
+        "stop_name": "Roseraie",
+        "stop_lat": 47.26060696,
+        "stop_lon": -1.52838433
+    },
+    {
+        "stop_id": "RTPA",
+        "stop_name": "Route de Paris",
+        "stop_lat": 47.26670738,
+        "stop_lon": -1.48580083
+    },
+    {
+        "stop_id": "RTSC",
+        "stop_name": "Recteur Schmitt",
+        "stop_lat": 47.25317113,
+        "stop_lon": -1.55287405
+    },
+    {
+        "stop_id": "RUET",
+        "stop_name": "Ruette",
+        "stop_lat": 47.23348776,
+        "stop_lon": -1.51080036
+    },
+    {
+        "stop_id": "RVAN",
+        "stop_name": "Rond-Point de Vannes",
+        "stop_lat": 47.22996631,
+        "stop_lon": -1.57181485
+    },
+    {
+        "stop_id": "RVDI",
+        "stop_name": "Rivaudière",
+        "stop_lat": 47.22710123,
+        "stop_lon": -1.65034441
+    },
+    {
+        "stop_id": "RVER",
+        "stop_name": "Roches Vertes",
+        "stop_lat": 47.18520873,
+        "stop_lon": -1.52399086
+    },
+    {
+        "stop_id": "RZEE",
+        "stop_name": "Razée",
+        "stop_lat": 47.21494103,
+        "stop_lon": -1.46596863
+    },
+    {
+        "stop_id": "SADU",
+        "stop_name": "Santos Dumont",
+        "stop_lat": 47.25954687,
+        "stop_lon": -1.56668405
+    },
+    {
+        "stop_id": "SAGL",
+        "stop_name": "St-Aignan de Grand Lieu",
+        "stop_lat": 47.12298497,
+        "stop_lon": -1.63468604
+    },
+    {
+        "stop_id": "SAIG",
+        "stop_name": "St-Aignan",
+        "stop_lat": 47.2082226,
+        "stop_lon": -1.5783829
+    },
+    {
+        "stop_id": "SALE",
+        "stop_name": "Salentine",
+        "stop_lat": 47.24848662,
+        "stop_lon": -1.61026837
+    },
+    {
+        "stop_id": "SAOR",
+        "stop_name": "Sables d'Or",
+        "stop_lat": 47.26504668,
+        "stop_lon": -1.45583979
+    },
+    {
+        "stop_id": "SAPI",
+        "stop_name": "Saupin",
+        "stop_lat": 47.18400789,
+        "stop_lon": -1.47565278
+    },
+    {
+        "stop_id": "SATR",
+        "stop_name": "Sautron",
+        "stop_lat": 47.26545283,
+        "stop_lon": -1.68384141
+    },
+    {
+        "stop_id": "SAVA",
+        "stop_name": "Savarières",
+        "stop_lat": 47.20862083,
+        "stop_lon": -1.48968309
+    },
+    {
+        "stop_id": "SBAI",
+        "stop_name": "St-Blaise",
+        "stop_lat": 47.16722795,
+        "stop_lon": -1.46909917
+    },
+    {
+        "stop_id": "SBLL",
+        "stop_name": "Sébilleau",
+        "stop_lat": 47.20485638,
+        "stop_lon": -1.53170173
+    },
+    {
+        "stop_id": "SBSA",
+        "stop_name": "St-Jean-Baptiste de la Salle",
+        "stop_lat": 47.23346567,
+        "stop_lon": -1.55991441
+    },
+    {
+        "stop_id": "SCHW",
+        "stop_name": "Schweitzer",
+        "stop_lat": 47.29472412,
+        "stop_lon": -1.4948824
+    },
+    {
+        "stop_id": "SCLE",
+        "stop_name": "St-Clément",
+        "stop_lat": 47.22212067,
+        "stop_lon": -1.54697817
+    },
+    {
+        "stop_id": "SDAV",
+        "stop_name": "Square Daviais",
+        "stop_lat": 47.21157725,
+        "stop_lon": -1.5575815
+    },
+    {
+        "stop_id": "SDON",
+        "stop_name": "St-Donatien",
+        "stop_lat": 47.22891279,
+        "stop_lon": -1.54089736
+    },
+    {
+        "stop_id": "SECH",
+        "stop_name": "Schoelcher",
+        "stop_lat": 47.22061878,
+        "stop_lon": -1.62817662
+    },
+    {
+        "stop_id": "SEIL",
+        "stop_name": "Seil",
+        "stop_lat": 47.19434129,
+        "stop_lon": -1.57074217
+    },
+    {
+        "stop_id": "SERC",
+        "stop_name": "Sercel",
+        "stop_lat": 47.2668409,
+        "stop_lon": -1.48948857
+    },
+    {
+        "stop_id": "SEVR",
+        "stop_name": "Sèvres",
+        "stop_lat": 47.1860737,
+        "stop_lon": -1.52723055
+    },
+    {
+        "stop_id": "SFEL",
+        "stop_name": "St-Félix",
+        "stop_lat": 47.23154179,
+        "stop_lon": -1.55639716
+    },
+    {
+        "stop_id": "SFRA",
+        "stop_name": "San Francisco",
+        "stop_lat": 47.21769021,
+        "stop_lon": -1.51647205
+    },
+    {
+        "stop_id": "SGRA",
+        "stop_name": "Sageran",
+        "stop_lat": 47.21952906,
+        "stop_lon": -1.57118451
+    },
+    {
+        "stop_id": "SHMD",
+        "stop_name": "St-Hermeland",
+        "stop_lat": 47.14424919,
+        "stop_lon": -1.69605748
+    },
+    {
+        "stop_id": "SILL",
+        "stop_name": "Sillon de Bretagne",
+        "stop_lat": 47.24554784,
+        "stop_lon": -1.60849996
+    },
+    {
+        "stop_id": "SINI",
+        "stop_name": "Sinière",
+        "stop_lat": 47.22569653,
+        "stop_lon": -1.67781328
+    },
+    {
+        "stop_id": "SJAC",
+        "stop_name": "St-Jacques",
+        "stop_lat": 47.19390885,
+        "stop_lon": -1.5376255
+    },
+    {
+        "stop_id": "SJBO",
+        "stop_name": "St-Jean-de-Boiseau",
+        "stop_lat": 47.19581382,
+        "stop_lon": -1.72490916
+    },
+    {
+        "stop_id": "SJEA",
+        "stop_name": "St-Jean",
+        "stop_lat": 47.19173674,
+        "stop_lon": -1.52363987
+    },
+    {
+        "stop_id": "SJPO",
+        "stop_name": "St-Joseph de Porterie",
+        "stop_lat": 47.26782991,
+        "stop_lon": -1.51702879
+    },
+    {
+        "stop_id": "SLAU",
+        "stop_name": "St-Laurent",
+        "stop_lat": 47.22304488,
+        "stop_lon": -1.59727625
+    },
+    {
+        "stop_id": "SLCE",
+        "stop_name": "Ste-Luce",
+        "stop_lat": 47.25034078,
+        "stop_lon": -1.4848953
+    },
+    {
+        "stop_id": "SLDA",
+        "stop_name": "Solidarité",
+        "stop_lat": 47.21716363,
+        "stop_lon": -1.58746721
+    },
+    {
+        "stop_id": "SLEN",
+        "stop_name": "Suzanne Lenglen",
+        "stop_lat": 47.22902289,
+        "stop_lon": -1.58820901
+    },
+    {
+        "stop_id": "SLGE",
+        "stop_name": "Salorges",
+        "stop_lat": 47.20473367,
+        "stop_lon": -1.57500596
+    },
+    {
+        "stop_id": "SLVI",
+        "stop_name": "St-Léger-les-Vignes",
+        "stop_lat": 47.13650462,
+        "stop_lon": -1.73016715
+    },
+    {
+        "stop_id": "SMAR",
+        "stop_name": "St-Martin",
+        "stop_lat": 47.21339353,
+        "stop_lon": -1.6930349
+    },
+    {
+        "stop_id": "SMHI",
+        "stop_name": "St-Mihiel",
+        "stop_lat": 47.22350128,
+        "stop_lon": -1.55339129
+    },
+    {
+        "stop_id": "SMIC",
+        "stop_name": "St-Michel",
+        "stop_lat": 47.22412469,
+        "stop_lon": -1.64457606
+    },
+    {
+        "stop_id": "SNIC",
+        "stop_name": "St-Nicolas",
+        "stop_lat": 47.2155727,
+        "stop_lon": -1.56045659
+    },
+    {
+        "stop_id": "SNUC",
+        "stop_name": "Stade SNUC",
+        "stop_lat": 47.22802113,
+        "stop_lon": -1.58069543
+    },
+    {
+        "stop_id": "SOCH",
+        "stop_name": "Souchais",
+        "stop_lat": 47.30772568,
+        "stop_lon": -1.48952165
+    },
+    {
+        "stop_id": "SOEC",
+        "stop_name": "Souchais École",
+        "stop_lat": 47.30363818,
+        "stop_lon": -1.49835918
+    },
+    {
+        "stop_id": "SORI",
+        "stop_name": "Sorin",
+        "stop_lat": 47.19532813,
+        "stop_lon": -1.56785562
+    },
+    {
+        "stop_id": "SOUI",
+        "stop_name": "Souillarderie",
+        "stop_lat": 47.2381248,
+        "stop_lon": -1.51604271
+    },
+    {
+        "stop_id": "SOWE",
+        "stop_name": "Soweto",
+        "stop_lat": 47.23330119,
+        "stop_lon": -1.65163707
+    },
+    {
+        "stop_id": "SPHI",
+        "stop_name": "Saphirs",
+        "stop_lat": 47.20490914,
+        "stop_lon": -1.65791502
+    },
+    {
+        "stop_id": "SPIN",
+        "stop_name": "Saupin",
+        "stop_lat": 47.21421066,
+        "stop_lon": -1.53741025
+    },
+    {
+        "stop_id": "SPLO",
+        "stop_name": "Ste-Philomène",
+        "stop_lat": 47.21191661,
+        "stop_lon": -1.72471184
+    },
+    {
+        "stop_id": "SPRU",
+        "stop_name": "Sully Prudhomme",
+        "stop_lat": 47.23608056,
+        "stop_lon": -1.59656228
+    },
+    {
+        "stop_id": "SPSA",
+        "stop_name": "St-Paul - Salengro",
+        "stop_lat": 47.18533965,
+        "stop_lon": -1.54627299
+    },
+    {
+        "stop_id": "SRDI",
+        "stop_name": "Sarradin",
+        "stop_lat": 47.22054098,
+        "stop_lon": -1.57016116
+    },
+    {
+        "stop_id": "SRNI",
+        "stop_name": "Les Sorinières",
+        "stop_lat": 47.15912062,
+        "stop_lon": -1.51811864
+    },
+    {
+        "stop_id": "SRTR",
+        "stop_name": "Sartre",
+        "stop_lat": 47.21425401,
+        "stop_lon": -1.64021155
+    },
+    {
+        "stop_id": "SSEB",
+        "stop_name": "St-Sébastien",
+        "stop_lat": 47.20751919,
+        "stop_lon": -1.50290124
+    },
+    {
+        "stop_id": "SSGN",
+        "stop_name": "Simone Signoret",
+        "stop_lat": 47.17509653,
+        "stop_lon": -1.56356412
+    },
+    {
+        "stop_id": "SSTA",
+        "stop_name": "St-Stanislas",
+        "stop_lat": 47.22221355,
+        "stop_lon": -1.55658556
+    },
+    {
+        "stop_id": "STBS",
+        "stop_name": "Stade",
+        "stop_lat": 47.19128888,
+        "stop_lon": -1.70794766
+    },
+    {
+        "stop_id": "STHR",
+        "stop_name": "Alexandre Vincent - Ste-Thérèse",
+        "stop_lat": 47.23268964,
+        "stop_lon": -1.577319
+    },
+    {
+        "stop_id": "STPI",
+        "stop_name": "St-Pierre",
+        "stop_lat": 47.21813713,
+        "stop_lon": -1.5519437
+    },
+    {
+        "stop_id": "STXU",
+        "stop_name": "St-Exupéry",
+        "stop_lat": 47.15282524,
+        "stop_lon": -1.59480732
+    },
+    {
+        "stop_id": "SUCO",
+        "stop_name": "Surcouf",
+        "stop_lat": 47.26883011,
+        "stop_lon": -1.44582637
+    },
+    {
+        "stop_id": "SVAU",
+        "stop_name": "Savaudière",
+        "stop_lat": 47.28929766,
+        "stop_lon": -1.51480478
+    },
+    {
+        "stop_id": "SVDI",
+        "stop_name": "Solvardière",
+        "stop_lat": 47.21812989,
+        "stop_lon": -1.64190497
+    },
+    {
+        "stop_id": "SVIN",
+        "stop_name": "Stévin",
+        "stop_lat": 47.26006192,
+        "stop_lon": -1.63431451
+    },
+    {
+        "stop_id": "SVNN",
+        "stop_name": "Savonnières",
+        "stop_lat": 47.19751105,
+        "stop_lon": -1.66285904
+    },
+    {
+        "stop_id": "SYRM",
+        "stop_name": "Syrma",
+        "stop_lat": 47.27691233,
+        "stop_lon": -1.47059786
+    },
+    {
+        "stop_id": "TADI",
+        "stop_name": "Taillandier",
+        "stop_lat": 47.21425011,
+        "stop_lon": -1.71656179
+    },
+    {
+        "stop_id": "TAID",
+        "stop_name": "Toutes Aides",
+        "stop_lat": 47.22647329,
+        "stop_lon": -1.52347072
+    },
+    {
+        "stop_id": "TBAU",
+        "stop_name": "Thébaudières",
+        "stop_lat": 47.31063395,
+        "stop_lon": -1.35899287
+    },
+    {
+        "stop_id": "TBCH",
+        "stop_name": "Trébuchet",
+        "stop_lat": 47.2198078,
+        "stop_lon": -1.54561388
+    },
+    {
+        "stop_id": "TBER",
+        "stop_name": "Tristan Bernard",
+        "stop_lat": 47.2057874,
+        "stop_lon": -1.46481466
+    },
+    {
+        "stop_id": "TBLY",
+        "stop_name": "Tabarly",
+        "stop_lat": 47.19550964,
+        "stop_lon": -1.54890169
+    },
+    {
+        "stop_id": "TCHE",
+        "stop_name": "Trois Chênes",
+        "stop_lat": 47.25819923,
+        "stop_lon": -1.47415315
+    },
+    {
+        "stop_id": "TDGA",
+        "stop_name": "Tredégar",
+        "stop_lat": 47.25472192,
+        "stop_lon": -1.60366184
+    },
+    {
+        "stop_id": "TEBS",
+        "stop_name": "Tertre",
+        "stop_lat": 47.19668838,
+        "stop_lon": -1.74451091
+    },
+    {
+        "stop_id": "TEIF",
+        "stop_name": "Tour Eiffel",
+        "stop_lat": 47.19957624,
+        "stop_lon": -1.75423909
+    },
+    {
+        "stop_id": "TENA",
+        "stop_name": "Tertre",
+        "stop_lat": 47.2147524,
+        "stop_lon": -1.60831111
+    },
+    {
+        "stop_id": "TERR",
+        "stop_name": "Terray",
+        "stop_lat": 47.25184554,
+        "stop_lon": -1.52730916
+    },
+    {
+        "stop_id": "THAT",
+        "stop_name": "Théatre",
+        "stop_lat": 47.21632528,
+        "stop_lon": -1.72866232
+    },
+    {
+        "stop_id": "THCE",
+        "stop_name": "Centre de Thouaré",
+        "stop_lat": 47.26656282,
+        "stop_lon": -1.44136206
+    },
+    {
+        "stop_id": "THEB",
+        "stop_name": "Thébaudières",
+        "stop_lat": 47.24440559,
+        "stop_lon": -1.60637221
+    },
+    {
+        "stop_id": "TILL",
+        "stop_name": "Tillay",
+        "stop_lat": 47.2287764,
+        "stop_lon": -1.60622627
+    },
+    {
+        "stop_id": "TJOI",
+        "stop_name": "Toutes Joies",
+        "stop_lat": 47.22110137,
+        "stop_lon": -1.57297174
+    },
+    {
+        "stop_id": "TLDI",
+        "stop_name": "Télindière",
+        "stop_lat": 47.19612667,
+        "stop_lon": -1.73701846
+    },
+    {
+        "stop_id": "TLSA",
+        "stop_name": "Talensac",
+        "stop_lat": 47.22152613,
+        "stop_lon": -1.55603184
+    },
+    {
+        "stop_id": "TMET",
+        "stop_name": "Trois Métairies",
+        "stop_lat": 47.17637454,
+        "stop_lon": -1.50156206
+    },
+    {
+        "stop_id": "TMLI",
+        "stop_name": "Tourmaline",
+        "stop_lat": 47.22150673,
+        "stop_lon": -1.63278645
+    },
+    {
+        "stop_id": "TMOU",
+        "stop_name": "Trois Moulins",
+        "stop_lat": 47.17809121,
+        "stop_lon": -1.54421104
+    },
+    {
+        "stop_id": "TMSS",
+        "stop_name": "Trémissinière",
+        "stop_lat": 47.23813849,
+        "stop_lon": -1.54439495
+    },
+    {
+        "stop_id": "TNVA",
+        "stop_name": "Terres Neuvas",
+        "stop_lat": 47.18589527,
+        "stop_lon": -1.59137929
+    },
+    {
+        "stop_id": "TOSC",
+        "stop_name": "Toscane",
+        "stop_lat": 47.28325066,
+        "stop_lon": -1.54836778
+    },
+    {
+        "stop_id": "TOTR",
+        "stop_name": "Tortière",
+        "stop_lat": 47.23528367,
+        "stop_lon": -1.54965441
+    },
+    {
+        "stop_id": "TOUG",
+        "stop_name": "Tougas",
+        "stop_lat": 47.19417211,
+        "stop_lon": -1.63964834
+    },
+    {
+        "stop_id": "TPCH",
+        "stop_name": "Terpsichore",
+        "stop_lat": 47.28240769,
+        "stop_lon": -1.50232396
+    },
+    {
+        "stop_id": "TPOD",
+        "stop_name": "Tripode",
+        "stop_lat": 47.20818082,
+        "stop_lon": -1.54062154
+    },
+    {
+        "stop_id": "TRCA",
+        "stop_name": "Tréca",
+        "stop_lat": 47.25023231,
+        "stop_lon": -1.50139595
+    },
+    {
+        "stop_id": "TRIA",
+        "stop_name": "Trianon",
+        "stop_lat": 47.27323928,
+        "stop_lon": -1.43047033
+    },
+    {
+        "stop_id": "TRNE",
+        "stop_name": "Tribunes",
+        "stop_lat": 47.2491223,
+        "stop_lon": -1.56852876
+    },
+    {
+        "stop_id": "TROC",
+        "stop_name": "Trocardière",
+        "stop_lat": 47.18322818,
+        "stop_lon": -1.57027848
+    },
+    {
+        "stop_id": "TRQU",
+        "stop_name": "Terres Quartières",
+        "stop_lat": 47.13475509,
+        "stop_lon": -1.65911052
+    },
+    {
+        "stop_id": "TRTS",
+        "stop_name": "Tarentaise",
+        "stop_lat": 47.27739769,
+        "stop_lon": -1.43406907
+    },
+    {
+        "stop_id": "TTMO",
+        "stop_name": "Trentemoult",
+        "stop_lat": 47.19185759,
+        "stop_lon": -1.58199944
+    },
+    {
+        "stop_id": "TZEL",
+        "stop_name": "Touzelles",
+        "stop_lat": 47.20834245,
+        "stop_lon": -1.46688875
+    },
+    {
+        "stop_id": "UBRU",
+        "stop_name": "Usine Brûlée",
+        "stop_lat": 47.19496069,
+        "stop_lon": -1.63203466
+    },
+    {
+        "stop_id": "UGAZ",
+        "stop_name": "Usine à gaz",
+        "stop_lat": 47.19460515,
+        "stop_lon": -1.62045512
+    },
+    {
+        "stop_id": "UTCH",
+        "stop_name": "Utrecht",
+        "stop_lat": 47.28311814,
+        "stop_lon": -1.5521951
+    },
+    {
+        "stop_id": "UTLO",
+        "stop_name": "Utrillo",
+        "stop_lat": 47.1823707,
+        "stop_lon": -1.56339654
+    },
+    {
+        "stop_id": "VAIL",
+        "stop_name": "Vaillant",
+        "stop_lat": 47.19955918,
+        "stop_lon": -1.67102747
+    },
+    {
+        "stop_id": "VALL",
+        "stop_name": "Vallée",
+        "stop_lat": 47.25084294,
+        "stop_lon": -1.57662145
+    },
+    {
+        "stop_id": "VARI",
+        "stop_name": "Vincent Auriol",
+        "stop_lat": 47.22180531,
+        "stop_lon": -1.59234502
+    },
+    {
+        "stop_id": "VCSO",
+        "stop_name": "Vaucanson",
+        "stop_lat": 47.21288937,
+        "stop_lon": -1.58152667
+    },
+    {
+        "stop_id": "VDCE",
+        "stop_name": "Val du Cens",
+        "stop_lat": 47.26107161,
+        "stop_lon": -1.66511809
+    },
+    {
+        "stop_id": "VDLO",
+        "stop_name": "Vieux Doulon",
+        "stop_lat": 47.23543282,
+        "stop_lon": -1.5040298
+    },
+    {
+        "stop_id": "VDNI",
+        "stop_name": "Ville au Denis",
+        "stop_lat": 47.16275335,
+        "stop_lon": -1.62704885
+    },
+    {
+        "stop_id": "VDUR",
+        "stop_name": "Verdure",
+        "stop_lat": 47.19589733,
+        "stop_lon": -1.65347091
+    },
+    {
+        "stop_id": "VEAG",
+        "stop_name": "Véga",
+        "stop_lat": 47.28002103,
+        "stop_lon": -1.46358168
+    },
+    {
+        "stop_id": "VEGE",
+        "stop_name": "Verger",
+        "stop_lat": 47.29310263,
+        "stop_lon": -1.49706413
+    },
+    {
+        "stop_id": "VEIE",
+        "stop_name": "Verrière",
+        "stop_lat": 47.27687581,
+        "stop_lon": -1.57048148
+    },
+    {
+        "stop_id": "VEND",
+        "stop_name": "Vendée",
+        "stop_lat": 47.2082524,
+        "stop_lon": -1.46860707
+    },
+    {
+        "stop_id": "VEPR",
+        "stop_name": "Vesprées",
+        "stop_lat": 47.24605605,
+        "stop_lon": -1.50223626
+    },
+    {
+        "stop_id": "VERL",
+        "stop_name": "Verlaine",
+        "stop_lat": 47.23327621,
+        "stop_lon": -1.59454443
+    },
+    {
+        "stop_id": "VEXP",
+        "stop_name": "Village Expo",
+        "stop_lat": 47.21466281,
+        "stop_lon": -1.61513213
+    },
+    {
+        "stop_id": "VFOU",
+        "stop_name": "Vieux Four",
+        "stop_lat": 47.19088259,
+        "stop_lon": -1.70088845
+    },
+    {
+        "stop_id": "VGAC",
+        "stop_name": "Vincent Gâche",
+        "stop_lat": 47.20634369,
+        "stop_lon": -1.54820945
+    },
+    {
+        "stop_id": "VIAR",
+        "stop_name": "Viarme-Talensac",
+        "stop_lat": 47.22120689,
+        "stop_lon": -1.56262533
+    },
+    {
+        "stop_id": "VIER",
+        "stop_name": "Viv'Erdre",
+        "stop_lat": 47.28563361,
+        "stop_lon": -1.55037822
+    },
+    {
+        "stop_id": "VILE",
+        "stop_name": "Violettes",
+        "stop_lat": 47.19746803,
+        "stop_lon": -1.50924697
+    },
+    {
+        "stop_id": "VINE",
+        "stop_name": "Villeneuve",
+        "stop_lat": 47.19414521,
+        "stop_lon": -1.51322056
+    },
+    {
+        "stop_id": "VISO",
+        "stop_name": "Vison",
+        "stop_lat": 47.24425268,
+        "stop_lon": -1.50970482
+    },
+    {
+        "stop_id": "VIVI",
+        "stop_name": "Viviers",
+        "stop_lat": 47.17307675,
+        "stop_lon": -1.4848965
+    },
+    {
+        "stop_id": "VRIE",
+        "stop_name": "Vrière",
+        "stop_lat": 47.28218794,
+        "stop_lon": -1.5561165
+    },
+    {
+        "stop_id": "VRPD",
+        "stop_name": "Vert Praud",
+        "stop_lat": 47.16650994,
+        "stop_lon": -1.5498311
+    },
+    {
+        "stop_id": "VSCO",
+        "stop_name": "Vincent Scotto",
+        "stop_lat": 47.25209006,
+        "stop_lon": -1.56629176
+    },
+    {
+        "stop_id": "DPVT",
+        "stop_name": "Vertonne",
+        "stop_lat": 47.18698281,
+        "stop_lon": -1.49432457
+    },
+    {
+        "stop_id": "VTOU",
+        "stop_name": "Vertou",
+        "stop_lat": 47.16904084,
+        "stop_lon": -1.47117202
+    },
+    {
+        "stop_id": "VVRE",
+        "stop_name": "Vièvre",
+        "stop_lat": 47.1980557,
+        "stop_lon": -1.81437125
+    },
+    {
+        "stop_id": "WATT",
+        "stop_name": "Wattignies",
+        "stop_lat": 47.20379747,
+        "stop_lon": -1.54642021
+    },
+    {
+        "stop_id": "WBDT",
+        "stop_name": "Willy Brandt",
+        "stop_lat": 47.17291989,
+        "stop_lon": -1.56315593
+    },
+    {
+        "stop_id": "WDIS",
+        "stop_name": "Walt Disney",
+        "stop_lat": 47.19494093,
+        "stop_lon": -1.48998681
+    },
+    {
+        "stop_id": "XBON",
+        "stop_name": "Croix Bonneau",
+        "stop_lat": 47.20964339,
+        "stop_lon": -1.59580189
+    },
+    {
+        "stop_id": "XJAN",
+        "stop_name": "Croix Jeannette",
+        "stop_lat": 47.17156865,
+        "stop_lon": -1.62390925
+    },
+    {
+        "stop_id": "XREZ",
+        "stop_name": "Croix de Rezé",
+        "stop_lat": 47.18005941,
+        "stop_lon": -1.55903662
+    },
+    {
+        "stop_id": "XSYY",
+        "stop_name": "Croisy",
+        "stop_lat": 47.25378864,
+        "stop_lon": -1.62729497
+    },
+    {
+        "stop_id": "XTRU",
+        "stop_name": "Croix Truin",
+        "stop_lat": 47.1913404,
+        "stop_lon": -1.7117374
+    },
+    {
+        "stop_id": "ZENI",
+        "stop_name": "Zénith",
+        "stop_lat": 47.2306218,
+        "stop_lon": -1.62938756
+    },
+    {
+        "stop_id": "ZOLA",
+        "stop_name": "Zola",
+        "stop_lat": 47.21377298,
+        "stop_lon": -1.58610552
+    }
+]
